@@ -1,34 +1,57 @@
 const express = require('express');
-const { createProxyMiddleware } = require('http-proxy-middleware');
+const axios = require('axios');
 
 const app = express();
 
-// 1. 更新目标站点为新的 HTTPS 地址
-const TARGET_ORIGIN = 'https://cdn.qd.je';
-const DEFAULT_PATH = '/163189/fct2';
+const TARGET_URL = 'https://cdn.qd.je/163189/fct2';
 
-// 2. 当用户直接访问 Render 域名根目录时，自动重定向/重写到新路径
-app.use((req, res, next) => {
-  if (req.url === '/' || req.url === '') {
-    req.url = DEFAULT_PATH;
+// 捕获所有请求
+app.get('*', async (req, res) => {
+  try {
+    // 如果用户访问的是根路径，代理到目标地址；如果带了子路径则拼接
+    const fetchUrl = (req.path === '/' || req.path === '')
+      ? TARGET_URL
+      : `https://cdn.qd.je${req.path}`;
+
+    const response = await axios({
+      method: req.method,
+      url: fetchUrl,
+      headers: {
+        'User-Agent': req.headers['user-agent'] || 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+        'Referer': 'https://cdn.qd.je/',
+        'Accept': '*/*'
+      },
+      // 允许跟随重定向，最多跳转 5 次
+      maxRedirects: 5,
+      // 使用流模式输出，避免大文件或视频流占用内存
+      responseType: 'stream',
+      validateStatus: () => true // 允许所有状态码通过
+    });
+
+    // 允许跨域，方便播放器调用
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Methods', 'GET, HEAD, OPTIONS');
+
+    // 复制源站的内容类型响应头（如 text/plain、application/vnd.apple.mpegurl 等）
+    if (response.headers['content-type']) {
+      res.setHeader('Content-Type', response.headers['content-type']);
+    }
+
+    // 状态码透传
+    res.status(response.status);
+
+    // 将内容以流管道传输给客户端
+    response.data.pipe(res);
+
+  } catch (error) {
+    res.status(502).json({
+      error: 'Proxy Fetch Failed',
+      message: error.message
+    });
   }
-  next();
 });
 
-// 3. 配置反向代理
-app.use('/', createProxyMiddleware({
-  target: TARGET_ORIGIN,
-  changeOrigin: true,
-  secure: false, // 避免目标证书链不严谨引发报错
-  onProxyReq: (proxyReq) => {
-    // 伪装请求头
-    proxyReq.setHeader('Host', 'cdn.qd.je');
-    proxyReq.setHeader('Referer', 'https://cdn.qd.je/');
-  }
-}));
-
-// Render 默认端口兼容
 const PORT = process.env.PORT || 10000;
 app.listen(PORT, () => {
-  console.log(`Proxy listening on port ${PORT}`);
+  console.log(`Server listening on port ${PORT}`);
 });
