@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="YesMoviesAction.il@SD" tvg-logo="https://i.imgur.com/Bgz7p5F.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",[762ms] Yes Movies Action (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fstream.mcquack.net%2F380%2Findex.m3u8
+#EXTINF:-1 tvg-id="Channel13.il@SD" tvg-logo="https://i.imgur.com/eFM3bTq.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",[788ms] Channel 13 (Israel) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fstream.mcquack.net%2F295%2Findex.m3u8
+#EXTINF:-1 tvg-id="Channel24.il@SD" tvg-logo="https://i.imgur.com/WLs67QI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",[809ms] Channel 24 (Israel) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fstream.mcquack.net%2F42%2Findex.m3u8
+#EXTINF:-1 tvg-id="AngelTV.in@Hebrew" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",[813ms] Angel TV Hebrew (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjanya-digimix.akamaized.net%2Fvglive-sk-150533%2Fhebrew%2Fngrp%3Aangelhebrew_all%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="YamTichoni.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png" group-title="Series",[819ms] Yam Tichoni (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fstream.mcquack.net%2F46%2Findex.m3u8
+#EXTINF:-1 tvg-id="Channel16.il@SD" tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/bfbd4781-67a7-437e-8f7e-898a5cbc4ab4.png" group-title="Undefined",[844ms] Channel 16
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fch16israel-cdn.encoders.immergo.tv%2F2%2FstreamPlaylist.m3u8
+#EXTINF:-1 tvg-id="Hop.il@SD" tvg-logo="https://i.imgur.com/bScuilD.png" group-title="Kids",[897ms] Hop! (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fstream.mcquack.net%2F44%2Findex.m3u8
+#EXTINF:-1 tvg-id="ShelanuTV.il@SD" tvg-logo="https://i.imgur.com/UVz2Ojq.png" group-title="Religious",[902ms] Shelanu.TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F1247634592.rsc.cdn77.org%2F1247634592%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="KanEducational.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png" group-title="Education",[975ms] Kan Educational (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fstream.mcquack.net%2F378%2Findex.m3u8
+#EXTINF:-1 tvg-id="HOTZone.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/0/00/HOT_Zone.svg/250px-HOT_Zone.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",[1001ms] HOT Zone (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fstream.mcquack.net%2F379%2Findex.m3u8
+#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="News",[1113ms] i24NEWS French (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fi24newsfrench-cdn.encoders.immergo.tv%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="i24NEWSHebrew.il@SD" tvg-logo="https://www.i24news.tv/images/favicon.png" group-title="News",[1128ms] i24NEWS Hebrew (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fi24newshebrew-cdn.encoders.immergo.tv%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="Keshet12.il@SD" tvg-logo="https://i.imgur.com/fY3eakc.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",[1140ms] Keshet 12 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fstream.mcquack.net%2F294%2Findex.m3u8
+#EXTINF:-1 tvg-id="HOTDrama.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HotNewLogo.svg/250px-HotNewLogo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",[1178ms] HOT Drama (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fstream.mcquack.net%2F381%2Findex.m3u8
+#EXTINF:-1 tvg-id="KnessetChannel.il@SD" tvg-logo="https://i.imgur.com/QXB1jv8.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Legislative",[1307ms] Knesset Channel (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fstream.mcquack.net%2F48%2Findex.m3u8
+#EXTINF:-1 tvg-id="Channel9.il@SD" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="News",[1329ms] Channel 9 (Israel) (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcontact.gostreaming.tv%2FCon-11%2Findex.m3u8
+#EXTINF:-1 tvg-id="i24NEWSArabic.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="News",[1401ms] i24NEWS Arabic (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fi24newsarabic-cdn.encoders.immergo.tv%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="VacationChannel.il@SD" tvg-logo="https://static.g-cdn.app/streams/vacation-channel-il-hd.png" group-title="Entertainment",[1578ms] Vacation Channel
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd1yd8hohnldm33.cloudfront.net%2Fout%2Fv1%2F19dee23c2cc24f689bd4e1288661ee0c%2Findex_2.m3u8
+#EXTINF:-1 tvg-id="RealityChannel.il@SD" tvg-logo="https://static.g-cdn.app/streams/yes-reality-channel-il-hd.png" group-title="Entertainment",[1607ms] Reality Channel
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2dffl3588mvfk.cloudfront.net%2Fout%2Fv1%2Fd8e15050ca4148aab0ee387a5e2eb46b%2Findex_1.m3u8
+#EXTINF:-1 tvg-id="ComedyChannel.il@SD" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc0d8109a18a4db3b585f154d32bd5b1/version/93/width/288/height/153/" group-title="Undefined",[1631ms] Comedy Channel (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd15ds134q59udk.cloudfront.net%2Fout%2Fv1%2Ffbba879221d045598540ee783b140fe2%2Findex.m3u8
+#EXTINF:-1 tvg-id="HalaTV.il@SD" tvg-logo="https://i.imgur.com/028M4Ew.png" group-title="General",[1645ms] Hala TV (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.panet.com%2Fedge%2FhalaTV%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="VivaPremium.il@SD" tvg-logo="https://cdn.epg.one/img2/9055.png" group-title="General",[1880ms] Viva Premium (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fstream.mcquack.net%2F43%2Findex.m3u8
+#EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il@SD" tvg-logo="https://i.imgur.com/VxAHOgr.png" group-title="Religious",[2181ms] Kabbalah for the People Israel (504p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge3.uk.kab.tv%2Flive%2Ftv66-heb-high%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Hidabroot.il@SD" tvg-logo="https://i.imgur.com/CTH4Hu2.png" group-title="Religious",[2318ms] Hidabroot (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.cybercdn.live%2FHidabrootIL%2FLive97%2Fplaylist.m3u8
