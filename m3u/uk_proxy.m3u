@@ -1,231 +1,293 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MovieSphere.us@UK" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",[411ms] MovieSphere UK (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fmoviesphereuk-samsunguk.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Tastemade.us@UK" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="Cooking",[445ms] Tastemade UK (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Ftastemade-tdint-rakuten.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="StarBharat.uk@SD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="Entertainment",[512ms] Star Bharat (576p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fraw.githubusercontent.com%2Famazeyourself%2Fadaptive-streams%2Frefs%2Fheads%2Fmain%2Fstreams%2Fgb%2FYuppTV%2FUtsavBharat.m3u8
-#EXTINF:-1 tvg-id="Teletubbies.uk@SD" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",[581ms] Teletubbies (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fdv8lsrd8fecw9.cloudfront.net%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="UtsavBharat.uk@SD" tvg-logo="https://i.imgur.com/IQ2n0WY.png" group-title="Undefined",[585ms] Utsav Bharat (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fd1taaads3ztvmu.cloudfront.net%2F120723%2Fsmil%3Alifeokuk.smil%2Fplaylist.m3u8%3Fhdnts%3Dst%3D1735898689~exp%3D1835898688~acl%3D%2A~hmac%3Df5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="Nickelodeon.uk@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",[639ms] Nickelodeon (United Kingdom) (576p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2Ftvsen7.aynascope.net%2Fnicklodean%2Findex.m3u8
-#EXTINF:-1 tvg-id="Getfactual.us@UK" tvg-logo="https://i.imgur.com/4oVcjLd.png" group-title="Documentary",[738ms] Get.factual (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fd1nhni5l2n8hjt.cloudfront.net%2Fgf.m3u8
-#EXTINF:-1 tvg-id="NOWRock.uk@SD" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",[791ms] NOW Rock (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Flightning-now90s-samsungnz.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="MTA8America.uk@SD" tvg-logo="https://i.imgur.com/CF6X9wB.png" group-title="Religious",[801ms] MTA8 America (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fchlivemta.akamaized.net%2Fhls%2Flive%2F2016718%2Fmta8%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="WaterBear.ch@SD" tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" group-title="Documentary;Outdoor",[826ms] WaterBear (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Famg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv%2Fplaylist%2Famg01415-waterbearnetwor-waterbear-samsunguk%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at@UK" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Outdoor;Sports",[858ms] Red Bull TV UK (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2F1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com%2Fv1%2Fmaster%2Fba62fe743df0fe93366eba3a257d792884136c7f%2FLINEAR-932-WORBUKENFAST-WHALETVPLUS%2F932%2Fwhaletvplus%2Fhls%2Fmaster%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us@UK" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Sports",[889ms] World Poker Tour UK (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Famg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv%2Fplaylist%2Famg00477-samsungelectron-worldpokertour-samsunguk%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="IranInternational.uk@SD" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="News",[907ms] Iran International (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fhlspackager.akamaized.net%2Flive%2FDB%2FIRAN_INTERNATIONAL%2FHLS%2FIRAN_INTERNATIONAL.m3u8
-#EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr@SD" tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="Music",[911ms] Qwest TV Jazz & Beyond (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fsamsungau-qwestjazz-samsungtv-zw2jc.amagi.tv%2Fplaylist%2Fsamsungau-qwestjazz-samsungtv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="XITEHits.nl@UK" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music",[957ms] XITE Hits UK (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Famg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv%2Fplaylist%2Famg01243-xitenetworksint-hitsuk-samsunguk%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="SheffieldLiveTV.uk@SD" tvg-logo="https://i.imgur.com/p0QzCFs.png" group-title="Undefined",[992ms] Sheffield Live TV (360p) [Not 24/7]
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2Ftv.sheffieldlive.org%2Fhls%2Fmain.m3u8
-#EXTINF:-1 tvg-id="HorseCountryTV.uk@SD" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="Outdoor",[1032ms] Horse & Country TV (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fhnc-free-viewlift.amagi.tv%2FHNC_AUSTRALIA.m3u8
-#EXTINF:-1 tvg-id="MTA5Africa.uk@SD" tvg-logo="https://i.imgur.com/9Cobb2i.png" group-title="Religious",[1033ms] MTA5 Africa (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fchlivemta.akamaized.net%2Fhls%2Flive%2F2010555%2Fmtaafrica2%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",[1034ms] NBC News NOW (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fd1si3n1st4nkgb.cloudfront.net%2F10502%2F88896001%2Fhls%2Fmaster.m3u8%3Fads.xumo_channelId%3D88896001
-#EXTINF:-1 tvg-id="TJC.uk@SD" tvg-logo="https://i.imgur.com/fk5rEje.png" group-title="Shop",[1052ms] TJC (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcdn-shop-lc-01.akamaized.net%2FContent%2FHLS_HLS%2FLive%2Fchannel%28TJCOTT%29%2Findex.m3u8
-#EXTINF:-1 tvg-id="MTA4Africa.uk@SD" tvg-logo="https://i.imgur.com/lmVeQQX.png" group-title="Religious",[1057ms] MTA4 Africa (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fchlivemta.akamaized.net%2Fhls%2Flive%2F2010555%2Fmtaafrica1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="talkSPORT.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png" group-title="Sports",[1075ms] talkSPORT (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Faf7a8b4e.wurl.com%2Fmaster%2Ff36d25e7e52f1ba8d7e56eb859c636563214f541%2FTEctZ2JfdGFsa1NQT1JUX0hMUw%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TalkTV.uk@SD" tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="Undefined",[1084ms] TalkTV (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2F488f4ce4.wurl.com%2Fmaster%2Ff36d25e7e52f1ba8d7e56eb859c636563214f541%2FTEctZ2JfVGFsa19ITFM%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="SoReal.us@UK" tvg-logo="https://i.imgur.com/wZ2uj9d.png" group-title="Lifestyle",[1093ms] So... Real UK (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fall3media-soreal-1-gb.samsung.wurl.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="CNBCUK.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Business;News",[1100ms] CNBC UK (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Famg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="MysteryTV.us@UK" tvg-logo="https://i.imgur.com/K4gwstM.png" group-title="Entertainment",[1112ms] Mystery TV (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Faenetworks-mysterytv-rakuten.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="SangatTV.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Sangat_TV_logo.png" group-title="Undefined",[1148ms] Sangat TV (576p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fmumt06.tangotv.in%2FqYyB8fXVSANGATTV%2Findex.m3u8
-#EXTINF:-1 tvg-id="ATNBanglaUK.uk@SD" tvg-logo="https://i.imgur.com/vFpjggf.png" group-title="General",[1158ms] ATN Bangla UK (576p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fapp.ncare.live%2Fc3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2%2Fatnbanglauk-off.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="MTA6Asia.uk@SD" tvg-logo="https://i.imgur.com/nhCNPJI.png" group-title="Religious",[1164ms] MTA6 Asia (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Flivemtaasia.akamaized.net%2Fhls%2Flive%2F2039224%2Fmta6asia%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlusWomen.uk@English" tvg-logo="https://i.imgur.com/xy9ZxVO.png" group-title="Sports",[1171ms] FIFA+ Women (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcffda8ff.wurl.com%2Fmaster%2Ff36d25e7e52f1ba8d7e56eb859c636563214f541%2FU2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="KNMusicTV.az@SD" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" group-title="Music",[1175ms] KN Music TV
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcdn4.yayin.com.tr%2Fkntv%2Ftracks-v1a1%2Fmono.m3u8
-#EXTINF:-1 tvg-id="QVCExtra.uk@SD" tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="Shop",[1188ms] QVC Extra (540p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fqvcuk-live.akamaized.net%2Fhls%2Flive%2F2097112%2Fqex%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="Foodxp.uk@SD" tvg-logo="https://i.imgur.com/zOWog5j.png" http-referrer="https://bhoomtv.org/" http-user-agent="Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Cooking",[1188ms] Foodxp (1080p)
+#EXTINF:-1 tvg-id="UtsavBharat.uk@SD" tvg-logo="https://i.imgur.com/IQ2n0WY.png" group-title="Undefined",[350ms] Utsav Bharat (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd1taaads3ztvmu.cloudfront.net%2F120723%2Fsmil%3Alifeokuk.smil%2Fplaylist.m3u8%3Fhdnts%3Dst%3D1735898689~exp%3D1835898688~acl%3D%2A~hmac%3Df5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="MovieSphere.us@UK" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",[409ms] MovieSphere UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmoviesphereuk-samsunguk.amagi.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AathavanTV.uk@SD" tvg-logo="https://i.imgur.com/LEVEhTH.png" group-title="Entertainment",[552ms] Aathavan TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fyuppmumfta1.vgcdn.net%2F211125%2Fathvantv%2Fmanifest.mpd
+#EXTINF:-1 tvg-id="DeadlyWomen.us@UK" tvg-logo="https://i.imgur.com/dDVZ5Vd.png" group-title="Documentary",[581ms] Deadly Women (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd1mgh147xpmgs8.cloudfront.net%2FDeadlyWomen_GB.m3u8
+#EXTINF:-1 tvg-id="StarVijay.in@UK" tvg-logo="https://i.imgur.com/dZtJHAe.png" group-title="Entertainment",[586ms] Star Vijay UK (396p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fda86m1sqpm3o0.cloudfront.net%2F28072023%2Fsmil%3Astarvijayuk.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="StarPlus.uk@SD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",[598ms] StarPlus (United Kingdom) (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd1rc86nwwc9fag.cloudfront.net%2F260723%2Fstarplusuk_2500%2Fchunks.m3u8
+#EXTINF:-1 tvg-id="QVCStyle.uk@SD" tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="Shop",[602ms] QVC Style (United Kingdom) (540p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fqvcuk-live.akamaized.net%2Fhls%2Flive%2F2097112%2Fqst%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="Teletubbies.uk@SD" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",[619ms] Teletubbies (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdv8lsrd8fecw9.cloudfront.net%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="QVC.uk@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop",[641ms] QVC (United Kingdom) (540p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fqvcuk-live.akamaized.net%2Fhls%2Flive%2F2097112%2Fqvc%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="MagnavisionTV.uk@SD" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="Entertainment",[646ms] Magnavision TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmanatv.akamaized.net%2F120723%2Fsmil%3Amagnavision.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="StarBharat.uk@SD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="Entertainment",[662ms] Star Bharat (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fraw.githubusercontent.com%2Famazeyourself%2Fadaptive-streams%2Frefs%2Fheads%2Fmain%2Fstreams%2Fgb%2FYuppTV%2FUtsavBharat.m3u8
+#EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",[725ms] BBC Persian (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvs-cmaf-pushb-ww-live.akamaized.net%2Fx%3D4%2Fi%3Durn%3Abbc%3Apips%3Aservice%3Abbc_persian_tv%2Fhevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" group-title="Undefined",[730ms] BBC News Pashto (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvs-cmaf-pushb-ww.live.cf.md.bbci.co.uk%2Fx%3D4%2Fi%3Durn%3Abbc%3Apips%3Aservice%3Abbc_afghan_tv%2Fpc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="MUTV.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",[747ms] MUTV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffastly.live.brightcove.com%2F6374054671112%2Feu-west-1%2F6058004203001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4%2Fplaylist-hls.m3u8
+#EXTINF:-1 tvg-id="ZeeOne.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",[763ms] Zee One (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv%2Fplaylist%2Famg17931-asiatvusaltdfast-zeeworld-samsungau%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV.us@UK" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="Music",[774ms] Clubbing TV UK (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fa-cdn.klowdtv.com%2Flive3%2Fclubbingtv_720p%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="SanskarUK.in@SD" tvg-logo="https://i.imgur.com/AU5vSPF.png" group-title="Religious",[790ms] Sanskar UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd34z4embz0hjf6.cloudfront.net%2Fout%2Fv1%2F7ac2789ff9a544a49337d1ffc54ce61c%2Findex.m3u8
+#EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr@SD" tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="Music",[834ms] Qwest TV Jazz & Beyond (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fsamsungau-qwestjazz-samsungtv-zw2jc.amagi.tv%2Fplaylist%2Fsamsungau-qwestjazz-samsungtv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ChannelS.uk@SD" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Culture",[884ms] Channel S (United Kingdom) (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fapp.ncare.live%2Fc3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI%2Fchsukoff.stream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TJC.uk@SD" tvg-logo="https://i.imgur.com/fk5rEje.png" group-title="Shop",[893ms] TJC (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn-shop-lc-01.akamaized.net%2FContent%2FHLS_HLS%2FLive%2Fchannel%28TJCOTT%29%2Findex.m3u8
+#EXTINF:-1 tvg-id="Strongman.us@UK" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="Sports",[895ms] Strongman UK (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Frightsboosterltd-scl-1-eu.rakuten.wurl.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TraceUK.uk@HD" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" group-title="Music",[895ms] Trace UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fchannels.trace.plus%2FTraceprod%2FUK_FAST_hd%2Findex.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us@UK" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="Cooking",[902ms] Tastemade UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftastemade-tdint-rakuten.amagi.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ATNBanglaUK.uk@SD" tvg-logo="https://i.imgur.com/vFpjggf.png" group-title="General",[908ms] ATN Bangla UK (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fapp.ncare.live%2Fc3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2%2Fatnbanglauk-off.stream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Pop.uk@SD" tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="Undefined",[909ms] Pop (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv%2Fts-eu-w1-n2%2Fplaylist%2Famg01753-narrativeentert-popkids-lggb%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us@UK" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Sports",[910ms] World Poker Tour UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv%2Fplaylist%2Famg00477-samsungelectron-worldpokertour-samsunguk%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us@UK" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",[914ms] FailArmy UK (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffailarmy-international-gb.samsung.wurl.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="WaterBear.ch@SD" tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" group-title="Documentary;Outdoor",[920ms] WaterBear (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv%2Fplaylist%2Famg01415-waterbearnetwor-waterbear-samsunguk%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="IranInternational.uk@SD" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="News",[921ms] Iran International (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhlspackager.akamaized.net%2Flive%2FDB%2FIRAN_INTERNATIONAL%2FHLS%2FIRAN_INTERNATIONAL.m3u8
+#EXTINF:-1 tvg-id="TheChatShowChannel.uk@SD" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" group-title="Comedy;Series",[924ms] The Chat Show Channel (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv%2Fplaylist%2Famg00426-littledotstudio-thechatshow-samsungnz%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="SoReal.us@UK" tvg-logo="https://i.imgur.com/wZ2uj9d.png" group-title="Lifestyle",[936ms] So... Real UK (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fall3media-soreal-1-gb.samsung.wurl.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AnandTV.uk@SD" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="General",[942ms] Anand TV (United Kingdom) (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive-anandtv.anandmedia.net%2Fanandtvapp%2Fanandtv%2Findex.m3u8
+#EXTINF:-1 tvg-id="Getfactual.us@UK" tvg-logo="https://i.imgur.com/4oVcjLd.png" group-title="Documentary",[945ms] Get.factual (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd1nhni5l2n8hjt.cloudfront.net%2Fgf.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@UK" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Outdoor;Sports",[961ms] Red Bull TV UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com%2Fv1%2Fmaster%2Fba62fe743df0fe93366eba3a257d792884136c7f%2FLINEAR-932-WORBUKENFAST-WHALETVPLUS%2F932%2Fwhaletvplus%2Fhls%2Fmaster%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MTA8America.uk@SD" tvg-logo="https://i.imgur.com/CF6X9wB.png" group-title="Religious",[977ms] MTA8 America (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fchlivemta.akamaized.net%2Fhls%2Flive%2F2016718%2Fmta8%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlusWomen.uk@English" tvg-logo="https://i.imgur.com/xy9ZxVO.png" group-title="Sports",[1014ms] FIFA+ Women (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcffda8ff.wurl.com%2Fmaster%2Ff36d25e7e52f1ba8d7e56eb859c636563214f541%2FU2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AutenticHistory.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="Documentary",[1022ms] Autentic History (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fmaster%2F44f73ba4d03e9607dcd9bebdcb8494d86964f1d8%2FRlaxxTV-eu_AutenticHistory%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="NOWRock.uk@SD" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",[1022ms] NOW Rock (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flightning-now90s-samsungnz.amagi.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MTA4Africa.uk@SD" tvg-logo="https://i.imgur.com/lmVeQQX.png" group-title="Religious",[1027ms] MTA4 Africa (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fchlivemta.akamaized.net%2Fhls%2Flive%2F2010555%2Fmtaafrica1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="Documentary",[1027ms] Adventure Earth (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fa57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fmaster%2F44f73ba4d03e9607dcd9bebdcb8494d86964f1d8%2FRlaxxTV-eu_AdventureEarth%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="FaithWorldTV.uk@SD" tvg-logo="https://i.imgur.com/RLHRjQ3.png" group-title="Religious",[1033ms] Faith World TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffaithworldtv.abs.tv%2F1826926230%2Findex.m3u8
+#EXTINF:-1 tvg-id="MysteryTV.us@UK" tvg-logo="https://i.imgur.com/K4gwstM.png" group-title="Entertainment",[1045ms] Mystery TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Faenetworks-mysterytv-rakuten.amagi.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TrueCrime.uk@SD" tvg-logo="https://i.imgur.com/LK2NFst.png" group-title="Series",[1054ms] True Crime (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb6cca454.wurl.com%2Fmaster%2Ff36d25e7e52f1ba8d7e56eb859c636563214f541%2FU2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.uk@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",[1054ms] MyTime Movie Network (United Kingdom) (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fappletree-mytimeuk-rakuten.amagi.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AlbUKTV.uk@SD" tvg-logo="https://i.imgur.com/TMg4Kxi.png" group-title="General",[1076ms] Alb UK TV (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Falbuk.dyndns.tv%3A1935%2Falbuk%2Falbuk.stream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="CNBCUK.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Business;News",[1086ms] CNBC UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TheGrahamNortonShow.uk@SD" tvg-logo="https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png" group-title="Entertainment",[1095ms] The Graham Norton Show (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="Weather",[1107ms] Sky News Weather (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdistro001-gb-hls1-prd.delivery.skycdp.com%2Feasel_cdn%2Fngrp%3Aweather_loop.stream_all%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AutenticTravel.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" group-title="Lifestyle",[1108ms] Autentic Travel (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fmaster%2F44f73ba4d03e9607dcd9bebdcb8494d86964f1d8%2FRlaxxTV-eu_AutenticTravel%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="S4C.uk@SD" tvg-logo="https://i.imgur.com/vrcbnBv.png" group-title="Undefined",[1125ms] S4C (1080p) [Geo-blocked]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fv2.uk.live.s4c-cdn.co.uk%2Fout%2Fv1%2FS4C%2FUK_TX%2Fuk_live%2Fuk-tx-dvb.mpd
+#EXTINF:-1 tvg-id="InsideCrime.us@UK" tvg-logo="https://i.imgur.com/wvQYWsj.png" group-title="Series",[1127ms] Inside Crime (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Faenetworks-insidecrime-rakuten.amagi.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="SangatTV.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Sangat_TV_logo.png" group-title="Undefined",[1144ms] Sangat TV (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmumt06.tangotv.in%2FqYyB8fXVSANGATTV%2Findex.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",[1169ms] Rakuten TV Action Movies UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com%2Fv1%2Fmaster%2F0547f18649bd788bec7b67b746e47670f558b6b2%2Fproduction-LiveChannel-6065%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="TBNUK.uk@SD" tvg-logo="https://i.imgur.com/vFllwLd.png" group-title="Undefined",[1201ms] TBN UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive-tbn-ssai.simplestreamcdn.com%2Fv1%2Fmaster%2F774d979dd66704abea7c5b62cb34c6815fda0d35%2Ftbn-live%2Fmanifest.m3u8
+#EXTINF:-1 tvg-id="KanalJadid.uk@SD" tvg-logo="https://i.imgur.com/7oGGgfD.png" group-title="General",[1236ms] Kanal Jadid
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fkjhls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="LoveWorldUK.ng@SD" tvg-logo="https://i.imgur.com/JgHbDmF.png" group-title="Religious",[1255ms] LoveWorld UK (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn3.wowza.com%2F5%2FL1Uzd2FrbVlLRG1W%2Flive%2Fsmil%3Alwukweb.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="NTDTVEnglish.us@UK" tvg-logo="https://i.imgur.com/26uv1ww.png" group-title="General;News",[1265ms] NTD TV English UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fntd02.akamaized.net%2FNTD-UK%2Findex.m3u8
+#EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Music",[1278ms] Totalmusic (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.global.elektamedia.com%2Flive%2Fc7eds%2FTotalmusic%2FSA_LIVE_hls_enc%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="NoorTV.uk@SD" tvg-logo="https://i.imgur.com/DlKgIuQ.png" group-title="Religious",[1283ms] Noor TV (United Kingdom) (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fsscsott.com%2Fsrt%2Fnoortvuk%2Findex.m3u8
+#EXTINF:-1 tvg-id="SafeerTV.uk@SD" tvg-logo="https://image.roku.com/developer_channels/prod/8389e15af8fe49ac7c36d201c24ebf62fbe5b22897c2879ca26ae936e0ed308d.png" group-title="Religious",[1286ms] Safeer TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn3.wowza.com%2F1%2FYStGZlJRdktzZkdK%2FVXROZWNW%2Fhls%2Flive%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Foodxp.uk@SD" tvg-logo="https://i.imgur.com/zOWog5j.png" http-referrer="https://bhoomtv.org/" http-user-agent="Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Cooking",[1288ms] Foodxp (1080p)
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Ftechtraveleat.in%2Fstream.m3u8%3Fid%3Dfoodxp
-#EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",[1200ms] BBC Persian (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fvs-cmaf-pushb-ww-live.akamaized.net%2Fx%3D4%2Fi%3Durn%3Abbc%3Apips%3Aservice%3Abbc_persian_tv%2Fhevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="MUTV.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",[1275ms] MUTV (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Ffastly.live.brightcove.com%2F6374054671112%2Feu-west-1%2F6058004203001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4%2Fplaylist-hls.m3u8
-#EXTINF:-1 tvg-id="Wonder.uk@SD" tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="Science",[1283ms] Wonder (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Flds-wonder-rakuten.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="CSICrimeSceneInvestigation.de@GB" tvg-logo="https://images.pluto.tv/channels/6304f8d5ffb61000071ab478/colorLogoPNG.png" group-title="Series",[1289ms] CSI: Crime Scene Investigation
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-6304f8d5ffb61000071ab478.m3u8
-#EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" group-title="Undefined",[1302ms] BBC News Pashto (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fvs-cmaf-pushb-ww.live.cf.md.bbci.co.uk%2Fx%3D4%2Fi%3Durn%3Abbc%3Apips%3Aservice%3Abbc_afghan_tv%2Fpc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="PBSAmerica.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/PBS_America_2022.svg/960px-PBS_America_2022.svg.png" group-title="Education",[1307ms] PBS America (576p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F185.19.191.2%3A8090%2FPBS%2Findex.m3u8
-#EXTINF:-1 tvg-id="NoorTV.uk@SD" tvg-logo="https://i.imgur.com/DlKgIuQ.png" group-title="Religious",[1338ms] Noor TV (United Kingdom) (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fsscsott.com%2Fsrt%2Fnoortvuk%2Findex.m3u8
-#EXTINF:-1 tvg-id="HobbyMaker.uk@SD" tvg-logo="https://i.imgur.com/VWHp5Tl.png" group-title="Lifestyle",[1365ms] Hobby Maker (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Flo3.gemporia.com%2Fabrhobbymakerukgfx%2Fsmil%3AlivestreamFullHD.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="AutenticTravel.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" group-title="Lifestyle",[1398ms] Autentic Travel (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fmaster%2F44f73ba4d03e9607dcd9bebdcb8494d86964f1d8%2FRlaxxTV-eu_AutenticTravel%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Canaf54TV.uk@SD" tvg-logo="https://i.imgur.com/viB0FS2.png" group-title="General",[1409ms] Canaf54 TV
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2F5caf24a595d94.streamlock.net%3A1937%2Fpvyugfkzkc%2Fpvyugfkzkc%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="FaithWorldTV.uk@SD" tvg-logo="https://i.imgur.com/RLHRjQ3.png" group-title="Religious",[1451ms] Faith World TV (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Ffaithworldtv.abs.tv%2F1826926230%2Findex.m3u8
-#EXTINF:-1 tvg-id="DeadlyWomen.us@UK" tvg-logo="https://i.imgur.com/dDVZ5Vd.png" group-title="Documentary",[1469ms] Deadly Women (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fd1mgh147xpmgs8.cloudfront.net%2FDeadlyWomen_GB.m3u8
-#EXTINF:-1 tvg-id="ClubbingTV.us@UK" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="Music",[1475ms] Clubbing TV UK (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fa-cdn.klowdtv.com%2Flive3%2Fclubbingtv_720p%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="StarVijay.in@UK" tvg-logo="https://i.imgur.com/dZtJHAe.png" group-title="Entertainment",[1485ms] Star Vijay UK (396p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fda86m1sqpm3o0.cloudfront.net%2F28072023%2Fsmil%3Astarvijayuk.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="IBCBakthi.uk@SD" tvg-logo="https://i.imgur.com/ZNEz5Wx.png" group-title="Religious",[1520ms] IBC Bakthi (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fibc.massstream.net%2FIBC2%2Findex.m3u8
-#EXTINF:-1 tvg-id="AkaalChannel.uk@SD" tvg-logo="https://i.imgur.com/K81vNbk.png" group-title="Religious",[1534ms] Akaal Channel (396p) [Geo-blocked]
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcdn-globecast.akamaized.net%2Flive%2Feds%2Fakaal_tv%2Fhls1_smart_akaal%2Fakaal_tv.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.uk@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",[1536ms] MyTime Movie Network (United Kingdom) (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fappletree-mytimeuk-rakuten.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",[1584ms] Moonbug Kids (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fmoonbug-rokuus.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",[1608ms] Rakuten TV Action Movies UK (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2F54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com%2Fv1%2Fmaster%2F0547f18649bd788bec7b67b746e47670f558b6b2%2Fproduction-LiveChannel-6065%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="UndercoverBossGlobal.us@UK" tvg-logo="https://i.imgur.com/O9lwu23.png" group-title="Entertainment",[1613ms] Undercover Boss Global (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fall3media-international-undercoverboss-1-au.samsung.wurl.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HomesUnderHammer.us@UK" tvg-logo="https://i.imgur.com/P5Haaln.png" group-title="Series",[1654ms] Homes Under Hammer (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fall3media-homes-under-the-hammer-1-au.samsung.wurl.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="SparkTV.uk@SD" tvg-logo="https://i.imgur.com/svc98Kg.png" group-title="Undefined",[1676ms] Spark TV (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcandlelightmedia-sparklightlove-4-us.roku.wurl.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="IqraBangla.uk@SD" tvg-logo="https://i.imgur.com/BZBZAeC.png" group-title="Religious",[1687ms] Iqra Bangla (576p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Ftvsen3.aynaott.com%2FEuEy5mBW%2Findex.m3u8
-#EXTINF:-1 tvg-id="DogtheBountyHunter.us@UK" tvg-logo="https://i.imgur.com/lMICupK.png" group-title="Series",[1721ms] Dog the Bounty Hunter UK (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Famg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv%2Fplaylist%2Famg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",[1741ms] Rakuten TV Top Movies UK (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2F0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com%2Fv1%2Fmaster%2F0547f18649bd788bec7b67b746e47670f558b6b2%2Fproduction-LiveChannel-5987%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="TotalmusicConcerts.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="Music",[1794ms] Totalmusic Concerts (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcdn.global.elektamedia.com%2Flive%2Fc7eds%2FTotalmusic_Concerts%2FSA_LIVE_hls_enc%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="S4C.uk@SD" tvg-logo="https://i.imgur.com/vrcbnBv.png" group-title="Undefined",[1795ms] S4C (1080p) [Geo-blocked]
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fv2.uk.live.s4c-cdn.co.uk%2Fout%2Fv1%2FS4C%2FUK_TX%2Fuk_live%2Fuk-tx-dvb.mpd
-#EXTINF:-1 tvg-id="DuckDynasty.us@UK" tvg-logo="https://i.imgur.com/vMcSlwm.png" group-title="Series",[1809ms] Duck Dynasty (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Famg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TotalmusicDance.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="Music",[1818ms] Totalmusic Dance (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcdn.global.elektamedia.com%2Flive%2Fc7eds%2FTotalmusic_Dance%2FSA_LIVE_hls_enc%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="MiracleTV.uk@SD" tvg-logo="https://i.imgur.com/pTn8Vc3.png" group-title="Religious",[1827ms] Miracle TV (480p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fviewmedia7219.bozztv.com%2Fwmedia%2Fviewmedia100%2Fweb_030%2FStream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ThePetCollective.us@UK" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",[1832ms] The Pet Collective UK (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fthe-pet-collective-international-gb.samsung.wurl.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",[1859ms] Rakuten TV Drama Movies UK (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Ffee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com%2Fv1%2Fmaster%2F0547f18649bd788bec7b67b746e47670f558b6b2%2Fproduction-LiveChannel-6093%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="PanjabTV.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/10000/10000/skychb1041.png" group-title="Religious",[1880ms] Panjab TV (576p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fpanjabtv.akamaized.net%2Fpanjabtv%2Fpanjabtvhlsout%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="StarPlus.uk@SD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",[1900ms] StarPlus (United Kingdom) (576p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fd1rc86nwwc9fag.cloudfront.net%2F260723%2Fstarplusuk_2500%2Fchunks.m3u8
-#EXTINF:-1 tvg-id="ChannelS.uk@SD" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Culture",[1907ms] Channel S (United Kingdom) (576p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fapp.ncare.live%2Fc3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI%2Fchsukoff.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="KanalJadid.uk@SD" tvg-logo="https://i.imgur.com/7oGGgfD.png" group-title="General",[1911ms] Kanal Jadid
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fkjhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWesterns.de@GB" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="Movies",[1985ms] Pluto TV Westerns (Germany)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5d4bdb635ce813b38639e6a3.m3u8
-#EXTINF:-1 tvg-id="PlutoTVScifiSeries.de@GB" tvg-logo="https://images.pluto.tv/channels/619247c34a270700077c8415/colorLogoPNG.png" group-title="Series",[2027ms] Pluto TV Sci-fi Series
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-619247c34a270700077c8415.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCultFilms.de@GB" tvg-logo="https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png" group-title="Movies",[2032ms] Pluto TV Cult Films (Germany)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5c5c31f2f21b553c1f673fb0.m3u8
-#EXTINF:-1 tvg-id="SafeerTV.uk@SD" tvg-logo="https://image.roku.com/developer_channels/prod/8389e15af8fe49ac7c36d201c24ebf62fbe5b22897c2879ca26ae936e0ed308d.png" group-title="Religious",[2035ms] Safeer TV (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcdn3.wowza.com%2F1%2FYStGZlJRdktzZkdK%2FVXROZWNW%2Fhls%2Flive%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Thats80s.uk@SD" tvg-logo="" group-title="Music",[2049ms] That's 80s (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-69ef54f3c700cf0140272def.m3u8
-#EXTINF:-1 tvg-id="SkySportsF1.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" http-referrer="https://stmify.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" group-title="Sports",[2056ms] Sky Sports F1 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftechtraveleat.in%2Fstream.m3u8%3Fid%3Dfoodxp
+#EXTINF:-1 tvg-id="HellenicTV.uk@SD" tvg-logo="https://i.imgur.com/NE7ddhC.png" group-title="Undefined",[1302ms] Hellenic TV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fl5.cloudskep.com%2Fhellenictv%2Fhtv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="HobbyMaker.uk@SD" tvg-logo="https://i.imgur.com/VWHp5Tl.png" group-title="Lifestyle",[1307ms] Hobby Maker (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flo3.gemporia.com%2Fabrhobbymakerukgfx%2Fsmil%3AlivestreamFullHD.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="XITEHits.nl@UK" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music",[1309ms] XITE Hits UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv%2Fplaylist%2Famg01243-xitenetworksint-hitsuk-samsunguk%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="GemsTV.uk@SD" tvg-logo="https://i.imgur.com/WgaJufI.png" group-title="Shop",[1313ms] Gems TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flo3.gemporia.com%2Fabrgemporiaukgfx%2Fsmil%3Alivestream.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MarriedwithChildren.us@UK" tvg-logo="https://i.imgur.com/L9Epmtf.png" group-title="Series",[1335ms] Married with Children
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-66bb3212fe11e5000883ea6b.m3u8
+#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Music",[1351ms] Totalmusic 80s (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.global.elektamedia.com%2Flive%2Fc7eds%2FTotalmusic_80s%2FSA_LIVE_hls_enc%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="QVCExtra.uk@SD" tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="Shop",[1365ms] QVC Extra (540p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fqvcuk-live.akamaized.net%2Fhls%2Flive%2F2097112%2Fqex%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",[1367ms] NBC News NOW (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd1si3n1st4nkgb.cloudfront.net%2F10502%2F88896001%2Fhls%2Fmaster.m3u8%3Fads.xumo_channelId%3D88896001
+#EXTINF:-1 tvg-id="Totalmusic2000s.uk@HD" tvg-logo="" group-title="Music",[1392ms] Totalmusic 2000s (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.global.elektamedia.com%2Flive%2Fc7eds%2FTotalmusic_00s%2FSA_LIVE_hls_enc%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="BritAsiaTV.uk@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brit_Asia.png" group-title="Undefined",[1396ms] Brit Asia TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.autopo.st%2Fhls%2Fbritasiatv%2Findex.m3u8
+#EXTINF:-1 tvg-id="Trailers.es@UK" tvg-logo="https://i.imgur.com/RwZ1hCN.png" group-title="News",[1402ms] Trailers UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv%2Fplaylist%2Famg01821-lovetvchannels-lovemagazineuk-samsungse%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TotalmusicConcerts.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="Music",[1412ms] Totalmusic Concerts (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.global.elektamedia.com%2Flive%2Fc7eds%2FTotalmusic_Concerts%2FSA_LIVE_hls_enc%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="BBCRedButton1.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2051.png" group-title="Undefined",[1419ms] BBC Red Button 1 (720p) [Geo-blocked]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvs-cmaf-pushb-uk.live.cf.md.bbci.co.uk%2Fx%3D4%2Fi%3Durn%3Abbc%3Apips%3Aservice%3Ared_button_one%2Fiptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",[1421ms] Rakuten TV Top Movies UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com%2Fv1%2Fmaster%2F0547f18649bd788bec7b67b746e47670f558b6b2%2Fproduction-LiveChannel-5987%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="AhlulbaytTV.uk@SD" tvg-logo="https://i.imgur.com/lNGJGjy.png" group-title="Religious",[1421ms] Ahlulbayt TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcd198.anystream.uk%3A8082%2Fhls%2Fabtv3ng%2Findex.m3u8
+#EXTINF:-1 tvg-id="MoreTVCrime.de@GB" tvg-logo="https://images.pluto.tv/channels/639b558c73423d00071ce624/colorLogoPNG.png" group-title="Series",[1425ms] More TV Crime
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-639b558c73423d00071ce624.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",[1450ms] Rakuten TV Drama Movies UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com%2Fv1%2Fmaster%2F0547f18649bd788bec7b67b746e47670f558b6b2%2Fproduction-LiveChannel-6093%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="GODTV.uk@SD" tvg-logo="https://i.imgur.com/hW4g2oe.png" group-title="Religious",[1465ms] GOD TV (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffl-dvr.iptvcdn.tv%2Fchid_1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="JudgeJudy.de@GB" tvg-logo="https://images.pluto.tv/channels/622f498d119b4c000719c0b7/colorLogoPNG.png" group-title="Entertainment",[1466ms] Judge Judy (Germany)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-622f498d119b4c000719c0b7.m3u8
+#EXTINF:-1 tvg-id="IqraBangla.uk@SD" tvg-logo="https://i.imgur.com/BZBZAeC.png" group-title="Religious",[1475ms] Iqra Bangla (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftvsen3.aynaott.com%2FEuEy5mBW%2Findex.m3u8
+#EXTINF:-1 tvg-id="MTA7Asia.uk@SD" tvg-logo="https://i.imgur.com/3Nl8Tpu.png" group-title="Religious",[1483ms] MTA7 Asia (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivemtaasia.akamaized.net%2Fhls%2Flive%2F2039224%2Fmtaasia2%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",[1501ms] Rakuten TV Comedy Movies UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com%2Fv1%2Fmaster%2F0547f18649bd788bec7b67b746e47670f558b6b2%2Fproduction-LiveChannel-6181%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="SkySportsNFL.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" http-referrer="https://stmify.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" group-title="Sports",[1583ms] Sky Sports NFL (720p)
 #EXTVLCOPT:http-referrer=https://stmify.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcdn.stmify.com%2Fout%2Fv1%2FSKY_SPORTS_F1%2Findex.m3u8
-#EXTINF:-1 tvg-id="UnsolvedMysteries.us@UK" tvg-logo="https://i.imgur.com/De3khrX.png" group-title="Series",[2066ms] Unsolved Mysteries UK
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5bd05b4694d45d266bc951f2.m3u8
-#EXTINF:-1 tvg-id="SensingMurder.us@UK" tvg-logo="https://i.imgur.com/HYEABSt.png" group-title="Documentary",[2069ms] Sensing Murder
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5e9ed47c26ebb000074af566.m3u8
-#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="Music",[2076ms] Afrobeat TV Entertainment (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fstream.ecable.tv%2Fafrobeats%2Findex.m3u8
-#EXTINF:-1 tvg-id="SabrinaTheTeenageWitch.de@GB" tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoPNG.png" group-title="Comedy",[2112ms] Sabrina The Teenage Witch
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-66276091cee0d900085fe053.m3u8
-#EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="Documentary",[2138ms] Adventure Earth (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fa57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fmaster%2F44f73ba4d03e9607dcd9bebdcb8494d86964f1d8%2FRlaxxTV-eu_AdventureEarth%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HighwaytoHeaven.us@UK" tvg-logo="https://i.imgur.com/e6pvibn.png" group-title="Series",[2170ms] Highway to Heaven
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-68bff9a63efb41cd97562e46.m3u8
-#EXTINF:-1 tvg-id="MTA1World.uk@SD" tvg-logo="https://i.imgur.com/bYiRfAg.png" group-title="Religious",[2181ms] MTA1 World (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fchlivemta1.akamaized.net%2Fhls%2Flive%2F2008145%2Fmta1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCrime.de@GB" tvg-logo="https://images.pluto.tv/channels/5e7b6c60fd20c50007910bf5/colorLogoPNG.png" group-title="Series",[2183ms] Pluto TV Crime GB
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5d767790d0438aceb41d03ae.m3u8
-#EXTINF:-1 tvg-id="SkySportsNFL.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" http-referrer="https://stmify.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" group-title="Sports",[2205ms] Sky Sports NFL (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.stmify.com%2Fout%2Fv1%2FSKY_SPORTS_ACTION%2Findex.m3u8
+#EXTINF:-1 tvg-id="MiracleTV.uk@SD" tvg-logo="https://i.imgur.com/pTn8Vc3.png" group-title="Religious",[1615ms] Miracle TV (480p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fviewmedia7219.bozztv.com%2Fwmedia%2Fviewmedia100%2Fweb_030%2FStream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://i.imgur.com/9FMvaRK.png" group-title="Education",[1627ms] English Club TV (576i)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream8.cinerama.uz%2F1442%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 tvg-id="IBCBakthi.uk@SD" tvg-logo="https://i.imgur.com/ZNEz5Wx.png" group-title="Religious",[1640ms] IBC Bakthi (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fibc.massstream.net%2FIBC2%2Findex.m3u8
+#EXTINF:-1 tvg-id="KanshiTV.uk@SD" tvg-logo="https://i.imgur.com/w6uXMrK.png" group-title="Religious",[1645ms] Kanshi TV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.kanshitv.co.uk%2Fmobile%2Fkanshitvkey.m3u8
+#EXTINF:-1 tvg-id="V2BEATTV.uk@SD" tvg-logo="https://i.imgur.com/PXGqyLn.png" group-title="Music",[1662ms] V2BEAT TV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fabr.de1se01.v2beat.live%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSitcoms.de@GB" tvg-logo="https://images.pluto.tv/channels/5d767ab2b456c8cf265ce921/colorLogoPNG.png" group-title="Comedy;Series",[1691ms] Pluto TV Sitcoms GB
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-62f53dc6ee9a0400071dc22b.m3u8
+#EXTINF:-1 tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entertainment",[1713ms] ENT Channel (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.global.elektamedia.com%2Flive%2Fc7eds%2FENT_Channel%2FSA_LIVE_hls_enc%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" http-referrer="https://stmify.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" group-title="Sports",[1723ms] Sky Sports F1 (720p)
 #EXTVLCOPT:http-referrer=https://stmify.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcdn.stmify.com%2Fout%2Fv1%2FSKY_SPORTS_ACTION%2Findex.m3u8
-#EXTINF:-1 tvg-id="QVCBeauty.uk@SD" tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="Shop",[2309ms] QVC Beauty (540p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fqvcuk-live.akamaized.net%2Fhls%2Flive%2F2097112%2Fqby%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="TheGrahamNortonShow.uk@SD" tvg-logo="https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png" group-title="Entertainment",[2348ms] The Graham Norton Show (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Famg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="BritAsiaTV.uk@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brit_Asia.png" group-title="Undefined",[2395ms] Brit Asia TV (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fhls.autopo.st%2Fhls%2Fbritasiatv%2Findex.m3u8
-#EXTINF:-1 tvg-id="GemsTV.uk@SD" tvg-logo="https://i.imgur.com/WgaJufI.png" group-title="Shop",[2414ms] Gems TV (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Flo3.gemporia.com%2Fabrgemporiaukgfx%2Fsmil%3Alivestream.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAlienInvasion.de@GB" tvg-logo="https://images.pluto.tv/channels/6462190b7cb4b1000862dd60/colorLogoPNG.png" group-title="Documentary",[2435ms] Pluto TV Alien Invasion (Germany)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-6462190b7cb4b1000862dd60.m3u8
-#EXTINF:-1 tvg-id="MarriedwithChildren.us@UK" tvg-logo="https://i.imgur.com/L9Epmtf.png" group-title="Series",[2438ms] Married with Children
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-66bb3212fe11e5000883ea6b.m3u8
-#EXTINF:-1 tvg-id="MagnavisionTV.uk@SD" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="Entertainment",[2479ms] Magnavision TV (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fmanatv.akamaized.net%2F120723%2Fsmil%3Amagnavision.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entertainment",[2495ms] ENT Channel (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcdn.global.elektamedia.com%2Flive%2Fc7eds%2FENT_Channel%2FSA_LIVE_hls_enc%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="AutenticHistory.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="Documentary",[2535ms] Autentic History (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2F9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fmaster%2F44f73ba4d03e9607dcd9bebdcb8494d86964f1d8%2FRlaxxTV-eu_AutenticHistory%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TraceUK.uk@HD" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" group-title="Music",[2544ms] Trace UK (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fchannels.trace.plus%2FTraceprod%2FUK_FAST_hd%2Findex.m3u8
-#EXTINF:-1 tvg-id="TopGear.uk@SD" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="Auto;Entertainment",[2566ms] Top Gear (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-636adc255bcf470007d6e0e2.m3u8
-#EXTINF:-1 tvg-id="SanskarUK.in@SD" tvg-logo="https://i.imgur.com/AU5vSPF.png" group-title="Religious",[2651ms] Sanskar UK (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fd34z4embz0hjf6.cloudfront.net%2Fout%2Fv1%2F7ac2789ff9a544a49337d1ffc54ce61c%2Findex.m3u8
-#EXTINF:-1 tvg-id="WildatHeart.us@UK" tvg-logo="https://i.imgur.com/kyVB8Ik.png" group-title="Series",[2690ms] Wild at Heart
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-60817936fd2d70000763d2b2.m3u8
-#EXTINF:-1 tvg-id="CagneyLacey.de@GB" tvg-logo="https://images.pluto.tv/channels/6960c5a906d76f50db2816dc/colorLogoPNG_1767949823270.png" group-title="Series",[2731ms] Cagney & Lacey
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-6960c5a906d76f50db2816dc.m3u8
-#EXTINF:-1 tvg-id="DAZNCombat.uk@SD" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Sports",[2745ms] DAZN Combat (684p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-64d626ac9b414d000820e2fc.m3u8
-#EXTINF:-1 tvg-id="AlbUKTV.uk@SD" tvg-logo="https://i.imgur.com/TMg4Kxi.png" group-title="General",[2778ms] Alb UK TV (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2Falbuk.dyndns.tv%3A1935%2Falbuk%2Falbuk.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Pop.uk@SD" tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="Undefined",[2780ms] Pop (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Famg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv%2Fts-eu-w1-n2%2Fplaylist%2Famg01753-narrativeentert-popkids-lggb%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="LatestTV.uk@SD" tvg-logo="https://i.imgur.com/Cl1iGEb.jpeg" group-title="General",[2782ms] Latest TV (480p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2F5a0e89631aa14.streamlock.net%2Flive%2FLatestTelevision%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",[2788ms] FIFA+ (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-660c29b5aec9680008f5b4a4.m3u8
-#EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="Weather",[2792ms] Sky News Weather (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fdistro001-gb-hls1-prd.delivery.skycdp.com%2Feasel_cdn%2Fngrp%3Aweather_loop.stream_all%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Avatar.de@GB" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" group-title="Animation;Kids;Series",[2864ms] Avatar (Germany)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-656df599c0fc8800089c75ab.m3u8
-#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://i.imgur.com/9FMvaRK.png" group-title="Education",[2872ms] English Club TV (576i)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fstream8.cinerama.uz%2F1442%2Ftracks-v1a1%2Fmono.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSpace.de@GB" tvg-logo="https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png" group-title="Documentary",[2885ms] Pluto TV Space (Germany) GB
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5dbc2f98777f2e0009934ae7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFantasyHorror.de@GB" tvg-logo="https://images.pluto.tv/channels/685041d936c9361b1921c26c/colorLogoPNG_1753696741486.png" group-title="Movies",[2908ms] Pluto TV Fantasy & Horror
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-685041d936c9361b1921c26c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFood.de@GB" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png" group-title="Cooking;Documentary",[2933ms] Pluto TV Food GB
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5ddf930548ff9b00090d5686.m3u8
-#EXTINF:-1 tvg-id="TakbeerTV.uk@SD" tvg-logo="https://i.imgur.com/Cvnps2J.jpg" group-title="Undefined",[2935ms] Takbeer TV (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcd198.anystream.uk%3A9092%2Fiqapp%2Ft5kb86tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TeenMom.de@GB" tvg-logo="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png" group-title="Entertainment",[2955ms] Teen Mom (Germany) GB
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-62d550d81054990007db7798.m3u8
-#EXTINF:-1 tvg-id="DunyaNewsUK.uk@SD" tvg-logo="https://i.imgur.com/dtrTfZC.png" group-title="News",[2962ms] Dunya News UK (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fukintl.dunyanews.tv%2Fliveuk%2Fngrp%3Adunyalive_all%2Fplaylist.m3u8
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.stmify.com%2Fout%2Fv1%2FSKY_SPORTS_F1%2Findex.m3u8
+#EXTINF:-1 tvg-id="HalaLondon.uk@SD" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="General",[1732ms] Hala London (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhalalondon-live.ercdn.net%2Fhalalondon%2Fhalalondon.m3u8
+#EXTINF:-1 tvg-id="DuckDynasty.us@UK" tvg-logo="https://i.imgur.com/vMcSlwm.png" group-title="Series",[1753ms] Duck Dynasty (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="DeenTV.uk@SD" tvg-logo="https://i.imgur.com/Zp62Nbd.png" group-title="General",[1753ms] Deen TV (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcd198.anystream.uk%3A9092%2Fiqapp%2Fd33ntv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="QVCBeauty.uk@SD" tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="Shop",[1759ms] QVC Beauty (540p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fqvcuk-live.akamaized.net%2Fhls%2Flive%2F2097112%2Fqby%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Family;Movies",[1809ms] Rakuten TV Family Movies UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fe3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com%2Fv1%2Fmaster%2F0547f18649bd788bec7b67b746e47670f558b6b2%2Fproduction-LiveChannel-6203%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="SheffieldLiveTV.uk@SD" tvg-logo="https://i.imgur.com/p0QzCFs.png" group-title="Undefined",[1825ms] Sheffield Live TV (360p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Ftv.sheffieldlive.org%2Fhls%2Fmain.m3u8
+#EXTINF:-1 tvg-id="DunyaNewsUK.uk@SD" tvg-logo="https://i.imgur.com/dtrTfZC.png" group-title="News",[1870ms] Dunya News UK (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fukintl.dunyanews.tv%2Fliveuk%2Fngrp%3Adunyalive_all%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MTA3AlArabia.uk@SD" tvg-logo="https://i.imgur.com/m3PEldJ.png" group-title="Religious",[1907ms] MTA3 Al-Arabia (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fchlivemta1.akamaized.net%2Fhls%2Flive%2F2010556%2Fmta3alarabia%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TotallyTurtles.de@GB" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" group-title="Kids",[1914ms] Totally Turtles (Germany) GB
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-656ef4af4261ca00083c8f37.m3u8
+#EXTINF:-1 tvg-id="SparkTV.uk@SD" tvg-logo="https://i.imgur.com/svc98Kg.png" group-title="Undefined",[1918ms] Spark TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcandlelightmedia-sparklightlove-4-us.roku.wurl.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCrime.de@GB" tvg-logo="https://images.pluto.tv/channels/5e7b6c60fd20c50007910bf5/colorLogoPNG.png" group-title="Series",[1918ms] Pluto TV Crime GB
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5d767790d0438aceb41d03ae.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSpace.de@GB" tvg-logo="https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png" group-title="Documentary",[1937ms] Pluto TV Space (Germany) GB
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5dbc2f98777f2e0009934ae7.m3u8
+#EXTINF:-1 tvg-id="WildatHeart.us@UK" tvg-logo="https://i.imgur.com/kyVB8Ik.png" group-title="Series",[1942ms] Wild at Heart
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-60817936fd2d70000763d2b2.m3u8
+#EXTINF:-1 tvg-id="TakbeerTV.uk@SD" tvg-logo="https://i.imgur.com/Cvnps2J.jpg" group-title="Undefined",[1943ms] Takbeer TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcd198.anystream.uk%3A9092%2Fiqapp%2Ft5kb86tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="OnTheCase.us@UK" tvg-logo="https://i.imgur.com/TAmVjUL.png" group-title="Documentary",[1958ms] On The Case
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-62cd971cec90c20007081050.m3u8
+#EXTINF:-1 tvg-id="TheNewDetectives.de@GB" tvg-logo="https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png" group-title="Series",[1975ms] The New Detectives (Germany)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5e393d5c696b3b0009775c8b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAmericanTrueCrime.de@GB" tvg-logo="https://images.pluto.tv/channels/692ebafce72f03e07e7df985/colorLogoPNG_1768902223754.png" group-title="Documentary;Series",[1982ms] Pluto TV American True Crime
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-692ebafce72f03e07e7df985.m3u8
+#EXTINF:-1 tvg-id="PlutoTVPetrolHeads.de@GB" tvg-logo="https://images.pluto.tv/channels/65a7b0814a10d800085ff2df/colorLogoPNG.png" group-title="Documentary",[1990ms] Pluto TV PetrolHeads
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-65a7b0814a10d800085ff2df.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAlienInvasion.de@GB" tvg-logo="https://images.pluto.tv/channels/6462190b7cb4b1000862dd60/colorLogoPNG.png" group-title="Documentary",[1992ms] Pluto TV Alien Invasion (Germany)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-6462190b7cb4b1000862dd60.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCultFilms.de@GB" tvg-logo="https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png" group-title="Movies",[1993ms] Pluto TV Cult Films (Germany)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5c5c31f2f21b553c1f673fb0.m3u8
+#EXTINF:-1 tvg-id="TheNanny.us@UK" tvg-logo="https://i.imgur.com/1caOriu.png" group-title="Undefined",[1999ms] The Nanny
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-6391cef9edb23c0008598cee.m3u8
+#EXTINF:-1 tvg-id="GhostDimension.us@UK" tvg-logo="https://i.imgur.com/a0jOxez.png" group-title="Series",[2017ms] Ghost Dimension
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-619e1bb3e9af5a0007f235ad.m3u8
+#EXTINF:-1 tvg-id="BeyondBeliefFactorFiction.us@UK" tvg-logo="https://i.imgur.com/3uXQg7Y.png" group-title="Undefined",[2037ms] Beyond Belief: Fact or Fiction
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-611f85396abc84000738417b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRetroToons.de@GB" tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" group-title="Animation;Kids",[2040ms] Pluto TV Retro Toons GB
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5c5c2b9d8002db3c3e0b1c6d.m3u8
+#EXTINF:-1 tvg-id="Nosey.us@UK" tvg-logo="https://i.imgur.com/i5doCQK.png" group-title="Series",[2052ms] Nosey UK
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5dc2ba1a9c91420009db4858.m3u8
+#EXTINF:-1 tvg-id="UnsolvedMysteries.us@UK" tvg-logo="https://i.imgur.com/De3khrX.png" group-title="Series",[2053ms] Unsolved Mysteries UK
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5bd05b4694d45d266bc951f2.m3u8
+#EXTINF:-1 tvg-id="SensingMurder.us@UK" tvg-logo="https://i.imgur.com/HYEABSt.png" group-title="Documentary",[2057ms] Sensing Murder
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5e9ed47c26ebb000074af566.m3u8
+#EXTINF:-1 tvg-id="Thats70s.uk@HD" tvg-logo="https://i.imgur.com/j2q53JQ.png" group-title="Music",[2064ms] That's 70s (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-69ef53e12f4d2b4f9c582e76.m3u8
+#EXTINF:-1 tvg-id="ParanormalState.us@UK" tvg-logo="https://i.imgur.com/NmxhvAE.png" group-title="Entertainment",[2073ms] Paranormal State
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-60804d85858bd00007c5d591.m3u8
+#EXTINF:-1 tvg-id="Andromeda.us@UK" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="Series",[2107ms] Andromeda UK
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5e8db96bccae160007c71eec.m3u8
+#EXTINF:-1 tvg-id="TopGear.uk@SD" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="Auto;Entertainment",[2114ms] Top Gear (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-636adc255bcf470007d6e0e2.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMovies.de@GB" tvg-logo="https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/colorLogoPNG.png" group-title="Movies",[2116ms] Pluto TV Movies GB
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5ad8d3a31b95267e225e4e09.m3u8
+#EXTINF:-1 tvg-id="Thats80s.uk@SD" tvg-logo="" group-title="Music",[2120ms] That's 80s (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-69ef54f3c700cf0140272def.m3u8
+#EXTINF:-1 tvg-id="HighwaytoHeaven.us@UK" tvg-logo="https://i.imgur.com/e6pvibn.png" group-title="Series",[2121ms] Highway to Heaven
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-68bff9a63efb41cd97562e46.m3u8
+#EXTINF:-1 tvg-id="FBIFiles.us@UK" tvg-logo="https://i.imgur.com/vzYDSLo.png" group-title="Documentary",[2129ms] FBI Files
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-62bdaa32a1b2fd00076693e8.m3u8
+#EXTINF:-1 tvg-id="Avatar.de@GB" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" group-title="Animation;Kids;Series",[2147ms] Avatar (Germany)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-656df599c0fc8800089c75ab.m3u8
+#EXTINF:-1 tvg-id="AuctionHunters.de@GB" tvg-logo="https://i.imgur.com/4SPOVN7.png" group-title="Entertainment",[2150ms] Auction Hunters (Germany) GB
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-62ac50e92c48f900071444c9.m3u8
+#EXTINF:-1 tvg-id="PlutoTVScifiSeries.de@GB" tvg-logo="https://images.pluto.tv/channels/619247c34a270700077c8415/colorLogoPNG.png" group-title="Series",[2152ms] Pluto TV Sci-fi Series
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-619247c34a270700077c8415.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFamilyMovieClub.de@GB" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" group-title="Movies",[2166ms] Pluto TV Family Movie Club
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5dc3fc6b9133f500099c7d98.m3u8
+#EXTINF:-1 tvg-id="KNMusicTV.az@SD" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" group-title="Music",[2204ms] KN Music TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn4.yayin.com.tr%2Fkntv%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFood.de@GB" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png" group-title="Cooking;Documentary",[2211ms] Pluto TV Food GB
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5ddf930548ff9b00090d5686.m3u8
+#EXTINF:-1 tvg-id="PlutoTVInvestigation.de@GB" tvg-logo="https://images.pluto.tv/channels/63808dc806aa4700075f319a/colorLogoPNG.png" group-title="Series",[2218ms] Pluto TV Investigation
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-63808dc806aa4700075f319a.m3u8
+#EXTINF:-1 tvg-id="AkaalChannel.uk@SD" tvg-logo="https://i.imgur.com/K81vNbk.png" group-title="Religious",[2298ms] Akaal Channel (396p) [Geo-blocked]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn-globecast.akamaized.net%2Flive%2Feds%2Fakaal_tv%2Fhls1_smart_akaal%2Fakaal_tv.m3u8
+#EXTINF:-1 tvg-id="LatestTV.uk@SD" tvg-logo="https://i.imgur.com/Cl1iGEb.jpeg" group-title="General",[2339ms] Latest TV (480p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5a0e89631aa14.streamlock.net%2Flive%2FLatestTelevision%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimals.de@GB" tvg-logo="https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png" group-title="Documentary",[2354ms] Pluto TV Animals GB
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5ddf8ea0d000120009bcad83.m3u8
+#EXTINF:-1 tvg-id="SabrinaTheTeenageWitch.de@GB" tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoPNG.png" group-title="Comedy",[2362ms] Sabrina The Teenage Witch
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-66276091cee0d900085fe053.m3u8
+#EXTINF:-1 tvg-id="talkSPORT.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png" group-title="Sports",[2368ms] talkSPORT (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Faf7a8b4e.wurl.com%2Fmaster%2Ff36d25e7e52f1ba8d7e56eb859c636563214f541%2FTEctZ2JfdGFsa1NQT1JUX0hMUw%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVWesterns.de@GB" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="Movies",[2433ms] Pluto TV Westerns (Germany)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-5d4bdb635ce813b38639e6a3.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimation.de@GB" tvg-logo="https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png" group-title="Animation;Comedy",[2492ms] Pluto TV Animation
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-612f761008a9e50007984ba0.m3u8
+#EXTINF:-1 tvg-id="IBCTamil.uk@SD" tvg-logo="https://i.imgur.com/uVt9vBa.png" group-title="General",[2841ms] IBC Tamil (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fibc.massstream.net%2FIBC%2Findex.m3u8
+#EXTINF:-1 tvg-id="MTA1World.uk@SD" tvg-logo="https://i.imgur.com/bYiRfAg.png" group-title="Religious",[2947ms] MTA1 World (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fchlivemta1.akamaized.net%2Fhls%2Flive%2F2008145%2Fmta1%2Fplaylist.m3u8
