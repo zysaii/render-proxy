@@ -3,52 +3,61 @@ const axios = require('axios');
 
 const app = express();
 
-const TARGET_URL = 'https://cdn.qd.je/163189/fct2';
-
-// 捕获所有请求
-app.get('*', async (req, res) => {
+// 通用代理转发函数
+async function forwardRequest(req, res, targetUrl, refererHost) {
   try {
-    // 如果用户访问的是根路径，代理到目标地址；如果带了子路径则拼接
-    const fetchUrl = (req.path === '/' || req.path === '')
-      ? TARGET_URL
-      : `https://cdn.qd.je${req.path}`;
-
     const response = await axios({
       method: req.method,
-      url: fetchUrl,
+      url: targetUrl,
       headers: {
         'User-Agent': req.headers['user-agent'] || 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
-        'Referer': 'https://cdn.qd.je/',
+        'Referer': refererHost,
         'Accept': '*/*'
       },
-      // 允许跟随重定向，最多跳转 5 次
+      timeout: 15000,
       maxRedirects: 5,
-      // 使用流模式输出，避免大文件或视频流占用内存
       responseType: 'stream',
-      validateStatus: () => true // 允许所有状态码通过
+      validateStatus: () => true
     });
 
-    // 允许跨域，方便播放器调用
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', 'GET, HEAD, OPTIONS');
 
-    // 复制源站的内容类型响应头（如 text/plain、application/vnd.apple.mpegurl 等）
     if (response.headers['content-type']) {
       res.setHeader('Content-Type', response.headers['content-type']);
     }
 
-    // 状态码透传
     res.status(response.status);
-
-    // 将内容以流管道传输给客户端
     response.data.pipe(res);
-
   } catch (error) {
     res.status(502).json({
       error: 'Proxy Fetch Failed',
+      target: targetUrl,
       message: error.message
     });
   }
+}
+
+// ---------------- 路线 1：原有的 qd.je 地址 ----------------
+// 访问 /v1 或 根路径 / 时调用
+app.get(['/', '/v1', '/v1/*'], async (req, res) => {
+  const TARGET_BASE = 'https://cdn.qd.je';
+  // 截掉 /v1 前缀
+  const subPath = req.path.replace(/^\/v1/, '');
+  const finalPath = (subPath === '/' || subPath === '') ? '/163189/fct2' : subPath;
+  
+  await forwardRequest(req, res, `${TARGET_BASE}${finalPath}`, 'https://cdn.qd.je/');
+});
+
+// ---------------- 路线 2：第二个 m3u8 直播流地址 ----------------
+// 访问 /v2 时调用
+app.get(['/v2', '/v2/*'], async (req, res) => {
+  const TARGET_BASE = 'http://183.239.108.37:1698';
+  // 截掉 /v2 前缀
+  const subPath = req.path.replace(/^\/v2/, '');
+  const finalPath = (subPath === '/' || subPath === '') ? '/hls/92/index.m3u8' : subPath;
+  
+  await forwardRequest(req, res, `${TARGET_BASE}${finalPath}`, 'http://183.239.108.37:1698/');
 });
 
 const PORT = process.env.PORT || 10000;
