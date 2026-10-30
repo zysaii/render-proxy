@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LoveworldSAT.ng@SD" tvg-logo="https://i.imgur.com/Fg65XCS.png" group-title="Religious",[995ms] LoveworldSAT (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdnstack.internetmultimediaonline.org%2Flwsat%2Flwsat.stream%2Findex.m3u8
+#EXTINF:-1 tvg-id="LN24SA.za@SD" tvg-logo="https://i.imgur.com/Hg5YTwu.png" group-title="News",[1382ms] LN24SA (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdnstack.internetmultimediaonline.org%2Fln24%2Fln24.stream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="SABCLehae.za@SD" tvg-logo="https://i.imgur.com/YhdnZHH.png" group-title="News",[1494ms] SABC Lehae [Geo-blocked]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fsabctretalh.cdn.mangomolo.com%2Flehae%2Fsmil%3Alehae.stream.smil%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="SABCNews.za@SD" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="News",[1557ms] SABC News (720p) [Geo-blocked]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fsabconetanw.cdn.mangomolo.com%2Fnews%2Fsmil%3Anews.stream.smil%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="NuViewTV.za@SD" tvg-logo="https://i.imgur.com/dYRJ7F0.png" group-title="Entertainment",[1817ms] NuView TV (360p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fviewmedia7219.bozztv.com%2Fwmedia%2Fviewmedia100%2Fweb_002%2FStream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="HomebaseTV.za@SD" tvg-logo="https://i.imgur.com/MaLNfJG.png" group-title="Religious",[1830ms] Homebase TV (480p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fviewmedia7219.bozztv.com%2Fwmedia%2Fviewmedia100%2Fweb_022%2FStream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="CapeTownTV.za@SD" tvg-logo="https://i.imgur.com/Y8FK1Kk.png" group-title="General",[1843ms] Cape Town TV (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.freevisiontv.co.za%2Fsttv%2Fsmil%3Actv.stream.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ROVTV.za@SD" tvg-logo="https://i.imgur.com/sbeuEYY.png" group-title="Undefined",[1863ms] ROV TV (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fviewmedia7219.bozztv.com%2Fwmedia%2Fviewmedia100%2Fweb_012%2FStream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSEnglish.in@SD" tvg-logo="https://i.imgur.com/8rKNuS6.png" group-title="General",[1958ms] TV BRICS English (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fengbrics.mediacdn.ru%2Fcdn%2Fbrics%2Fenglish%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="1KZNTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment;Family;General",[2096ms] 1KZN TV (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.freevisiontv.co.za%2Fsttv%2Fsmil%3A1kzn.stream.smil%2Fplaylist.m3u8
