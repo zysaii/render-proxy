@@ -2,28 +2,33 @@ const express = require('express');
 const { createProxyMiddleware } = require('http-proxy-middleware');
 
 const app = express();
-const TARGET = 'http://r.jdshipin.com';
 
-// 访问根路径自动补齐 /qrfbg
+// 1. 更新目标站点为新的 HTTPS 地址
+const TARGET_ORIGIN = 'https://cdn.qd.je';
+const DEFAULT_PATH = '/163189/fct2';
+
+// 2. 当用户直接访问 Render 域名根目录时，自动重定向/重写到新路径
 app.use((req, res, next) => {
   if (req.url === '/' || req.url === '') {
-    req.url = '/qrfbg';
+    req.url = DEFAULT_PATH;
   }
   next();
 });
 
-// 反向代理配置
+// 3. 配置反向代理
 app.use('/', createProxyMiddleware({
-  target: TARGET,
+  target: TARGET_ORIGIN,
   changeOrigin: true,
+  secure: false, // 避免目标证书链不严谨引发报错
   onProxyReq: (proxyReq) => {
-    proxyReq.setHeader('Host', 'r.jdshipin.com');
-    proxyReq.setHeader('Referer', 'http://r.jdshipin.com/');
+    // 伪装请求头
+    proxyReq.setHeader('Host', 'cdn.qd.je');
+    proxyReq.setHeader('Referer', 'https://cdn.qd.je/');
   }
 }));
 
-// Render 会自动注入 PORT 环境变量，默认使用 process.env.PORT
+// Render 默认端口兼容
 const PORT = process.env.PORT || 10000;
 app.listen(PORT, () => {
-  console.log(`Server listening on port ${PORT}`);
+  console.log(`Proxy listening on port ${PORT}`);
 });
