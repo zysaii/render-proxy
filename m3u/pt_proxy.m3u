@@ -1,72 +1,86 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVI.pt@SD" tvg-logo="https://i.imgur.com/H8Tgl7m.png" group-title="General",[465ms] TVI (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthomraider12%2Fcanaistvpt%2Fmain%2Fm3u8s%2Ftvi.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt@SD" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="Series",[475ms] TVI Ficcao (720p)
+#EXTINF:-1 tvg-id="TVIFiccao.pt@SD" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="Series",[452ms] TVI Ficcao (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthomraider12%2Fcanaistvpt%2Fmain%2Fm3u8s%2Ftvificcao.m3u8
-#EXTINF:-1 tvg-id="TVIReality.pt@SD" tvg-logo="https://i.imgur.com/C9rxqA5.png" group-title="Entertainment",[477ms] TVI Reality (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVIReality.pt@SD" tvg-logo="https://i.imgur.com/C9rxqA5.png" group-title="Entertainment",[453ms] TVI Reality (720p) [Not 24/7]
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthomraider12%2Fcanaistvpt%2Fmain%2Fm3u8s%2Ftvireality.m3u8
-#EXTINF:-1 tvg-id="VPlusTVI.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="General",[555ms] V+ TVI (720p)
+#EXTINF:-1 tvg-id="VPlusTVI.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="General",[466ms] V+ TVI (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthomraider12%2Fcanaistvpt%2Fmain%2Fm3u8s%2Fvmaistvi.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Portuguese" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",[587ms] Angel TV Portuguese (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjanya-digimix.akamaized.net%2Fvglive-sk-382409%2Fportuese%2Fngrp%3Aangelportuguese_all%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RTPNoticias.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="News",[831ms] RTP Noticias (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreaming-live.rtp.pt%2FlivetvhlsDVR%2FrtpnHDdvr.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",[856ms] RTP Acores (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreaming-live.rtp.pt%2Fliverepeater%2Fsmil%3ArtpacoresHD.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",[875ms] RTP Madeira SD (504p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreaming-live.rtp.pt%2Fliverepeater%2Fsmil%3Artpmadeira.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="AXNMovies.pt@SD" tvg-logo="https://i.imgur.com/tJQckal.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",[899ms] AXN Movies (Portugal) (720p)
+#EXTINF:-1 tvg-id="TVI.pt@SD" tvg-logo="https://i.imgur.com/H8Tgl7m.png" group-title="General",[499ms] TVI (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthomraider12%2Fcanaistvpt%2Fmain%2Fm3u8s%2Ftvi.m3u8
+#EXTINF:-1 tvg-id="DAZN4.uk@Portugal" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",[535ms] DAZN 4 (540p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F23.237.104.106%3A8080%2FDAZN_4%2Findex.m3u8
+#EXTINF:-1 tvg-id="DAZN5.uk@Portugal" tvg-logo="https://i.imgur.com/HD2XaeS.png" group-title="Sports",[537ms] DAZN 5 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F23.237.104.106%3A8080%2FDAZN_5%2Findex.m3u8
+#EXTINF:-1 tvg-id="DAZN3.uk@Portugal" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="Sports",[541ms] DAZN 3 Portugal (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F23.237.104.106%3A8080%2FDAZN_3%2Findex.m3u8
+#EXTINF:-1 tvg-id="AXNMovies.pt@SD" tvg-logo="https://i.imgur.com/tJQckal.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",[732ms] AXN Movies (Portugal) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F50.7.120.34%3A8080%2FAXN_BLACK%2Findex.m3u8
-#EXTINF:-1 tvg-id="RTPNoticias.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="News",[967ms] RTP Noticias SD (504p) [Not 24/7]
+#EXTINF:-1 tvg-id="AngelTV.in@Portuguese" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",[751ms] Angel TV Portuguese (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjanya-digimix.akamaized.net%2Fvglive-sk-382409%2Fportuese%2Fngrp%3Aangelportuguese_all%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="RTPNoticias.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="News",[793ms] RTP Noticias (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreaming-live.rtp.pt%2FlivetvhlsDVR%2FrtpnHDdvr.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="RTPNoticias.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="News",[794ms] RTP Noticias SD (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreaming-live.rtp.pt%2FlivetvhlsDVR%2Frtpndvr.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="CNNPortugal.pt@SD" tvg-logo="https://i.imgur.com/bc6tYVZ.png" group-title="News",[1013ms] CNN Portugal
+#EXTINF:-1 tvg-id="CNNPortugal.pt@SD" tvg-logo="https://i.imgur.com/bc6tYVZ.png" group-title="News",[902ms] CNN Portugal
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fgithub.com%2Fthomraider12%2Fcanaistvpt%2Fraw%2Fmain%2Fm3u8s%2Fcnnpt.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",[1017ms] FIFA+ Portuguese (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fe3be9ac5.wurl.com%2Fmaster%2Ff36d25e7e52f1ba8d7e56eb859c636563214f541%2FTEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",[1095ms] RTP 1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTP1.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",[904ms] RTP 1 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreaming-live.rtp.pt%2Fliverepeater%2Frtp1HD.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",[1119ms] RTP Acores SD (504p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTPAcores.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",[1009ms] RTP Acores SD (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreaming-live.rtp.pt%2Fliverepeater%2Fsmil%3Artpacores.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="SICAltaDefinicao.pt@SD" tvg-logo="https://i.imgur.com/VdPwyQv.png" group-title="Undefined",[1131ms] SIC Alta Definicao (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fproduction-fast-sic.content.okast.tv%2Ffa2e8c4385712f9aa54bbe52b1bd9b6b%2Fchannels%2Fd9070446-8448-455e-8075-773b1ba12562%2Ffc831b20-f252-4e7d-8cc5-2d05f4d43c1c%2Fmedia_.m3u8
-#EXTINF:-1 tvg-id="RadioSines.pt@SD" tvg-logo="https://i.imgur.com/Oe6F1nL.png" group-title="General",[1234ms] Radio Sines (720p) [Geo-blocked]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fload-balancer.azotosolutions.com%2Fcdnedge19%2Fsmil%3Alive19.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt@SD" tvg-logo="https://i.imgur.com/DwziwMY.png" group-title="General",[1374ms] Porto Canal (720p)
+#EXTINF:-1 tvg-id="PortoCanal.pt@SD" tvg-logo="https://i.imgur.com/DwziwMY.png" group-title="General",[1018ms] Porto Canal (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fpull-live-156-1.global.ssl.fastly.net%2Fpc5865dc25400thmb-ea6bf03b14fa318f7133%2Fsmil%3Apc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ONFM.pt@SD" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="Music",[1386ms] ON FM (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ce9406b73c33.streamlock.net%2FONFM%2Flivestream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVManaRusskiy.pt@SD" tvg-logo="https://i.imgur.com/fACHqmY.png" group-title="Religious",[1646ms] TV Mana Russkiy (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw1.manasat.com%2Ftvmana-leste%2Fsmil%3Atvmana-leste.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="KuriakosMusic.pt@SD" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Music",[1027ms] Kuriakos Music (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F195.23.211.179%3A1935%2Fkmusic%2Fsmil%3Akmusic.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",[1050ms] FIFA+ Portuguese (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fe3be9ac5.wurl.com%2Fmaster%2Ff36d25e7e52f1ba8d7e56eb859c636563214f541%2FTEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",[1051ms] RTP Madeira SD (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreaming-live.rtp.pt%2Fliverepeater%2Fsmil%3Artpmadeira.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",[1077ms] RTP Acores (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreaming-live.rtp.pt%2Fliverepeater%2Fsmil%3ArtpacoresHD.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="SICAltaDefinicao.pt@SD" tvg-logo="https://i.imgur.com/VdPwyQv.png" group-title="Undefined",[1111ms] SIC Alta Definicao (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fproduction-fast-sic.content.okast.tv%2Ffa2e8c4385712f9aa54bbe52b1bd9b6b%2Fchannels%2Fd9070446-8448-455e-8075-773b1ba12562%2Ffc831b20-f252-4e7d-8cc5-2d05f4d43c1c%2Fmedia_.m3u8
+#EXTINF:-1 tvg-id="SICReplay.pt@SD" tvg-logo="https://i.imgur.com/fj84mXz.png" group-title="Undefined",[1142ms] SIC Replay (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fproduction-fast-sic.content.okast.tv%2Ffa2e8c4385712f9a7dce4ff2dcebac2e%2Fchannels%2Fd9070446-8448-455e-8075-773b1ba12562%2Fd47eae0f-ad77-414a-9a1d-2a6628ba18c3%2Fmedia_.m3u8
+#EXTINF:-1 tvg-id="Trailers.es@UK" tvg-logo="https://i.imgur.com/RwZ1hCN.png" group-title="News",[1178ms] Trailers UK (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv%2Fplaylist%2Famg01821-lovetvchannels-lovemagazineuk-samsungse%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="RFPtv.pt@SD" tvg-logo="https://i.imgur.com/I60nQuR.png" group-title="Music",[1465ms] RFPtv (360p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvideo03.logicahost.com.br%2Frfptv%2Frfptv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ADBTV.pt@SD" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="Religious",[1630ms] ADB TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive-tv.waytv.pt%2Fadbtv%2Fadbtv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVMana1.pt@SD" tvg-logo="https://i.imgur.com/6jNqpTP.png" group-title="Religious",[1637ms] TV Mana 1 (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw1.manasat.com%2Ftvmana-1%2Fsmil%3Atvmana-1.smil%2Fplaylist.m3u8
 #EXTINF:-1 tvg-id="TVManaEnglish.pt@SD" tvg-logo="https://i.imgur.com/I66IkCw.png" group-title="Religious",[1653ms] TV Mana English (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw1.manasat.com%2Ftvmana-english%2Fsmil%3Atvmana-english.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVMana2.pt@SD" tvg-logo="https://i.imgur.com/VYNjVov.png" group-title="Religious",[1819ms] TV Mana 2 (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw1.manasat.com%2Ftvmana-2%2Fsmil%3Atvmana-2.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="KuriakosKids.pt@SD" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Animation;Kids;Religious",[1855ms] Kuriakos Kids (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw2.manasat.com%2Fkkids%2Fsmil%3Akkids.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVMana1.pt@SD" tvg-logo="https://i.imgur.com/6jNqpTP.png" group-title="Religious",[1866ms] TV Mana 1 (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw1.manasat.com%2Ftvmana-1%2Fsmil%3Atvmana-1.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVManaBrasil.pt@SD" tvg-logo="https://i.imgur.com/AFb712e.png" group-title="Religious",[1896ms] TV Mana Brasil (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw1.manasat.com%2Ftvmana-brasil%2Fsmil%3Atvmana-brasil.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt@SD" tvg-logo="https://i.imgur.com/PruXLqS.png" group-title="Religious",[1914ms] Mana Tserkov' Onlayn (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw2.manasat.com%2Ftserkov-online%2Fsmil%3Atserkov-online.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ARTV.pt@SD" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="Legislative",[1923ms] ARTV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fplayout172.livextend.cloud%2Fliveiframe%2F_definst_%2Fliveartvabr%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ManaEgliseOnline.pt@SD" tvg-logo="https://i.imgur.com/xQYly8O.png" group-title="Religious",[2192ms] Mana Eglise Online (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw2.manasat.com%2Feglise-online%2Fsmil%3Aeglise-online.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVManaEspanhol.pt@SD" tvg-logo="https://i.imgur.com/sUlrSwP.png" group-title="Religious",[2210ms] TV Mana Espanhol (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw1.manasat.com%2Ftvmana-espanol%2Fsmil%3Atvmana-espanol.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ManaIglesiaOnline.pt@SD" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="Religious",[2351ms] Mana Iglesia Online (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVManaRusskiy.pt@SD" tvg-logo="https://i.imgur.com/fACHqmY.png" group-title="Religious",[1703ms] TV Mana Russkiy (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw1.manasat.com%2Ftvmana-leste%2Fsmil%3Atvmana-leste.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ONFM.pt@SD" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="Music",[1759ms] ON FM (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ce9406b73c33.streamlock.net%2FONFM%2Flivestream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ManaIgrejaOnline.pt@SD" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="Religious",[1809ms] Mana Igreja Online (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw1.manasat.com%2Figrejaonline%2Fsmil%3Aigrejaonline.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ManaIglesiaOnline.pt@SD" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="Religious",[1822ms] Mana Iglesia Online (1080p) [Not 24/7]
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw2.manasat.com%2Figlesia-online%2Fsmil%3Aiglesia-online.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="KuriakosCine.pt@SD" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Movies",[2363ms] Kuriakos Cine (1080p)
+#EXTINF:-1 tvg-id="TVMana2.pt@SD" tvg-logo="https://i.imgur.com/VYNjVov.png" group-title="Religious",[1850ms] TV Mana 2 (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw1.manasat.com%2Ftvmana-2%2Fsmil%3Atvmana-2.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ManaChurchOnline.pt@SD" tvg-logo="https://i.imgur.com/FRDJSim.png" group-title="Religious",[1873ms] Mana Church Online (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw2.manasat.com%2Fchurch-online%2Fsmil%3Achurch-online.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt@SD" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Movies",[1925ms] Kuriakos Cine (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw2.manasat.com%2Fkcine%2Fsmil%3Akcine.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ManaCirkevOnline.pt@SD" tvg-logo="https://i.imgur.com/tYhXeRq.png" group-title="Religious",[2414ms] Mana Cirkev Online (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw2.manasat.com%2Fcirkev-online%2Fsmil%3Acirkev-online.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="DAZN4.uk@Portugal" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",[2457ms] DAZN 4 (540p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F23.237.104.106%3A8080%2FDAZN_4%2Findex.m3u8
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",[1930ms] Euronews Portuguese (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-619e6614c9d9650007a2b171.m3u8
+#EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt@SD" tvg-logo="https://i.imgur.com/PruXLqS.png" group-title="Religious",[1959ms] Mana Tserkov' Onlayn (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw2.manasat.com%2Ftserkov-online%2Fsmil%3Atserkov-online.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ARTV.pt@SD" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="Legislative",[1966ms] ARTV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fplayout172.livextend.cloud%2Fliveiframe%2F_definst_%2Fliveartvabr%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVManaBrasil.pt@SD" tvg-logo="https://i.imgur.com/AFb712e.png" group-title="Religious",[2124ms] TV Mana Brasil (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw1.manasat.com%2Ftvmana-brasil%2Fsmil%3Atvmana-brasil.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt@SD" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Animation;Kids;Religious",[2355ms] Kuriakos Kids (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw2.manasat.com%2Fkkids%2Fsmil%3Akkids.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVManaEspanhol.pt@SD" tvg-logo="https://i.imgur.com/sUlrSwP.png" group-title="Religious",[2508ms] TV Mana Espanhol (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fw1.manasat.com%2Ftvmana-espanol%2Fsmil%3Atvmana-espanol.smil%2Fplaylist.m3u8
