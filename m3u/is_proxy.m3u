@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RUV.is@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/960px-R%C3%9AV_ohf_2019_logo.svg.png" group-title="General",[652ms] RUV (720p)
+#EXTINF:-1 tvg-id="RUV.is@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/960px-R%C3%9AV_ohf_2019_logo.svg.png" group-title="General",[622ms] RUV (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fruv-web-live.akamaized.net%2Fstreymi%2Fruverl%2Fruverl.m3u8
-#EXTINF:-1 tvg-id="K100.is@SD" tvg-logo="https://i.imgur.com/tv60ogG.png" group-title="Music",[1363ms] K100 (1080p)
+#EXTINF:-1 tvg-id="RUV2.is@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/R%C3%9AV_2_2019_logo.svg/960px-R%C3%9AV_2_2019_logo.svg.png" group-title="General",[1203ms] RUV 2 (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fruvlive.akamaized.net%2Fout%2Fv1%2F2ff7673de40f419fa5164498fae89089%2Findex.m3u8
+#EXTINF:-1 tvg-id="K100.is@SD" tvg-logo="https://i.imgur.com/tv60ogG.png" group-title="Music",[1395ms] K100 (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fk100streymi.mbl.is%2Fbeint%2Fk100%2Findex.m3u8
-#EXTINF:-1 tvg-id="Visir.is@SD" tvg-logo="https://i.imgur.com/07Vlt6i.jpg" group-title="News",[1968ms] Visir (1080p)
+#EXTINF:-1 tvg-id="Visir.is@SD" tvg-logo="https://i.imgur.com/07Vlt6i.jpg" group-title="News",[1676ms] Visir (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.visir.is%2Fhls-live%2Fvisir.smil%2Fplaylist.m3u8
