@@ -1,132 +1,162 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="iFilmEnglish.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",[654ms] iFilm English
+#EXTINF:-1 tvg-id="iFilmEnglish.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",[651ms] iFilm English
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.presstv.co.uk%2Fhls%2Fifilmen.m3u8
-#EXTINF:-1 tvg-id="PressTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" http-referrer="https://odysee.com/" group-title="News",[680ms] Press TV (720p)
+#EXTINF:-1 tvg-id="iFilm2.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" group-title="Movies",[712ms] iFilm 2
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.presstv.co.uk%2Fhls%2Fifilm2.m3u8
+#EXTINF:-1 tvg-id="MohabatTV.ir@SD" tvg-logo="https://i.imgur.com/Ig0SPev.png" group-title="Religious",[745ms] Mohabat TV (Iran) (540p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F204.11.235.251%3A1935%2Flive_transcoder%2Fngrp%3Amohabat.stream_all%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="IRINN.ir@SD" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",[754ms] IRINN (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F185.9.2.18%2Fchid_926%2Findex.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" http-referrer="https://odysee.com/" group-title="News",[757ms] Press TV (720p)
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcloud.odysee.live%2Fcontent%2F26bcbcc342a5b143578f27dbfaf000201f06e417%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="iFilmPersian.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",[718ms] iFilm Persian
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.presstv.co.uk%2Fhls%2Fifilmfa.m3u8
-#EXTINF:-1 tvg-id="MohabatTV.ir@SD" tvg-logo="https://i.imgur.com/Ig0SPev.png" group-title="Religious",[750ms] Mohabat TV (Iran) (540p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F204.11.235.251%3A1935%2Flive_transcoder%2Fngrp%3Amohabat.stream_all%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="PBCTapeshTV.us@SD" tvg-logo="https://i.imgur.com/50JzsmH.png" group-title="General",[768ms] PBC Tapesh TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fiptv.tapesh.tv%2Ftapesh%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="MihanTV.ir@SD" tvg-logo="https://i.imgur.com/XEMsM7w.png" group-title="News",[796ms] Mihan TV
+#EXTINF:-1 tvg-id="WiseHumanTv.ir@HD" tvg-logo="https://i.imgur.com/BT7EtfB.png" group-title="Religious",[764ms] WiseHumanTv (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Favr.host247.net%2Flive%2FWiseHumanTv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MihanTV.ir@SD" tvg-logo="https://i.imgur.com/XEMsM7w.png" group-title="News",[764ms] Mihan TV
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fiptv.mihantv.com%2Fmihantv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="AFNTV.ir@SD" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="Music",[937ms] AFN TV
+#EXTINF:-1 tvg-id="PBCTapeshTV.us@SD" tvg-logo="https://i.imgur.com/50JzsmH.png" group-title="General",[770ms] PBC Tapesh TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fiptv.tapesh.tv%2Ftapesh%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="iFilmPersian.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",[804ms] iFilm Persian
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.presstv.co.uk%2Fhls%2Fifilmfa.m3u8
+#EXTINF:-1 tvg-id="IranInternational.uk@SD" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="News",[893ms] Iran International (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhlspackager.akamaized.net%2Flive%2FDB%2FIRAN_INTERNATIONAL%2FHLS%2FIRAN_INTERNATIONAL.m3u8
+#EXTINF:-1 tvg-id="AFNTV.ir@SD" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="Music",[933ms] AFN TV
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fbozztv.com%2F1gbw5%2Ftintv2%2Ftintv2%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="iFilmArabic.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",[968ms] iFilm Arabic
+#EXTINF:-1 tvg-id="iFilmArabic.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",[962ms] iFilm Arabic
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.presstv.co.uk%2Fhls%2Fifilmar.m3u8
-#EXTINF:-1 tvg-id="HighVisionTV.us@SD" tvg-logo="https://i.imgur.com/zhCgoru.png" group-title="Music",[977ms] High Vision TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="HighVisionTV.us@SD" tvg-logo="https://i.imgur.com/zhCgoru.png" group-title="Music",[963ms] High Vision TV (1080p) [Not 24/7]
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreamer1.connectto.com%2FHIGHVISION_WEB_1205%2Findex.m3u8
-#EXTINF:-1 tvg-id="OmideIranTV.us@SD" tvg-logo="https://i.imgur.com/CeMf68L.png" group-title="Entertainment",[998ms] Omid e Iran TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Foitnhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="T2TV.ir@SD" tvg-logo="https://i.imgur.com/Wu8MBb7.png" group-title="Music",[1060ms] T2 TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ft2hls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="TVITN.ir@SD" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Entertainment",[1201ms] TV ITN
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fitnhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="OXIRTV.ir@SD" tvg-logo="https://i.imgur.com/MGMhUDx.png" group-title="Entertainment",[1212ms] OXIR TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.oxir.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="IraneFardaTV.uk@SD" tvg-logo="https://i.imgur.com/ixgcgZY.png" group-title="News",[1220ms] IraneFarda TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Firanefardalive.com%2Fstream%2Flive.m3u8
-#EXTINF:-1 tvg-id="PersianaPlus.fr@SD" tvg-logo="https://i.imgur.com/0xttibX.png" group-title="Movies",[1229ms] Persiana Plus
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Feuhls.persiana.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="RJTV.us@SD" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Music",[1232ms] RJTV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Frjtvhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="AraxTV.ir@SD" tvg-logo="" group-title="Undefined",[1235ms] Arax TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Faraxhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="icnet3.ca@SD" tvg-logo="" group-title="Religious",[1236ms] icnet 3
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fic3hls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="PersianaMedical.fr@SD" tvg-logo="" group-title="Education",[1236ms] Persiana Medical
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fphd2hls.persiana.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="ParsTV.us@SD" tvg-logo="https://i.imgur.com/RQ5DzEE.png" group-title="General",[1240ms] Pars TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fparshls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" group-title="Kids",[1245ms] Pooya TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftgn.bozztv.com%2Feshgtv-dvrfl05%2Fgin-iribpooya%2Ftracks-v1a1%2Fmono.m3u8
-#EXTINF:-1 tvg-id="PersianaNostalgia.fr@SD" tvg-logo="https://i.imgur.com/SWO9CKA.png" group-title="Classic;Music",[1245ms] Persiana Nostalgia
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fnoshls.persiana.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="SL2.ir@SD" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="Movies",[1251ms] SL 2
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fsltwohls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="NewFlix.ir@SD" tvg-logo="" group-title="Movies",[1251ms] NewFlix
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fnewfhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="ICnet2.ca@SD" tvg-logo="https://i.imgur.com/Ke5xn4E.png" group-title="Religious",[1263ms] ICnet 2
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ficnet2hls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="PersianaTurkiye.fr@SD" tvg-logo="" group-title="Entertainment",[1264ms] Persiana Turkiye
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fturkhls.persiana.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="TBNNejatTV.ir@SD" tvg-logo="https://i.imgur.com/e4WffQA.png" group-title="Undefined",[1266ms] TBN Nejat TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.nejat.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="CafeFilm.ir@SD" tvg-logo="" group-title="Movies",[1268ms] Cafe Film
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcafefhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="PersianaReality.fr@HD" tvg-logo="" group-title="Entertainment",[1271ms] Persiana Reality
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftwohls.persiana.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="AvangTV.us@SD" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",[1273ms] Avang TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.avang.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="AfraFilm.ir@SD" tvg-logo="" group-title="Movies",[1275ms] Afra Film
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fafrafhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="AtrinaTV.ir@SD" tvg-logo="" group-title="Undefined",[1276ms] Atrina TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fatrihls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="FX1.ir@SD" tvg-logo="" group-title="Entertainment",[1278ms] FX 1
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffxtvhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="MetaFilmTV.ir@SD" tvg-logo="" group-title="Movies",[1282ms] Meta Film TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmetafilmhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="ClassicTV.ir@SD" tvg-logo="" group-title="Classic",[1285ms] Classic TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fclshls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="GrandCinema.tr@SD" tvg-logo="" group-title="Movies",[1294ms] Grand Cinema
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fgcinemahls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="PersianaFight.fr@HD" tvg-logo="" group-title="Sports",[1296ms] Persiana Fight
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffighthls.persiana.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="SL1.ir@SD" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="Movies",[1303ms] SL 1
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fslonehls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="4Kurd.fr@SD" tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="Music",[1306ms] 4Kurd
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F4kuhls.persiana.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="GoldStar.ir@SD" tvg-logo="" group-title="Movies",[1315ms] Gold Star
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmoviethls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="PersianaIranian.fr@SD" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="Movies",[1318ms] Persiana Iranian
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Firhls.persiana.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="4Music.fr@SD" tvg-logo="" group-title="Music",[1323ms] 4 Music
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmusichls.persiana.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="CafeTradeTV.ir@SD" tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png" group-title="Business",[1327ms] Cafe Trade TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcafetradehls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="RasoulallahTv.ir@HD" tvg-logo="https://i.imgur.com/Jh5ADee.png" group-title="Religious",[1328ms] RasoulallahTv (1080p)
+#EXTINF:-1 tvg-id="RasoulallahTv.ir@HD" tvg-logo="https://i.imgur.com/Jh5ADee.png" group-title="Religious",[1034ms] RasoulallahTv (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Favr.host247.net%2Flive%2Frasoulallahtv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="FX2.ir@SD" tvg-logo="" group-title="Entertainment",[1333ms] FX 2
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftoonixhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="4UTV.tr@SD" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment",[1334ms] 4U TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.4utv.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="MaahTV.my@SD" tvg-logo="https://i.imgur.com/FkyueH6.png" group-title="Movies",[1334ms] Maah TV (720p)
+#EXTINF:-1 tvg-id="MaahTV.my@SD" tvg-logo="https://i.imgur.com/FkyueH6.png" group-title="Movies",[1035ms] Maah TV (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.maahtv.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="ArkoTV.ir@SD" tvg-logo="" group-title="Undefined",[1335ms] Arko TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Farkhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="BravoFarsiTV.ir@SD" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Movies",[1340ms] Bravo Farsi TV (360p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fbravoohls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="ArvanTV.ir@SD" tvg-logo="" group-title="Undefined",[1349ms] Arvan TV
+#EXTINF:-1 tvg-id="PersianaTurkiye.fr@SD" tvg-logo="" group-title="Entertainment",[1047ms] Persiana Turkiye
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fturkhls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="IranJewishTV.ir@SD" tvg-logo="https://i.ibb.co/JWXs7csN/en.png" group-title="Religious",[1058ms] Iran Jewish TV
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Firan620.com%3A1935%2Flive%2FIranJewishTv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" group-title="Kids",[1124ms] Pooya TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftgn.bozztv.com%2Feshgtv-dvrfl05%2Fgin-iribpooya%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 tvg-id="KanalJadid.uk@SD" tvg-logo="https://i.imgur.com/7oGGgfD.png" group-title="General",[1197ms] Kanal Jadid
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fkjhls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PersianaJunior.fr@SD" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="Kids",[1197ms] Persiana Junior
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjunhls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="RJTV.us@SD" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Music",[1211ms] RJTV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Frjtvhls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PersianaNostalgia.fr@SD" tvg-logo="https://i.imgur.com/SWO9CKA.png" group-title="Classic;Music",[1216ms] Persiana Nostalgia
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fnoshls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="TMTV.us@SD" tvg-logo="https://tmlive.tv/wp-content/uploads/2018/07/immigration-consultants-network-en-.png" group-title="General",[1220ms] TM TV (United States) (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.tmtv.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="ArvanTV.ir@SD" tvg-logo="" group-title="Undefined",[1224ms] Arvan TV
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Farvhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="AVASeries.ir@SD" tvg-logo="https://i.imgur.com/8AfAfZE.png" group-title="Series",[1373ms] AVA Series
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Favaserieshls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="PersianaVibe.fr@HD" tvg-logo="" group-title="Music",[1405ms] Persiana Vibe
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fraphls.persiana.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="PayvandTV.ir@SD" tvg-logo="https://i.imgur.com/o2Ww77N.png" group-title="Religious",[1429ms] Payvand TV (Iran) (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Funi6rtmp.tulix.tv%2Fucur1%2FPayvand%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="PersianaCinema.fr@SD" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Movies",[1461ms] Persiana Cinema
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcinehls.persiana.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="PersianaFolk.fr@HD" tvg-logo="" group-title="Music",[1635ms] Persiana Folk
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fsonhls.persiana.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="PersianaDocs.fr@HD" tvg-logo="" group-title="Documentary",[1685ms] Persiana Docs
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fscihls.persiana.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="IRINN.ir@SD" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",[1745ms] IRINN (576p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F185.9.2.18%2Fchid_926%2Findex.m3u8
-#EXTINF:-1 tvg-id="NationalIranianCongressTV.us@SD" tvg-logo="https://iraniancongress.com/tv/logo.png" group-title="News",[1810ms] National Iranian Congress TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv.iraniancongress.com%2Fstream%2Ftv.m3u8
-#EXTINF:-1 tvg-id="AsilTV.ir@SD" tvg-logo="https://i.imgur.com/gROQqFD.png" group-title="Undefined",[1910ms] Asil TV (576p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.asil.tv%2Fasiltv%2Findex.m3u8
-#EXTINF:-1 tvg-id="ErfanHalghehTV.ca@SD" tvg-logo="https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png" group-title="Religious",[2136ms] Erfan Halgheh TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.erfanhalgheh.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="EPlanetTV.ir@SD" tvg-logo="" group-title="Documentary",[2724ms] EPlanet TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Feplhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="DatisTV.ir@SD" tvg-logo="" group-title="Undefined",[2730ms] Datis TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fronhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="IranNationalRevolutionTV.us@HD" tvg-logo="" group-title="Undefined",[2778ms] Iran National Revolution TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.irannrtv.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="QuranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png" group-title="Religious",[2809ms] Quran TV (Iran)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fncdn.telewebion.ir%2Fquran%2Flive%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="IranNama.fr@SD" tvg-logo="" group-title="Undefined",[2919ms] Iran Nama
+#EXTINF:-1 tvg-id="PersianaTravel.fr@SD" tvg-logo="" group-title="Documentary",[1225ms] Persiana Travel
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fptravelhls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="BravoFarsiTV.ir@SD" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Movies",[1227ms] Bravo Farsi TV (360p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fbravoohls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="IranNama.fr@SD" tvg-logo="" group-title="Undefined",[1230ms] Iran Nama
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Firan613hls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="IranNationalRevolutionTV.us@HD" tvg-logo="" group-title="Undefined",[1237ms] Iran National Revolution TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.irannrtv.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="AtrinaTV.ir@SD" tvg-logo="" group-title="Undefined",[1239ms] Atrina TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fatrihls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PersianaDocs.fr@HD" tvg-logo="" group-title="Documentary",[1239ms] Persiana Docs
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fscihls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PersianaPlus.fr@SD" tvg-logo="https://i.imgur.com/0xttibX.png" group-title="Movies",[1243ms] Persiana Plus
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Feuhls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="ParsTV.us@SD" tvg-logo="https://i.imgur.com/RQ5DzEE.png" group-title="General",[1247ms] Pars TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fparshls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PersianaReality.fr@HD" tvg-logo="" group-title="Entertainment",[1249ms] Persiana Reality
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftwohls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PayamJavanTV.us@SD" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="Education",[1252ms] Payam Javan TV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Funi01rtmp.tulix.tv%2Fkensecure%2Fpjtv.stream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="PersianaVibe.fr@HD" tvg-logo="" group-title="Music",[1254ms] Persiana Vibe
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fraphls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="OmideIranTV.us@SD" tvg-logo="https://i.imgur.com/CeMf68L.png" group-title="Entertainment",[1257ms] Omid e Iran TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Foitnhls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="AVASeries.ir@SD" tvg-logo="https://i.imgur.com/8AfAfZE.png" group-title="Series",[1263ms] AVA Series
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Favaserieshls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="icnet3.ca@SD" tvg-logo="" group-title="Religious",[1266ms] icnet 3
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fic3hls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PersianaFamily.fr@SD" tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="Movies",[1266ms] Persiana Family
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffamilyhls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="FX1.ir@SD" tvg-logo="" group-title="Entertainment",[1266ms] FX 1
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffxtvhls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PersianaComedy.fr@SD" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy",[1266ms] Persiana Comedy
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcomedyhls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="247BoxTV.ir@SD" tvg-logo="https://i.imgur.com/t5AUthL.png" group-title="Entertainment",[1267ms] 247 Box TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.247box.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="NewFlix.ir@SD" tvg-logo="" group-title="Movies",[1268ms] NewFlix
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fnewfhls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="GoldStar.ir@SD" tvg-logo="" group-title="Movies",[1274ms] Gold Star
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmoviethls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="GrandCinema.tr@SD" tvg-logo="" group-title="Movies",[1278ms] Grand Cinema
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fgcinemahls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="4Music.fr@SD" tvg-logo="" group-title="Music",[1278ms] 4 Music
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmusichls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="ArkoTV.ir@SD" tvg-logo="" group-title="Undefined",[1283ms] Arko TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Farkhls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="TBNNejatTV.ir@SD" tvg-logo="https://i.imgur.com/e4WffQA.png" group-title="Undefined",[1285ms] TBN Nejat TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.nejat.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="MetaFilmTV.ir@SD" tvg-logo="" group-title="Movies",[1285ms] Meta Film TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmetafilmhls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PersianaKorea.fr@SD" tvg-logo="https://i.imgur.com/si2ZnIA.png" group-title="Movies",[1286ms] Persiana Korea
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fkorhls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="AraxTV.ir@SD" tvg-logo="" group-title="Undefined",[1288ms] Arax TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Faraxhls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="SL2.ir@SD" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="Movies",[1288ms] SL 2
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fsltwohls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="T2TV.ir@SD" tvg-logo="https://i.imgur.com/Wu8MBb7.png" group-title="Music",[1295ms] T2 TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ft2hls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PersianaCinema.fr@SD" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Movies",[1295ms] Persiana Cinema
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcinehls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="IraneFardaTV.uk@SD" tvg-logo="https://i.imgur.com/ixgcgZY.png" group-title="News",[1301ms] IraneFarda TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Firanefardalive.com%2Fstream%2Flive.m3u8
+#EXTINF:-1 tvg-id="AfraFilm.ir@SD" tvg-logo="" group-title="Movies",[1301ms] Afra Film
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fafrafhls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PersianaMedical.fr@SD" tvg-logo="" group-title="Education",[1305ms] Persiana Medical
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fphd2hls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PersianaSeries.fr@HD" tvg-logo="" group-title="Series",[1307ms] Persiana Series
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonehls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="TVITN.ir@SD" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Entertainment",[1320ms] TV ITN
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fitnhls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="4UTV.tr@SD" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment",[1325ms] 4U TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.4utv.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="AvangTV.us@SD" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",[1334ms] Avang TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.avang.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="DatisTV.ir@SD" tvg-logo="" group-title="Undefined",[1341ms] Datis TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fronhls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="OXIRTV.ir@SD" tvg-logo="https://i.imgur.com/MGMhUDx.png" group-title="Entertainment",[1350ms] OXIR TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.oxir.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PersianaLatino.fr@SD" tvg-logo="" group-title="Movies",[1365ms] Persiana Latino
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flatinohls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="AlWilayah.ir@SD" tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="Religious",[1476ms] Al Wilayah (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fnl.livekadeh.com%2Fhls2%2Falwilayah_tv.m3u8
+#EXTINF:-1 tvg-id="ClassicTV.ir@SD" tvg-logo="" group-title="Classic",[1485ms] Classic TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fclshls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="NationalIranianCongressTV.us@SD" tvg-logo="https://iraniancongress.com/tv/logo.png" group-title="News",[1528ms] National Iranian Congress TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv.iraniancongress.com%2Fstream%2Ftv.m3u8
+#EXTINF:-1 tvg-id="ErfanHalghehTV.ca@SD" tvg-logo="https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png" group-title="Religious",[1557ms] Erfan Halgheh TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.erfanhalgheh.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PersianaIranian.fr@SD" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="Movies",[1586ms] Persiana Iranian
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Firhls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="4Kurd.fr@SD" tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="Music",[1651ms] 4Kurd
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F4kuhls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="ICnet2.ca@SD" tvg-logo="https://i.imgur.com/Ke5xn4E.png" group-title="Religious",[1655ms] ICnet 2
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ficnet2hls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PersianaFight.fr@HD" tvg-logo="" group-title="Sports",[1681ms] Persiana Fight
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffighthls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="CafeTradeTV.ir@SD" tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png" group-title="Business",[1730ms] Cafe Trade TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcafetradehls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="AsilTV.ir@SD" tvg-logo="https://i.imgur.com/gROQqFD.png" group-title="Undefined",[1804ms] Asil TV (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.asil.tv%2Fasiltv%2Findex.m3u8
+#EXTINF:-1 tvg-id="CafeFilm.ir@SD" tvg-logo="" group-title="Movies",[1955ms] Cafe Film
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcafefhls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PayvandTV.ir@SD" tvg-logo="https://i.imgur.com/o2Ww77N.png" group-title="Religious",[2225ms] Payvand TV (Iran) (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Funi6rtmp.tulix.tv%2Fucur1%2FPayvand%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="SL1.ir@SD" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="Movies",[2304ms] SL 1
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fslonehls.wns.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="PressTVFrench.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" group-title="News",[2550ms] Press TV French (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive4.presstv.ir%2Flive%2Fsmil%3Apresstvfr.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TehranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/500px-IRIBTV5.svg.png" group-title="General",[2747ms] Tehran TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fncdn.telewebion.ir%2Ftehran%2Flive%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="GolkhaneTv.ir@SD" tvg-logo="https://static.telewebion.com/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default" group-title="Undefined",[2992ms] Golkhane Tv
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fncdn.telewebion.ir%2Fgolkhane%2Flive%2Fplaylist.m3u8
