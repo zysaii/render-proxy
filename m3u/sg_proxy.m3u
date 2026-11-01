@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNA.sg@SD" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="News",[467ms] CNA (Singapore) (1080p) [Geo-blocked]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2e1asnsl7br7b.cloudfront.net%2F7782e205e72f43aeb4a48ec97f66ebbe%2Findex.m3u8
+#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="General",[539ms] Channel 5 (Singapore) (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.qd.je%2F163189%2Fch5
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg@SD" tvg-logo="https://i.imgur.com/ppxUDxB.png" group-title="Entertainment",[572ms] meWATCH LIVE 1 (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftglmp04.akamaized.net%2Fout%2Fv1%2F898b1cbac7c747e3b1f3deb460e9b67e%2Fmanifest.mpd
+#EXTINF:-1 tvg-id="Channel8.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/960px-Mediacorp_Channel_8_2023.svg.png" group-title="General",[578ms] Channel 8 (Singapore) (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.qd.je%2F163189%2Fch8
+#EXTINF:-1 tvg-id="ChannelU.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/960px-Mediacorp_Channel_U_2023.svg.png" group-title="Entertainment",[715ms] Channel U (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.qd.je%2F163189%2Fchu
+#EXTINF:-1 tvg-id="CartoonitoAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Animation;Kids",[739ms] Cartoonito Asia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fcdn4.skygo.mn%2Flive%2Fdisk1%2FBoomerang%2FHLSv3-FTA%2FBoomerang.m3u8
+#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="Documentary",[1114ms] CNA Originals (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv%2Fplaylist.m3u8
