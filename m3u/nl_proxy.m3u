@@ -1,189 +1,175 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="XITE.nl@SD" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Music",[377ms] XITE (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fxite-rakuten.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="XITEReggaeVibes.nl@HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" group-title="Music",[488ms] XITE Reggae Vibes (1080p)
+#EXTINF:-1 tvg-id="XITEReggaeVibes.nl@HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" group-title="Music",[505ms] XITE Reggae Vibes (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdw2m7yrngfg8c.cloudfront.net%2FXITE_Reggae_Vibes.m3u8
-#EXTINF:-1 tvg-id="XITEHits.nl@NL" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music",[527ms] XITE Hits (1080p)
+#EXTINF:-1 tvg-id="XITEHits.nl@NL" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music",[512ms] XITE Hits (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd726x48n2pd5h.cloudfront.net%2FXITE_Hits.m3u8
-#EXTINF:-1 tvg-id="TweedeKamerSuzeGroenewegzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[689ms] Tweede Kamer: Suze Groenewegzaal (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Fsuzegroenewegzaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
-#EXTINF:-1 tvg-id="OmroepWest.nl@HD" tvg-logo="https://i.imgur.com/5IDb9fk.png" group-title="Undefined",[700ms] Omroep West HD (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd1axml5ozykh3g.cloudfront.net%2Flive%2Fomroepwest%2Ftv%2Findex.m3u8
-#EXTINF:-1 tvg-id="TMF.nl@HDFAST" tvg-logo="https://www.maxx-xs.nl/images/assets/3/c/3c123778ef66464786705dc4138303ec/COV/cover_l_01.png" group-title="Classic;Music",[701ms] TMF (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftmf-nl-nl.fast.rakuten.tv%2Fv1%2Fmaster%2F0547f18649bd788bec7b67b746e47670f558b6b2%2Fproduction-hls-aes128-yourchannels-10-restreaming%2Fbitok%2FeyJzdGlkIjoiMzUzNGNiZTAtNWY4MS00ZmU4LWE1NGYtYjgyMjJmMTM3ZmZjIiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%253D%253D%2Fmpgmedia%2FTMF%2FTMF_NL%2FTMF_NL.m3u8
-#EXTINF:-1 tvg-id="OmroepFlevoland.nl@SD" tvg-logo="https://i.imgur.com/rF4MTYD.png" group-title="General",[779ms] Omroep Flevoland (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd5ms27yy6exnf.cloudfront.net%2Flive%2Fomroepflevoland%2Ftv%2Findex.m3u8
-#EXTINF:-1 tvg-id="InWonder.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="Science",[839ms] InWonder (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv%2Fplaylist%2Famg00861-terninternation-inwonder-samsungau%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="WaterBear.ch@SD" tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" group-title="Documentary;Outdoor",[850ms] WaterBear (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv%2Fplaylist%2Famg01415-waterbearnetwor-waterbear-samsunguk%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="UStad.nl@SD" tvg-logo="https://i.imgur.com/9F8ieEz.png" group-title="Undefined",[851ms] UStad (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fmedia.rtvutrecht.nl%2Flive%2Frtvutrecht%2Fustad%2Findex.m3u8
-#EXTINF:-1 tvg-id="OmropFryslan.nl@SD" tvg-logo="https://i.imgur.com/khacDTU.png" group-title="General",[869ms] Omrop Fryslan (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fs-d15f8b0b.b.cdn.bluebillywig.com%2Flive%2Fomropfryslan%2Ff8f68bd5%2Findex.m3u8
-#EXTINF:-1 tvg-id="TheChatShowChannel.uk@SD" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" group-title="Comedy;Series",[887ms] The Chat Show Channel (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv%2Fplaylist%2Famg00426-littledotstudio-thechatshow-samsungnz%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TweedeKamerEnquetezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[897ms] Tweede Kamer: Enquetezaal (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Fenquetezaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
-#EXTINF:-1 tvg-id="HorseCountryTV.uk@SD" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="Outdoor",[900ms] Horse & Country TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhnc-free-viewlift.amagi.tv%2FHNC_AUSTRALIA.m3u8
-#EXTINF:-1 tvg-id="OOGTV.nl@SD" tvg-logo="https://i.imgur.com/WzxY0PL.png" group-title="General",[925ms] OOG TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd1xcc1603wntzx.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Foogtv%2Findex.m3u8
-#EXTINF:-1 tvg-id="RTVLOVE.nl@SD" tvg-logo="https://i.imgur.com/hucwX6v.png" group-title="General",[962ms] RTV LOVE (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2o8iss0ldenh4.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Frtvlove%2Findex.m3u8
-#EXTINF:-1 tvg-id="RTVZulthe.nl@SD" tvg-logo="https://i.imgur.com/Z3zUUsJ.png" group-title="General",[966ms] RTV Zulthe (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fms7.mx-cd.net%2Ftv%2F212-1299944%2FRTV-Zulthe.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Radio10.nl@SD" tvg-logo="https://i.imgur.com/2oGtj7r.png" group-title="Undefined",[1002ms] Radio 10 (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fradio10.prd1.talpatvcdn.nl%2F2b725bc7c93f477eaf0e43955ea8a6c1%2Findex.m3u8
-#EXTINF:-1 tvg-id="SchieTV.nl@SD" tvg-logo="https://i.imgur.com/kt4Aqvq.png" group-title="Undefined",[1015ms] Schie TV (576i)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2n2i1jp4j20kw.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fschietv%2Findex.m3u8
-#EXTINF:-1 tvg-id="OmroepBrabantRadio.nl@SD" tvg-logo="" group-title="General",[1023ms] Omroep Brabant Radio (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd3slqp9xhts6qb.cloudfront.net%2Flive%2Fomroepbrabant%2Fvisualradio%2Findex.m3u8
-#EXTINF:-1 tvg-id="MerweTV.nl@SD" tvg-logo="https://i.imgur.com/JjB7U1q.png" group-title="General",[1024ms] MerweTV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2ycaxub5x98iw.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fmerwetv%2Findex.m3u8
-#EXTINF:-1 tvg-id="OmroepBrabant.nl@SD" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="General",[1028ms] Omroep Brabant (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd3slqp9xhts6qb.cloudfront.net%2Flive%2Fomroepbrabant%2Ftv%2Findex.m3u8
-#EXTINF:-1 tvg-id="RTVSLOS.nl@SD" tvg-logo="https://i.imgur.com/xdzrT9A.png" group-title="Undefined",[1028ms] RTV SLOS (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd3b6teev8t7bb2.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Frtvslos%2Findex.m3u8
-#EXTINF:-1 tvg-id="Salto2.nl@SD" tvg-logo="https://i.imgur.com/6H3ycdL.png" group-title="Culture",[1028ms] Salto 2 (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd11lnfpmek70tc.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fbad78523%2Findex.m3u8
-#EXTINF:-1 tvg-id="RTVVeluwezoomTV.nl@SD" tvg-logo="https://i.imgur.com/KeHbJTM.png" group-title="Undefined",[1054ms] RTV Veluwezoom TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdt4pogjgi3q8s.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Frtvveluwezoom%2Findex.m3u8
-#EXTINF:-1 tvg-id="RTVNoordExtra.nl@SD" tvg-logo="https://i.imgur.com/T0UvltB.png" group-title="Undefined",[1054ms] RTV Noord Extra (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmedia.rtvnoord.nl%2Flive%2Frtvnoord%2Fextra%2Findex.m3u8
-#EXTINF:-1 tvg-id="OmroepSudwest.nl@SD" tvg-logo="https://i.imgur.com/XtKLmQS.png" group-title="General",[1057ms] Omroep Sudwest (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2ecwd3cgy6wo0.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fomroepsudwest%2Findex.m3u8
-#EXTINF:-1 tvg-id="Salto1.nl@SD" tvg-logo="https://i.imgur.com/hyubvS5.png" group-title="Entertainment",[1072ms] Salto 1 (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd11lnfpmek70tc.cloudfront.net%2Fnlpo%2Fclr-nlpo%2F2103d417%2Findex.m3u8
-#EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[1073ms] Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Fwttewaallvanstoetwegenzaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
-#EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-logo="https://i.imgur.com/a40chFI.png" group-title="Auto;Outdoor;Sports",[1080ms] InTrouble (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TweedeKamerMaxvanderStoelzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[1082ms] Tweede Kamer: Max van der Stoelzaal (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Fmaxvanderstoelzaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
-#EXTINF:-1 tvg-id="RTV1.nl@SD" tvg-logo="https://i.imgur.com/lRCsPWT.png" group-title="Undefined",[1115ms] RTV 1 (Netherlands) (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdy7fxpkq4ggk8.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Frtv1%2Findex.m3u8
-#EXTINF:-1 tvg-id="RTVNoord.nl@SD" tvg-logo="https://i.imgur.com/l92Cb6H.png" group-title="Undefined",[1118ms] RTV Noord (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmedia.rtvnoord.nl%2Flive%2Frtvnoord%2Ftv%2Findex.m3u8
-#EXTINF:-1 tvg-id="Radio538.nl@SD" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="Undefined",[1127ms] Radio 538 (270p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fradio538.prd1.talpatvcdn.nl%2F22e9bbf9616547d7bc162c993009c533%2Findex.m3u8
-#EXTINF:-1 tvg-id="TweedeKamerTroelstrazaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[1133ms] Tweede Kamer: Troelstrazaal (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Ftroelstrazaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
-#EXTINF:-1 tvg-id="OmroepZeeland.nl@SD" tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="General",[1150ms] Omroep Zeeland (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd3isaxd2t6q8zm.cloudfront.net%2Flive%2Fomroepzeeland%2Ftv%2Findex.m3u8
-#EXTINF:-1 tvg-id="TweedeKamerGroenvanPrinstererzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[1164ms] Tweede Kamer: Groen van Prinstererzaal (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Fgroenvanprinstererzaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
-#EXTINF:-1 tvg-id="RTVRijnmondExtra.nl@SD" tvg-logo="https://i.imgur.com/mlrd5ia.png" group-title="General",[1196ms] RTV Rijnmond Extra (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fdcur8bjarl5c2.cloudfront.net%2Flive%2Frijnmond%2Ftv-extra%2Findex.m3u8
-#EXTINF:-1 tvg-id="Regio90TV.nl@SD" tvg-logo="https://i.imgur.com/UGnm1jd.png" group-title="Undefined",[1249ms] Regio90 TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms2.mx-cd.net%2Fdtv-02%2F260-2403096%2FRegio90TV.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="WeertFMTV.nl@SD" tvg-logo="https://i.imgur.com/8bt6xt2.png" group-title="General",[1271ms] WeertFM TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms2.mx-cd.net%2Ftv%2F151-573495%2FWeertFM_TV.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="LEOMiddelseTV.nl@SD" tvg-logo="https://i.imgur.com/wF3FFZv.png" group-title="General",[1273ms] LEO Middelse TV (480p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms7.mx-cd.net%2Ftv%2F238-2061506%2FOmroep_LEO_TV.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="VechtdalTV.nl@SD" tvg-logo="https://i.imgur.com/MhcKEwr.png" group-title="Undefined",[1299ms] Vechtdal TV (480p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms2.mx-cd.net%2Ftv%2F81-334271%2FVechtdalTV.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RTVRijnstreekTV.nl@SD" tvg-logo="https://i.imgur.com/uM5sJJs.png" group-title="Undefined",[1300ms] RTV Rijnstreek TV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms7.mx-cd.net%2Ftv%2F290-3222276%2FRTV_Rijnstreek.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="WOS.nl@SD" tvg-logo="https://i.imgur.com/L7MUBIo.png" group-title="Undefined",[1303ms] WOS (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms2.mx-cd.net%2Fdtv-11%2F99-660295%2FWOS.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="SRCTV.nl@SD" tvg-logo="https://i.imgur.com/VSSbjrM.png" group-title="General",[1304ms] SRC TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fhighvolume155.streampartner.nl%2Fadminsrc%2Fadminsrc%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="NOOSTV.nl@SD" tvg-logo="https://i.imgur.com/X8xLcpT.png" group-title="General",[1307ms] NOOS TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms2.mx-cd.net%2Ftv%2F276-2860564%2FOmroep_NOOS.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="OmroepDommelland.nl@SD" tvg-logo="https://i.imgur.com/6Tkd9Pv.png" group-title="General",[1323ms] Omroep Dommelland (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fde68fck4398ez.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fomroepdommelland%2Findex.m3u8
-#EXTINF:-1 tvg-id="LangstraatTV.nl@SD" tvg-logo="https://i.imgur.com/xchUfks.png" group-title="General",[1323ms] Langstraat TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd1qpgfi3ivud4k.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Flangstraat%2Findex.m3u8
-#EXTINF:-1 tvg-id="OmroepLandvanCuijk.nl@SD" tvg-logo="https://i.imgur.com/Pt2gXJ1.png" group-title="General",[1326ms] Omroep Land van Cuijk (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd3go236bg358u.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fomroeplandvancuijk%2Findex.m3u8
-#EXTINF:-1 tvg-id="Haarlem105TV.nl@SD" tvg-logo="https://i.imgur.com/xyOVVZ0.png" group-title="General",[1339ms] Haarlem105 TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2qm50imcbcfqx.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fhaarlem105%2Findex.m3u8
-#EXTINF:-1 tvg-id="TweedeKamerKlompezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Undefined",[1346ms] Tweede Kamer: Klompezaal (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Fklompezaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
-#EXTINF:-1 tvg-id="SBS6Classics.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png" group-title="Entertainment",[1376ms] SBS6 Classics (1080p) [Geo-blocked]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fsbs6classic.prd1.talpatvcdn.nl%2Fv1%2Fmaster%2F8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e%2Fsbs6classic_ssai%2Ffea54560ba684701a2143f33a9cf4489%2Findex.m3u8
-#EXTINF:-1 tvg-id="OmroepHoekscheWaard.nl@SD" tvg-logo="https://i.imgur.com/pgMwNGV.png" group-title="General",[1390ms] Omroep Hoeksche Waard (480p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms2.mx-cd.net%2Ftv%2F272-2641704%2FHoeksche_Waard_TV.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RadioAalsmeerTV.nl@SD" tvg-logo="https://i.imgur.com/SYzjLlI.png" group-title="Undefined",[1391ms] Radio Aalsmeer TV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fradioaalsmeer.nl%3A4443%2Flive%2Ftv.m3u8
-#EXTINF:-1 tvg-id="KempenTV.nl@SD" tvg-logo="https://i.imgur.com/ZiPL9ar.png" group-title="General",[1395ms] KempenTV (480p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fms7.mx-cd.net%2Ftv%2FOmroep_de_Kempen.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Studio040TV.nl@SD" tvg-logo="https://i.imgur.com/NBludRL.png" group-title="General",[1411ms] Studio040 TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd591ovpa48r6h.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fstudio040tv%2Findex.m3u8
-#EXTINF:-1 tvg-id="RTVOost.nl@SD" tvg-logo="https://i.imgur.com/nTR6q9H.png" group-title="Undefined",[1531ms] RTV Oost (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd34cg2bnc08ruf.cloudfront.net%2Flive%2Frtvoost%2Ftv%2Findex.m3u8
-#EXTINF:-1 tvg-id="TweedeKamerThorbeckezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[1560ms] Tweede Kamer: Thorbeckezaal (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Fthorbeckezaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
-#EXTINF:-1 tvg-id="BNRNieuwsradio.nl@SD" tvg-logo="https://i.imgur.com/d0KLwkj.png" group-title="Undefined",[1586ms] BNR Nieuwsradio (720p) [Geo-blocked]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fbnr-cache-cdp.triple-it.nl%2Fstudio%2Findex.m3u8
-#EXTINF:-1 tvg-id="OmroepVenlo.nl@SD" tvg-logo="https://i.imgur.com/zjDZdmM.png" group-title="General",[1609ms] Omroep Venlo (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2pqcu7r58rgg1.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fomroepvenlo%2Findex.m3u8
-#EXTINF:-1 tvg-id="LOETV.nl@SD" tvg-logo="https://i.imgur.com/8i6OwaS.png" group-title="General",[1613ms] LOE TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F58c04fb1d143f.streamlock.net%2Floemedia%2Floemedia%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="BTLTV.nl@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Religious",[1618ms] BTL TV (Netherlands) (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivecdn.live247stream.com%2Fbtl%2Ftv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="A1TV.nl@SD" tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="General",[1634ms] A1 TV (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.a1mediagroep.nl%2Fhls%2Fa1tv.m3u8
-#EXTINF:-1 tvg-id="DitisHelmond.nl@SD" tvg-logo="https://i.imgur.com/fGAaBAs.png" group-title="General",[1650ms] Dit is Helmond (480p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fms2.mx-cd.net%2Ftv%2FOmroep_Helmond.smil%2Fchunklist.m3u8
-#EXTINF:-1 tvg-id="TVEllef.nl@SD" tvg-logo="https://i.imgur.com/FaCd2QY.png" group-title="Undefined",[1660ms] TV Ellef (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fcdn22.streampartner.nl%2Ftvellef%2Flivestream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="OPENRotterdamTV.nl@SD" tvg-logo="https://i.imgur.com/nWahRAb.png" group-title="General",[1666ms] OPEN Rotterdam TV (480p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms2.mx-cd.net%2Ftv%2F141-573555%2FOPEN_Rotterdam.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ORTSTV.nl@SD" tvg-logo="https://i.imgur.com/RZM4Myo.png" group-title="General",[1673ms] ORTS TV (480p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms7.mx-cd.net%2Ftv%2F200-1006554%2FORTS_TV.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="OmroepPeelrand.nl@SD" tvg-logo="https://i.imgur.com/K4AhATP.png" group-title="General",[1682ms] Omroep Peelrand (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms7.mx-cd.net%2Fdtv-11%2F208-1258878%2FOmroep_Peelrand_TV.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="OmroepTilburg.nl@SD" tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="General",[1700ms] Omroep Tilburg (480p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms7.mx-cd.net%2Ftv%2F184-782326%2FOmroep_Tilburg_TV.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="1TwenteTV.nl@SD" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="General",[1743ms] 1Twente TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms7.mx-cd.net%2Fdtv-11%2F198-989148%2F1Twente_TV.smil%2Fchunklist_w954512639_b4292608_slNLD.m3u8
-#EXTINF:-1 tvg-id="RTVPurmerend.nl@SD" tvg-logo="https://i.imgur.com/dLKSpqz.png" group-title="Undefined",[1806ms] RTV Purmerend (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms2.mx-cd.net%2Fdtv-10%2F268-2641474%2FRTV_Purmerend_TV.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="BR6TV.nl@SD" tvg-logo="https://i.imgur.com/NKtAiXu.png" group-title="Undefined",[1825ms] BR6 TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F58c04fb1d143f.streamlock.net%2Fslob%2Fslob%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="StreekTV.nl@SD" tvg-logo="https://i.imgur.com/48lkh57.png" group-title="Undefined",[1866ms] StreekTV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fcdn22.streampartner.nl%2Fstreektv%2Fstreektv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RadioJND.nl@SD" tvg-logo="https://i.imgur.com/nyVlZeL.png" group-title="Music",[1871ms] Radio JND (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fradiojnd.cdn.hostin.cc%2Fradiojnd%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="360TuneBox.nl@SD" tvg-logo="https://i.imgur.com/1Fyezng.png" group-title="Music",[1905ms] 360TuneBox (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdash3.antik.sk%2Flive%2Ftest_360_tunebox_medium_atk%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RN7.nl@SD" tvg-logo="https://i.imgur.com/dYBTrLc.png" group-title="Undefined",[2065ms] RN7 (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreams.rn7.nl%2Fmemfs%2F49823eea-a17d-4e39-a435-75b6d60df96e.m3u8
-#EXTINF:-1 tvg-id="OmroepLingewaard.nl@SD" tvg-logo="https://i.imgur.com/FqyTFVN.png" group-title="General",[2066ms] Omroep Lingewaard (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhighvolume02.streampartner.nl%2Fomroeplingewaard_1%2Fomroeplingewaard_1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="LONTV.nl@SD" tvg-logo="https://i.imgur.com/bH4XSGw.png" group-title="Undefined",[2093ms] LON TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreamingserver02.omroepnuenen.nl%2Flon%2Flonweb%2Fchunklist_w1463772894.m3u8
-#EXTINF:-1 tvg-id="RTVUtrecht.nl@SD" tvg-logo="https://i.imgur.com/nrvs30l.png" group-title="Undefined",[2094ms] RTV Utrecht (1080p)
+#EXTINF:-1 tvg-id="RTVUtrecht.nl@SD" tvg-logo="https://i.imgur.com/nrvs30l.png" group-title="Undefined",[577ms] RTV Utrecht (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd18rwjdhpr8dcw.cloudfront.net%2Flive%2Frtvutrecht%2Frtvutrecht%2Findex.m3u8
-#EXTINF:-1 tvg-id="SleutelstadTV.nl@SD" tvg-logo="https://i.imgur.com/ljVGMWV.png" group-title="General",[2095ms] Sleutelstad TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvideo-eu1.streamerr.co%2Fhls%2Fs7fdeb27a49%2Flive.m3u8
-#EXTINF:-1 tvg-id="MagicPowerRadio.nl@SD" tvg-logo="https://i.imgur.com/sWcwIte.png" group-title="Entertainment",[2139ms] Magic PowerRadio (288p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fserver-23.stream-server.nl%3A1936%2FMagic-PowerRadio%2FMagic-PowerRadio%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TweedeKamerActualiteitenkanaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[2156ms] Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTVOost.nl@SD" tvg-logo="https://i.imgur.com/nTR6q9H.png" group-title="Undefined",[586ms] RTV Oost (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd34cg2bnc08ruf.cloudfront.net%2Flive%2Frtvoost%2Ftv%2Findex.m3u8
+#EXTINF:-1 tvg-id="RTVRijnmondExtra.nl@SD" tvg-logo="https://i.imgur.com/mlrd5ia.png" group-title="General",[603ms] RTV Rijnmond Extra (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fdcur8bjarl5c2.cloudfront.net%2Flive%2Frijnmond%2Ftv-extra%2Findex.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.nl@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",[718ms] Nickelodeon (Netherlands)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F185.77.12.179%3A9981%2Fstream%2Fchannelid%2F788918401%3Fprofile%3Dpass
+#EXTINF:-1 tvg-id="RTVRijnmond.nl@SD" tvg-logo="https://i.imgur.com/fJTs9xH.png" group-title="Undefined",[725ms] RTV Rijnmond (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdcur8bjarl5c2.cloudfront.net%2Flive%2Frijnmond%2Ftv%2Findex.m3u8
+#EXTINF:-1 tvg-id="OmroepFlevoland.nl@SD" tvg-logo="https://i.imgur.com/rF4MTYD.png" group-title="General",[764ms] Omroep Flevoland (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd5ms27yy6exnf.cloudfront.net%2Flive%2Fomroepflevoland%2Ftv%2Findex.m3u8
+#EXTINF:-1 tvg-id="OmroepGelderland.nl@HD" tvg-logo="https://i.imgur.com/G08hKit.png" group-title="General",[766ms] Omroep Gelderland HD (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2od87akyl46nm.cloudfront.net%2Flive%2Fomroepgelderland%2Ftvgelderland-hls%2Findex.m3u8
+#EXTINF:-1 tvg-id="StudioRheden.nl@SD" tvg-logo="https://i.imgur.com/swfxaac.png" group-title="Undefined",[803ms] Studio Rheden (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.studiorhedenlive.nl%2Fhlstv%2Fstream.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="Science",[847ms] InWonder (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv%2Fplaylist%2Famg00861-terninternation-inwonder-samsungau%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MerweTV.nl@SD" tvg-logo="https://i.imgur.com/JjB7U1q.png" group-title="General",[864ms] MerweTV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2ycaxub5x98iw.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fmerwetv%2Findex.m3u8
+#EXTINF:-1 tvg-id="OmroepDommelland.nl@SD" tvg-logo="https://i.imgur.com/6Tkd9Pv.png" group-title="General",[878ms] Omroep Dommelland (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fde68fck4398ez.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fomroepdommelland%2Findex.m3u8
+#EXTINF:-1 tvg-id="LangstraatTV.nl@SD" tvg-logo="https://i.imgur.com/xchUfks.png" group-title="General",[892ms] Langstraat TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd1qpgfi3ivud4k.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Flangstraat%2Findex.m3u8
+#EXTINF:-1 tvg-id="Haarlem105TV.nl@SD" tvg-logo="https://i.imgur.com/xyOVVZ0.png" group-title="General",[894ms] Haarlem105 TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2qm50imcbcfqx.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fhaarlem105%2Findex.m3u8
+#EXTINF:-1 tvg-id="RTVMeppel.nl@SD" tvg-logo="https://i.imgur.com/RosyQkb.png" group-title="General",[895ms] RTV Meppel (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2eanln3bsfb0d.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Frtvmeppel%2Findex.m3u8
+#EXTINF:-1 tvg-id="Studio040TV.nl@SD" tvg-logo="https://i.imgur.com/NBludRL.png" group-title="General",[899ms] Studio040 TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd591ovpa48r6h.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fstudio040tv%2Findex.m3u8
+#EXTINF:-1 tvg-id="Radio538.nl@SD" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="Undefined",[906ms] Radio 538 (270p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fradio538.prd1.talpatvcdn.nl%2F22e9bbf9616547d7bc162c993009c533%2Findex.m3u8
+#EXTINF:-1 tvg-id="HorseCountryTV.uk@SD" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="Outdoor",[911ms] Horse & Country TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhnc-free-viewlift.amagi.tv%2FHNC_AUSTRALIA.m3u8
+#EXTINF:-1 tvg-id="RTVLOVE.nl@SD" tvg-logo="https://i.imgur.com/hucwX6v.png" group-title="General",[913ms] RTV LOVE (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2o8iss0ldenh4.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Frtvlove%2Findex.m3u8
+#EXTINF:-1 tvg-id="OmroepVenlo.nl@SD" tvg-logo="https://i.imgur.com/zjDZdmM.png" group-title="General",[932ms] Omroep Venlo (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2pqcu7r58rgg1.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fomroepvenlo%2Findex.m3u8
+#EXTINF:-1 tvg-id="OmroepWest.nl@HD" tvg-logo="https://i.imgur.com/5IDb9fk.png" group-title="Undefined",[963ms] Omroep West HD (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd1axml5ozykh3g.cloudfront.net%2Flive%2Fomroepwest%2Ftv%2Findex.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerTroelstrazaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[984ms] Tweede Kamer: Troelstrazaal (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Ftroelstrazaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
+#EXTINF:-1 tvg-id="XITE.nl@SD" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Music",[995ms] XITE (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fxite-rakuten.amagi.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="RPLWoerden.nl@SD" tvg-logo="https://i.imgur.com/UdYMXWQ.png" group-title="General",[1006ms] RPL Woerden (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd1893oi5c6e5u0.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Frpltvwoerden%2Findex.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerThorbeckezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[1007ms] Tweede Kamer: Thorbeckezaal (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Fthorbeckezaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
+#EXTINF:-1 tvg-id="AltenaTV.nl@SD" tvg-logo="https://i.imgur.com/0wblu0I.png" group-title="Undefined",[1014ms] Altena TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdnx1f4sl30ba2.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Faltenatv%2Findex.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerSuzeGroenewegzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[1022ms] Tweede Kamer: Suze Groenewegzaal (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Fsuzegroenewegzaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
+#EXTINF:-1 tvg-id="RTVNoordExtra.nl@SD" tvg-logo="https://i.imgur.com/T0UvltB.png" group-title="Undefined",[1022ms] RTV Noord Extra (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmedia.rtvnoord.nl%2Flive%2Frtvnoord%2Fextra%2Findex.m3u8
+#EXTINF:-1 tvg-id="OmroepSudwest.nl@SD" tvg-logo="https://i.imgur.com/XtKLmQS.png" group-title="General",[1023ms] Omroep Sudwest (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd2ecwd3cgy6wo0.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fomroepsudwest%2Findex.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerGroenvanPrinstererzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[1032ms] Tweede Kamer: Groen van Prinstererzaal (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Fgroenvanprinstererzaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
+#EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-logo="https://i.imgur.com/a40chFI.png" group-title="Auto;Outdoor;Sports",[1036ms] InTrouble (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerAlettaJacobszaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[1043ms] Tweede Kamer: Aletta Jacobszaal (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Falettajacobszaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
+#EXTINF:-1 tvg-id="OmroepLandvanCuijk.nl@SD" tvg-logo="https://i.imgur.com/Pt2gXJ1.png" group-title="General",[1049ms] Omroep Land van Cuijk (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd3go236bg358u.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fomroeplandvancuijk%2Findex.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[1053ms] Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Fwttewaallvanstoetwegenzaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
+#EXTINF:-1 tvg-id="TweedeKamerActualiteitenkanaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[1065ms] Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Fevenementenkanaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
-#EXTINF:-1 tvg-id="RTVHorizon.nl@SD" tvg-logo="https://i.imgur.com/wnRsI8B.png" group-title="Undefined",[2174ms] RTV Horizon (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv.rtvhorizon.nl%2Fhls%2Fhorizon%2F1_2%2Findex.m3u8
-#EXTINF:-1 tvg-id="Radio350.nl@SD" tvg-logo="https://i.imgur.com/3nkzXup.png" group-title="Undefined",[2195ms] Radio 350 (360p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.radio350.nl%2Fhls%2Fradio350.m3u8
-#EXTINF:-1 tvg-id="DanceTelevision.nl@SD" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Music",[2427ms] Dance Television (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fm1b2.worldcast.tv%2Fdancetelevisionone%2F2%2Fdancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="AssenTV.nl@SD" tvg-logo="https://i.imgur.com/upik15D.png" group-title="General",[2476ms] Assen TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftakeoff.jetstre.am%2F%3Faccount%3DOmroepAssen%26file%3DOmroepAssenTV%2Fplaylist.m3u8%26output%3Dplaylist.m3u8%26protocol%3Dhttps%26service%3Dwebdav%26type%3Dlive
-#EXTINF:-1 tvg-id="PodiumTV3.nl@SD" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="Undefined",[2568ms] Podium.TV 3 (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Frrr.sz.xlcdn.com%2F%3Faccount%3Dndc_mediagroep%26file%3DNDC3%26output%3Dplaylist.m3u8%26service%3Dwowza%26type%3Dlive
-#EXTINF:-1 tvg-id="RadioToppers.nl@SD" tvg-logo="https://i.imgur.com/9OMsUd7.png" group-title="Entertainment",[2579ms] RadioToppers (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fserver-67.stream-server.nl%3A1936%2FRadioToppers%2FRadioToppers%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="1AlmereTV.nl@SD" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="General",[2581ms] 1AlmereTV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd3472rjicrodic.cloudfront.net%2Fnlpo%2Fclr-nlpo%2F709d5260%2Findex.m3u8
-#EXTINF:-1 tvg-id="PodiumTV.nl@SD" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="Undefined",[2639ms] Podium.TV (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Frrr.sz.xlcdn.com%2F%3Faccount%3Dndc_mediagroep%26file%3DNDC1%26output%3Dplaylist.m3u8%26service%3Dwowza%26type%3Dlive
-#EXTINF:-1 tvg-id="BEATTV.nl@SD" tvg-logo="https://i.imgur.com/egK33Dj.png" group-title="Entertainment;Music",[2725ms] BEATTV (1080p)
+#EXTINF:-1 tvg-id="Salto1.nl@SD" tvg-logo="https://i.imgur.com/hyubvS5.png" group-title="Entertainment",[1071ms] Salto 1 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd11lnfpmek70tc.cloudfront.net%2Fnlpo%2Fclr-nlpo%2F2103d417%2Findex.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerEnquetezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",[1090ms] Tweede Kamer: Enquetezaal (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Fenquetezaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
+#EXTINF:-1 tvg-id="RTVNoord.nl@SD" tvg-logo="https://i.imgur.com/l92Cb6H.png" group-title="Undefined",[1117ms] RTV Noord (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmedia.rtvnoord.nl%2Flive%2Frtvnoord%2Ftv%2Findex.m3u8
+#EXTINF:-1 tvg-id="WeertFMTV.nl@SD" tvg-logo="https://i.imgur.com/8bt6xt2.png" group-title="General",[1204ms] WeertFM TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms2.mx-cd.net%2Ftv%2F151-573495%2FWeertFM_TV.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="RTVRijnstreekTV.nl@SD" tvg-logo="https://i.imgur.com/uM5sJJs.png" group-title="Undefined",[1213ms] RTV Rijnstreek TV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms7.mx-cd.net%2Ftv%2F290-3222276%2FRTV_Rijnstreek.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="OmroepTilburg.nl@SD" tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="General",[1216ms] Omroep Tilburg (480p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms7.mx-cd.net%2Ftv%2F184-782326%2FOmroep_Tilburg_TV.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="OmroepVenray.nl@SD" tvg-logo="https://i.imgur.com/uVqTbi2.png" group-title="General",[1225ms] Omroep Venray (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd3j015sg8r68y.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Fomroepvenray%2Findex.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerKlompezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Undefined",[1229ms] Tweede Kamer: Klompezaal (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivestreaming.b67buv2.tweedekamer.nl%2Flive%2Fklompezaal%2Findex.m3u8%3Fhd%3D1%26keyframes%3D1%26subtitles%3Dlive
+#EXTINF:-1 tvg-id="RTVSLOS.nl@SD" tvg-logo="https://i.imgur.com/xdzrT9A.png" group-title="Undefined",[1237ms] RTV SLOS (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd3b6teev8t7bb2.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Frtvslos%2Findex.m3u8
+#EXTINF:-1 tvg-id="RadioAalsmeerTV.nl@SD" tvg-logo="https://i.imgur.com/SYzjLlI.png" group-title="Undefined",[1248ms] Radio Aalsmeer TV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fradioaalsmeer.nl%3A4443%2Flive%2Ftv.m3u8
+#EXTINF:-1 tvg-id="BTLTV.nl@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Religious",[1254ms] BTL TV (Netherlands) (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivecdn.live247stream.com%2Fbtl%2Ftv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="OmroepPeelrand.nl@SD" tvg-logo="https://i.imgur.com/K4AhATP.png" group-title="General",[1265ms] Omroep Peelrand (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms7.mx-cd.net%2Fdtv-11%2F208-1258878%2FOmroep_Peelrand_TV.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="RTVVeluwezoomTV.nl@SD" tvg-logo="https://i.imgur.com/KeHbJTM.png" group-title="Undefined",[1283ms] RTV Veluwezoom TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdt4pogjgi3q8s.cloudfront.net%2Fnlpo%2Fclr-nlpo%2Frtvveluwezoom%2Findex.m3u8
+#EXTINF:-1 tvg-id="ORTSTV.nl@SD" tvg-logo="https://i.imgur.com/RZM4Myo.png" group-title="General",[1285ms] ORTS TV (480p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms7.mx-cd.net%2Ftv%2F200-1006554%2FORTS_TV.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="BEATTV.nl@SD" tvg-logo="https://i.imgur.com/egK33Dj.png" group-title="Entertainment;Music",[1290ms] BEATTV (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv.beatfm.nl%2Flive.m3u8
-#EXTINF:-1 tvg-id="NH.nl@SD" tvg-logo="https://i.imgur.com/SPkK4md.png" group-title="General;News",[2750ms] NH (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftakeoff.jetstre.am%2F%3Faccount%3Dnhnieuws%26file%3Dlive%26output%3Dplaylist.m3u8%26protocol%3Dhttps%26service%3Dwowza%26type%3Dlive
-#EXTINF:-1 tvg-id="Qmusic.nl@SD" tvg-logo="https://i.imgur.com/fMTuqDu.png" group-title="Music",[2863ms] Qmusic (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.qmusic.nl%2Fqmusic%2Fvideohls.m3u8
-#EXTINF:-1 tvg-id="ZO34.nl@SD" tvg-logo="https://i.imgur.com/yiihDg6.png" group-title="Undefined",[2897ms] ZO!34 (720p)
+#EXTINF:-1 tvg-id="OmroepZeeland.nl@SD" tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="General",[1292ms] Omroep Zeeland (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd3isaxd2t6q8zm.cloudfront.net%2Flive%2Fomroepzeeland%2Ftv%2Findex.m3u8
+#EXTINF:-1 tvg-id="A1TV.nl@SD" tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="General",[1296ms] A1 TV (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.a1mediagroep.nl%2Fhls%2Fa1tv.m3u8
+#EXTINF:-1 tvg-id="WOS.nl@SD" tvg-logo="https://i.imgur.com/L7MUBIo.png" group-title="Undefined",[1298ms] WOS (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms2.mx-cd.net%2Fdtv-11%2F99-660295%2FWOS.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="SBS6Classics.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png" group-title="Entertainment",[1352ms] SBS6 Classics (1080p) [Geo-blocked]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fsbs6classic.prd1.talpatvcdn.nl%2Fv1%2Fmaster%2F8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e%2Fsbs6classic_ssai%2Ffea54560ba684701a2143f33a9cf4489%2Findex.m3u8
+#EXTINF:-1 tvg-id="KempenTV.nl@SD" tvg-logo="https://i.imgur.com/ZiPL9ar.png" group-title="General",[1370ms] KempenTV (480p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fms7.mx-cd.net%2Ftv%2FOmroep_de_Kempen.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="RTVZulthe.nl@SD" tvg-logo="https://i.imgur.com/Z3zUUsJ.png" group-title="General",[1380ms] RTV Zulthe (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fms7.mx-cd.net%2Ftv%2F212-1299944%2FRTV-Zulthe.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="JinTV.nl@SD" tvg-logo="https://i.imgur.com/37ajg2j.png" group-title="Culture",[1428ms] Jin TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.jintv.org%2Fmedialive%2Fjintv.m3u8
+#EXTINF:-1 tvg-id="LEOMiddelseTV.nl@SD" tvg-logo="https://i.imgur.com/wF3FFZv.png" group-title="General",[1430ms] LEO Middelse TV (480p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms7.mx-cd.net%2Ftv%2F238-2061506%2FOmroep_LEO_TV.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="BNRNieuwsradio.nl@SD" tvg-logo="https://i.imgur.com/d0KLwkj.png" group-title="Undefined",[1469ms] BNR Nieuwsradio (720p) [Geo-blocked]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fbnr-cache-cdp.triple-it.nl%2Fstudio%2Findex.m3u8
+#EXTINF:-1 tvg-id="LokaleOmroepZeewolde.nl@SD" tvg-logo="https://i.imgur.com/Dw4u9wT.png" group-title="General",[1488ms] Lokale Omroep Zeewolde (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5e2b3e3114872.streamlock.net%3A1443%2Flozlive%2Fsmil%3Alozlive%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="LOETV.nl@SD" tvg-logo="https://i.imgur.com/8i6OwaS.png" group-title="General",[1496ms] LOE TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F58c04fb1d143f.streamlock.net%2Floemedia%2Floemedia%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="OPENRotterdamTV.nl@SD" tvg-logo="https://i.imgur.com/nWahRAb.png" group-title="General",[1506ms] OPEN Rotterdam TV (480p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms2.mx-cd.net%2Ftv%2F141-573555%2FOPEN_Rotterdam.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="BR6TV.nl@SD" tvg-logo="https://i.imgur.com/NKtAiXu.png" group-title="Undefined",[1515ms] BR6 TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F58c04fb1d143f.streamlock.net%2Fslob%2Fslob%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="RTVWesterwolde.nl@SD" tvg-logo="https://i.imgur.com/002YXP6.png" group-title="Undefined",[1536ms] RTV Westerwolde (432p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmedia.rtvwesterwolde.nl%2Fhls%2Flive%2Findex.m3u8
+#EXTINF:-1 tvg-id="FeelGoodTV.nl@SD" tvg-logo="https://i.imgur.com/qvs1BKr.png" group-title="Undefined",[1542ms] Feel Good TV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F58c04fb1d143f.streamlock.net%2Ffeel_good_radio_1%2Ffeel_good_radio_1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="RTVNoordoostFriesland.nl@SD" tvg-logo="https://i.imgur.com/CpQIedo.png" group-title="Undefined",[1569ms] RTV Noordoost Friesland (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F593aed234297b.streamlock.net%2Frtvnof2%2Flive%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ZO34.nl@SD" tvg-logo="https://i.imgur.com/yiihDg6.png" group-title="Undefined",[1602ms] ZO!34 (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvideo.uitzending.tv%3A19360%2Fzo34%2Fzo34.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl@SD" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="General",[1608ms] 1Twente TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms7.mx-cd.net%2Fdtv-11%2F198-989148%2F1Twente_TV.smil%2Fchunklist_w954512639_b4292608_slNLD.m3u8
+#EXTINF:-1 tvg-id="360TuneBox.nl@SD" tvg-logo="https://i.imgur.com/1Fyezng.png" group-title="Music",[1660ms] 360TuneBox (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdash3.antik.sk%2Flive%2Ftest_360_tunebox_medium_atk%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="OmroepHoekscheWaard.nl@SD" tvg-logo="https://i.imgur.com/pgMwNGV.png" group-title="General",[1683ms] Omroep Hoeksche Waard (480p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms2.mx-cd.net%2Ftv%2F272-2641704%2FHoeksche_Waard_TV.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MagicPowerRadio.nl@SD" tvg-logo="https://i.imgur.com/sWcwIte.png" group-title="Entertainment",[1724ms] Magic PowerRadio (288p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fserver-23.stream-server.nl%3A1936%2FMagic-PowerRadio%2FMagic-PowerRadio%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="StreekstadCentral.nl@SD" tvg-logo="https://i.imgur.com/9gM6rPb.png" group-title="General",[1791ms] Streekstad Central (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvideostreams.streekstadcentraal.nl%2Fhls%2Fstreekstad_alkmaar%2Fstreekstad_alkmaar.m3u8
+#EXTINF:-1 tvg-id="HypeVisualRadio.nl@SD" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png" group-title="Music",[1894ms] Hype Visual Radio (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreammix.alsolnet.com%2Fhyperadio%2Flive%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MaLive.nl@SD" tvg-logo="https://i.imgur.com/0Vzg2OR.png" group-title="Entertainment",[1922ms] MaLive (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.salto.nl%2Fhls%2Fmalive_high.m3u8
+#EXTINF:-1 tvg-id="NOOSTV.nl@SD" tvg-logo="https://i.imgur.com/X8xLcpT.png" group-title="General",[1974ms] NOOS TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms2.mx-cd.net%2Ftv%2F276-2860564%2FOmroep_NOOS.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AssenTV.nl@SD" tvg-logo="https://i.imgur.com/upik15D.png" group-title="General",[1996ms] Assen TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftakeoff.jetstre.am%2F%3Faccount%3DOmroepAssen%26file%3DOmroepAssenTV%2Fplaylist.m3u8%26output%3Dplaylist.m3u8%26protocol%3Dhttps%26service%3Dwebdav%26type%3Dlive
+#EXTINF:-1 tvg-id="LONTV.nl@SD" tvg-logo="https://i.imgur.com/bH4XSGw.png" group-title="Undefined",[2001ms] LON TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreamingserver02.omroepnuenen.nl%2Flon%2Flonweb%2Fchunklist_w1463772894.m3u8
+#EXTINF:-1 tvg-id="RN7.nl@SD" tvg-logo="https://i.imgur.com/dYBTrLc.png" group-title="Undefined",[2028ms] RN7 (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreams.rn7.nl%2Fmemfs%2F49823eea-a17d-4e39-a435-75b6d60df96e.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabantRadio.nl@SD" tvg-logo="" group-title="General",[2047ms] Omroep Brabant Radio (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd3slqp9xhts6qb.cloudfront.net%2Flive%2Fomroepbrabant%2Fvisualradio%2Findex.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabant.nl@SD" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="General",[2096ms] Omroep Brabant (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fd3slqp9xhts6qb.cloudfront.net%2Flive%2Fomroepbrabant%2Ftv%2Findex.m3u8
+#EXTINF:-1 tvg-id="TheChatShowChannel.uk@SD" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" group-title="Comedy;Series",[2196ms] The Chat Show Channel (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Famg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv%2Fplaylist%2Famg00426-littledotstudio-thechatshow-samsungnz%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="DanceTelevision.nl@SD" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Music",[2210ms] Dance Television (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fm1b2.worldcast.tv%2Fdancetelevisionone%2F2%2Fdancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="NH.nl@SD" tvg-logo="https://i.imgur.com/SPkK4md.png" group-title="General;News",[2589ms] NH (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftakeoff.jetstre.am%2F%3Faccount%3Dnhnieuws%26file%3Dlive%26output%3Dplaylist.m3u8%26protocol%3Dhttps%26service%3Dwowza%26type%3Dlive
+#EXTINF:-1 tvg-id="Regio90TV.nl@SD" tvg-logo="https://i.imgur.com/UGnm1jd.png" group-title="Undefined",[2622ms] Regio90 TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fms2.mx-cd.net%2Fdtv-02%2F260-2403096%2FRegio90TV.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="PodiumTV3.nl@SD" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="Undefined",[2721ms] Podium.TV 3 (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Frrr.sz.xlcdn.com%2F%3Faccount%3Dndc_mediagroep%26file%3DNDC3%26output%3Dplaylist.m3u8%26service%3Dwowza%26type%3Dlive
+#EXTINF:-1 tvg-id="PodiumTV2.nl@SD" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="Undefined",[2875ms] Podium.TV 2 (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Frrr.sz.xlcdn.com%2F%3Faccount%3Dndc_mediagroep%26file%3DNDC2%26output%3Dplaylist.m3u8%26service%3Dwowza%26type%3Dlive
