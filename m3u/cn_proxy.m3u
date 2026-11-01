@@ -1,88 +1,104 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV16.cn@HD" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports",[636ms] CCTV-16 HD (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv16hd.m3u8
-#EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/gxzypd.jpg" group-title="General;Travel",[693ms] Guangxi Variety & Travel Channel
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F111.59.24.227%3A8181%2Ftsfile%2Flive%2F1001_1.m3u8%3Fkey%3Dtxiptv%26playlive%3D1%26authid%3D0
-#EXTINF:-1 tvg-id="NeiMonggolTV.cn@SD" tvg-logo="https://i.imgur.com/WeugJBE.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",[731ms] Nei Monggol TV (960p)
+#EXTINF:-1 tvg-id="VoATVChina.cn@SD" tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="Undefined",[369ms] VoA TV China (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvoa-ingest.akamaized.net%2Fhls%2Flive%2F2033878%2Ftvmc08%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn@SD" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="Documentary",[477ms] CCTV-9 (576i)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fxykt-fix.github.io%2FY77.m3u8
+#EXTINF:-1 tvg-id="CCTV16.cn@HD" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports",[584ms] CCTV-16 HD (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv16hd.m3u8
+#EXTINF:-1 tvg-id="CCTVPlus2.cn@SD" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="News",[597ms] CCTV+ 2 (600p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcd-live-stream.news.cctvplus.com%2Flive%2Fsmil%3ACHANNEL2.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="BreadTV.cn@SD" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" group-title="Undefined",[676ms] Bread TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvideo.bread-tv.com%3A8091%2Fhls-live24%2Fonline%2Findex.m3u8
+#EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/gxzypd.jpg" group-title="General;Travel",[677ms] Guangxi Variety & Travel Channel
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F111.59.24.227%3A8181%2Ftsfile%2Flive%2F1001_1.m3u8%3Fkey%3Dtxiptv%26playlive%3D1%26authid%3D0
+#EXTINF:-1 tvg-id="QTV6.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" group-title="Kids;Lifestyle",[679ms] QTV-6
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fvideo10.qtv.com.cn%2Fdrm%2Fqtv6at%2Fmanifest.m3u8
+#EXTINF:-1 tvg-id="AngelTV.in@Chinese" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",[715ms] Angel TV Chinese (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjanya-digimix.akamaized.net%2Fvglive-sk-999451%2Fchinese%2Fngrp%3Aangelchinese_all%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="QTV3.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" group-title="Movies",[737ms] QTV-3
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fvideo10.qtv.com.cn%2Fdrm%2Fqtv3at%2Fmanifest.m3u8
+#EXTINF:-1 tvg-id="XinjiangTV5.cn@SD" tvg-logo="https://i.imgur.com/PARupWK.png" group-title="Undefined",[756ms] Xinjiang TV 5
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F120.70.60.179%3A9901%2Ftsfile%2Flive%2F1002_1.m3u8%3Fkey%3Dtxiptv%26playlive%3D1%26authid%3D0
+#EXTINF:-1 tvg-id="CCTVPlus1.cn@SD" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="News",[777ms] CCTV+ 1 (600p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcd-live-stream.news.cctvplus.com%2Flive%2Fsmil%3ACHANNEL1.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="SipingTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" group-title="General",[795ms] Siping TV
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fstream2.jlntv.cn%2Fsptv%2Fsd%2Flive.m3u8%3F_upt%3Df27750421743154598
+#EXTINF:-1 tvg-id="QTV1.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv1.jpg" group-title="News",[849ms] QTV-1
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fvideo10.qtv.com.cn%2Fdrm%2Fqtv1at%2Fmanifest.m3u8
+#EXTINF:-1 tvg-id="GuangdongSatelliteTV.cn@SD" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg" group-title="Undefined",[868ms] Guangdong Satellite TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fh5cul1yar48um3t.wcetv.com%2Fhls%2Fgdsatellite.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn@HD" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",[975ms] CCTV-1 HD (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F69.30.245.50%2Flive%2Fcctv1.m3u8
+#EXTINF:-1 tvg-id="ABNChina.us@SD" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="Religious",[983ms] ABN China (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmediaserver.abnvideos.com%2Fstreams%2Fabnchina.m3u8
+#EXTINF:-1 tvg-id="ChuxiongNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/chuxiongtv.jpg" group-title="News",[1004ms] Chuxiong News Channel [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fhwapi.yntv.net%2Few265l%2F848y54.m3u8
+#EXTINF:-1 tvg-id="QTV5.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg" group-title="General",[1020ms] QTV-5
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fvideo10.qtv.com.cn%2Fdrm%2Fqtv5at%2Fmanifest.m3u8
+#EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn@HD" tvg-logo="https://i.imgur.com/eFxD3hq.png" group-title="Movies",[1041ms] CCTV-The First Theater (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F38.75.136.137%3A98%2Fgslb%2Fdsdqpub%2Fdyjc.m3u8%3Fauth%3Dtestpub
+#EXTINF:-1 tvg-id="CCTVStormMusic.cn@HD" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="Music",[1081ms] CCTV-Storm Music (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F38.75.136.137%3A98%2Fgslb%2Fdsdqpub%2Ffyyy.m3u8%3Fauth%3Dtestpub
+#EXTINF:-1 tvg-id="QTV2.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" group-title="Lifestyle",[1090ms] QTV-2
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fvideo10.qtv.com.cn%2Fdrm%2Fqtv2at%2Fmanifest.m3u8
+#EXTINF:-1 tvg-id="CCTVCultureofQuality.cn@SD" tvg-logo="https://i.imgur.com/Paig8gG.png" group-title="Undefined",[1092ms] CCTV-Culture of Quality SD (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F38.75.136.137%3A98%2Fgslb%2Fdsdqpub%2Fysjp.m3u8%3Fauth%3Dtestpub
+#EXTINF:-1 tvg-id="CCTVBilliards.cn@HD" tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="Sports",[1104ms] CCTV-Billiards (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F38.75.136.137%3A98%2Fgslb%2Fdsdqpub%2Fystq.m3u8%3Fauth%3Dtestpub
+#EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="Education",[1112ms] CCTV-10 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv10hd.m3u8
+#EXTINF:-1 tvg-id="HunanEconomyChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/hnjs.jpg" group-title="General",[1115ms] Hunan Economy Channel
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fp8.vzan.com%2Fslowlive%2F415983998730568937%2Flive.m3u8
+#EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="Music",[1116ms] CCTV-11 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv11hd.m3u8
+#EXTINF:-1 tvg-id="CCTVGolfTennis.cn@HD" tvg-logo="https://i.imgur.com/iqJJTmH.png" group-title="Sports",[1121ms] CCTV-Golf & Tennis (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F38.75.136.137%3A98%2Fgslb%2Fdsdqpub%2Fgefwq.m3u8%3Fauth%3Dtestpub
+#EXTINF:-1 tvg-id="CCTV3.cn@SD" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="Entertainment",[1122ms] CCTV-3 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv3hd.m3u8
+#EXTINF:-1 tvg-id="CCTVStormTheater.cn@HD" tvg-logo="https://i.imgur.com/rEttkKm.png" group-title="Movies",[1126ms] CCTV-Storm Theater (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F38.75.136.137%3A98%2Fgslb%2Fdsdqpub%2Ffyjc.m3u8%3Fauth%3Dtestpub
+#EXTINF:-1 tvg-id="CCTV8.cn@SD" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="Culture",[1168ms] CCTV-8 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv8hd.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",[1211ms] CCTV-1 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv1hd.m3u8
+#EXTINF:-1 tvg-id="AndoTV.cn@SD" tvg-logo="https://i.imgur.com/EpTsFVu.png" group-title="Religious",[1223ms] Ando TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fplay.kankanlive.com%2Flive%2F1711956137852982.m3u8
+#EXTINF:-1 tvg-id="JingmenComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jmsxwpd.jpg" group-title="News",[1340ms] Jingmen Comprehensive News Channel
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.jmtv.com.cn%2Fxwzh%2Fsd%2Flive.m3u8%3F_upt%3D341f4b8e1791883036
+#EXTINF:-1 tvg-id="DongguanComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/dgtv1.jpg" group-title="News",[1355ms] Dongguan Comprehensive News Channel
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.sun0769.com%2Fdgrtv1%2Fmp4tv1_800%2Findex.m3u8
+#EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn@SD" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="Undefined",[1481ms] Zhejiang International Channel
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fali-m-l.cztv.com%2Fchannels%2Flantian%2Fchannel10%2F1080p.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports",[1588ms] CCTV-5+ (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv5p
+#EXTINF:-1 tvg-id="XinjiangTV8.cn@SD" tvg-logo="https://i.imgur.com/JJw1Ndc.png" group-title="Undefined",[1656ms] Xinjiang TV 8
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F120.70.60.179%3A9901%2Ftsfile%2Flive%2F1002_1.m3u8%3Fauthid%3D0%26key%3Dtxiptv%26playlive%3D1
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn@SD" tvg-logo="https://i.imgur.com/WeugJBE.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",[1667ms] Nei Monggol TV (960p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcdn4.skygo.mn%2Flive%2Fdisk1%2FNeigMGL%2FHLSv3-FTA%2FNeigMGL.m3u8
-#EXTINF:-1 tvg-id="SipingTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" group-title="General",[786ms] Siping TV
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2Fstream2.jlntv.cn%2Fsptv%2Fsd%2Flive.m3u8%3F_upt%3Df27750421743154598
-#EXTINF:-1 tvg-id="XinjiangTV5.cn@SD" tvg-logo="https://i.imgur.com/PARupWK.png" group-title="Undefined",[801ms] Xinjiang TV 5
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F120.70.60.179%3A9901%2Ftsfile%2Flive%2F1002_1.m3u8%3Fkey%3Dtxiptv%26playlive%3D1%26authid%3D0
-#EXTINF:-1 tvg-id="XinjiangTV8.cn@SD" tvg-logo="https://i.imgur.com/JJw1Ndc.png" group-title="Undefined",[810ms] Xinjiang TV 8
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F120.70.60.179%3A9901%2Ftsfile%2Flive%2F1002_1.m3u8%3Fauthid%3D0%26key%3Dtxiptv%26playlive%3D1
-#EXTINF:-1 tvg-id="CCTVPlus2.cn@SD" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="News",[817ms] CCTV+ 2 (600p) [Not 24/7]
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcd-live-stream.news.cctvplus.com%2Flive%2Fsmil%3ACHANNEL2.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="BreadTV.cn@SD" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" group-title="Undefined",[820ms] Bread TV (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fvideo.bread-tv.com%3A8091%2Fhls-live24%2Fonline%2Findex.m3u8
-#EXTINF:-1 tvg-id="HebiNewsChannel.cn@SD" tvg-logo="https://i.imgur.com/Osw5yRW.png" group-title="News",[893ms] Hebi News Channel (480p) [Not 24/7]
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2Fpili-live-hls.hebitv.com%2Fhebi%2Fhebi.m3u8
-#EXTINF:-1 tvg-id="QTV5.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg" group-title="General",[964ms] QTV-5
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2Fvideo10.qtv.com.cn%2Fdrm%2Fqtv5at%2Fmanifest.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Chinese" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",[966ms] Angel TV Chinese (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fjanya-digimix.akamaized.net%2Fvglive-sk-999451%2Fchinese%2Fngrp%3Aangelchinese_all%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ABNChina.us@SD" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="Religious",[1043ms] ABN China (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fmediaserver.abnvideos.com%2Fstreams%2Fabnchina.m3u8
-#EXTINF:-1 tvg-id="QTV6.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" group-title="Kids;Lifestyle",[1043ms] QTV-6
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2Fvideo10.qtv.com.cn%2Fdrm%2Fqtv6at%2Fmanifest.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn@HD" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",[1081ms] CCTV-1 HD (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F69.30.245.50%2Flive%2Fcctv1.m3u8
-#EXTINF:-1 tvg-id="CCTVWomensFashion.cn@SD" tvg-logo="https://i.imgur.com/FVbP0aP.png" group-title="Lifestyle",[1148ms] CCTV-Women's Fashion SD (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F38.75.136.137%3A98%2Fgslb%2Fdsdqpub%2Fnxss.m3u8%3Fauth%3Dtestpub
-#EXTINF:-1 tvg-id="ChuxiongNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/chuxiongtv.jpg" group-title="News",[1279ms] Chuxiong News Channel [Not 24/7]
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2Fhwapi.yntv.net%2Few265l%2F848y54.m3u8
-#EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",[1325ms] CCTV-6 HD (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F69.30.245.50%2Flive%2Fcctv6.m3u8
-#EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="Music",[1328ms] CCTV-11 (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv11hd.m3u8
-#EXTINF:-1 tvg-id="XizangTVChinese.cn@SD" tvg-logo="https://i.imgur.com/V0v3ST5.png" group-title="Undefined",[1379ms] Xizang TV Chinese
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fpili-live-hls-zdzz-tv.zzxwcm.cn%2Fzdzz-tv%2Fnqzh.m3u8
-#EXTINF:-1 tvg-id="CCTV13.cn@SD" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="News",[1426ms] CCTV-13 (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv13hd.m3u8
-#EXTINF:-1 tvg-id="QTV4.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv4.jpg" group-title="General",[1445ms] QTV-4
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2Fvideo10.qtv.com.cn%2Fdrm%2Fqtv4at%2Fmanifest.m3u8
-#EXTINF:-1 tvg-id="QTV2.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" group-title="Lifestyle",[1446ms] QTV-2
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2Fvideo10.qtv.com.cn%2Fdrm%2Fqtv2at%2Fmanifest.m3u8
-#EXTINF:-1 tvg-id="GuangzhouTV.cn@SD" tvg-logo="https://i.imgur.com/ff3KQXp.png" group-title="General",[1467ms] Guangzhou TV
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Ftencentplaybusiness.gztv.com%2Flive%2Fzonghes.m3u8
-#EXTINF:-1 tvg-id="DongguanComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/dgtv1.jpg" group-title="News",[1503ms] Dongguan Comprehensive News Channel
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fstream.sun0769.com%2Fdgrtv1%2Fmp4tv1_800%2Findex.m3u8
-#EXTINF:-1 tvg-id="CCTVPlus1.cn@SD" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="News",[1641ms] CCTV+ 1 (600p) [Not 24/7]
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fcd-live-stream.news.cctvplus.com%2Flive%2Fsmil%3ACHANNEL1.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="CCTV9.cn@SD" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="Documentary",[1664ms] CCTV-9 (576i)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fxykt-fix.github.io%2FY77.m3u8
-#EXTINF:-1 tvg-id="CCTVHealth.cn@HD" tvg-logo="https://i.imgur.com/AzpRtCz.png" group-title="Lifestyle",[1665ms] CCTV-Health (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F38.75.136.137%3A98%2Fgslb%2Fdsdqpub%2Fwsjk.m3u8%3Fauth%3Dtestpub
-#EXTINF:-1 tvg-id="CCTVCultureofQuality.cn@SD" tvg-logo="https://i.imgur.com/Paig8gG.png" group-title="Undefined",[1736ms] CCTV-Culture of Quality SD (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F38.75.136.137%3A98%2Fgslb%2Fdsdqpub%2Fysjp.m3u8%3Fauth%3Dtestpub
-#EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="Education",[1766ms] CCTV-10 (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv10hd.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",[1777ms] CCTV-1 (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv1hd.m3u8
-#EXTINF:-1 tvg-id="AndoTV.cn@SD" tvg-logo="https://i.imgur.com/EpTsFVu.png" group-title="Religious",[1796ms] Ando TV (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2Fplay.kankanlive.com%2Flive%2F1711956137852982.m3u8
-#EXTINF:-1 tvg-id="AnhuiTV.cn@SD" tvg-logo="https://i.imgur.com/gDn101f.png" group-title="Undefined",[2057ms] Anhui TV
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Frestream.pdtvhd.com%2Fmemfs%2Fc1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
-#EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn@HD" tvg-logo="https://i.imgur.com/QlF96eS.png" group-title="Documentary",[2082ms] CCTV-Weapon & Technology (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F38.75.136.137%3A98%2Fgslb%2Fdsdqpub%2Fgfjs.m3u8%3Fauth%3Dtestpub
-#EXTINF:-1 tvg-id="CCTV14.cn@HD" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="Kids",[2083ms] CCTV-14 HD (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv14hd.m3u8
-#EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn@SD" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="Undefined",[2202ms] Zhejiang International Channel
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fali-m-l.cztv.com%2Fchannels%2Flantian%2Fchannel10%2F1080p.m3u8
-#EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="Sports",[2327ms] CCTV-Storm Football (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F38.75.136.137%3A98%2Fgslb%2Fdsdqpub%2Ffyzq.m3u8%3Fauth%3Dtestpub
-#EXTINF:-1 tvg-id="CCTV8.cn@SD" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="Culture",[2355ms] CCTV-8 (720p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv8hd.m3u8
-#EXTINF:-1 tvg-id="HunanTV.cn@SD" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="Undefined",[2388ms] Hunan TV (2160p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2Fhlsal-ldvt.qing.mgtv.com%2Fnn_live%2Fnn_x64%2FdWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi%2FHNWSZGST.m3u8
-#EXTINF:-1 tvg-id="CCTV17.cn@HD" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Education;Outdoor",[2458ms] CCTV-17 HD (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv17hd.m3u8
-#EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn@HD" tvg-logo="https://i.imgur.com/eFxD3hq.png" group-title="Movies",[2480ms] CCTV-The First Theater (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F38.75.136.137%3A98%2Fgslb%2Fdsdqpub%2Fdyjc.m3u8%3Fauth%3Dtestpub
-#EXTINF:-1 tvg-id="HunanEconomyChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/hnjs.jpg" group-title="General",[2497ms] Hunan Economy Channel
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fp8.vzan.com%2Fslowlive%2F415983998730568937%2Flive.m3u8
-#EXTINF:-1 tvg-id="BaichengTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" group-title="General",[2658ms] Baicheng TV [Geo-blocked]
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=https%3A%2F%2Fstream2.jlntv.cn%2Fbaicheng1%2Fsd%2Flive.m3u8
-#EXTINF:-1 tvg-id="CCTVStormTheater.cn@HD" tvg-logo="https://i.imgur.com/rEttkKm.png" group-title="Movies",[2771ms] CCTV-Storm Theater (1080p)
-https://fc.jymm5820.dpdns.org&https://render-proxy-hy55.onrender.com/proxy?url=http%3A%2F%2F38.75.136.137%3A98%2Fgslb%2Fdsdqpub%2Ffyjc.m3u8%3Fauth%3Dtestpub
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn4.skygo.mn%2Flive%2Fdisk1%2FNeigMGL%2FHLSv3-FTA%2FNeigMGL.m3u8
+#EXTINF:-1 tvg-id="TVBRICSChinese.cn@SD" tvg-logo="https://i.imgur.com/896132Z.png" group-title="General",[1688ms] TV BRICS Chinese (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fchibrics.mediacdn.ru%2Fcdn%2Fbrics%2Fchinese%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="GuangzhouTV.cn@SD" tvg-logo="https://i.imgur.com/ff3KQXp.png" group-title="General",[1734ms] Guangzhou TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftencentplaybusiness.gztv.com%2Flive%2Fzonghes.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn@SD" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="Business",[2092ms] CCTV-2 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv2hd.m3u8
+#EXTINF:-1 tvg-id="ChifengComprehensiveNewsChanel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" group-title="News",[2121ms] Chifeng Comprehensive News Chanel
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fplay1-qk.nmtv.cn%2Flive%2F1735546697341033.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music",[2191ms] CCTV-15 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv15hd.m3u8
+#EXTINF:-1 tvg-id="HarbinComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="News",[2217ms] Harbin Comprehensive News Channel
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.hrbtv.net%2Fxwzh%2Fplaylist.m3u8%3F_upt%3Def41dd531755913594
+#EXTINF:-1 tvg-id="HebiNewsChannel.cn@SD" tvg-logo="https://i.imgur.com/Osw5yRW.png" group-title="News",[2270ms] Hebi News Channel (480p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fpili-live-hls.hebitv.com%2Fhebi%2Fhebi.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",[2294ms] CCTV-6 HD (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F69.30.245.50%2Flive%2Fcctv6.m3u8
+#EXTINF:-1 tvg-id="CCTVNostalgiaTheater.cn@HD" tvg-logo="https://i.imgur.com/TVs9PBc.png" group-title="Classic",[2503ms] CCTV-Nostalgia Theater (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F38.75.136.137%3A98%2Fgslb%2Fdsdqpub%2Fhjjc.m3u8%3Fauth%3Dtestpub
+#EXTINF:-1 tvg-id="CCTV14.cn@HD" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="Kids",[2637ms] CCTV-14 HD (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv14hd.m3u8
+#EXTINF:-1 tvg-id="CCTV17.cn@HD" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Education;Outdoor",[2717ms] CCTV-17 HD (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F74.91.26.218%3A82%2Flive%2Fcctv17hd.m3u8
+#EXTINF:-1 tvg-id="KangbaTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/kangbatv.jpg" group-title="General",[2733ms] Kangba TV
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F110.185.237.164%3A8888%2Fhls%2F30%2Findex.m3u8
+#EXTINF:-1 tvg-id="LanzhouComprehensiveNewsChannel.cn@SD" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662" group-title="News",[2837ms] Lanzhou Comprehensive News Channel
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fliveplus.lzr.com.cn%2Fxwzh%2FHD%2Flive.m3u8
