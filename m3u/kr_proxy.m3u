@@ -1,94 +1,90 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HLKJDTV.kr@SD" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="General",[353ms] HLKJ-DTV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F123.140.197.22%2Fstream%2F1%2Fplay.m3u8
-#EXTINF:-1 tvg-id="HLDRDTV.kr@SD" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="General",[367ms] HLDR-DTV (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="RUTCTV.kr@SD" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg" group-title="Religious",[325ms] RUTC TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fd26sxnc75smwvh.cloudfront.net%2Flivehttporigin%2Frutclive_720p2.stream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="HLDRDTV.kr@SD" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="General",[373ms] HLDR-DTV (540p) [Not 24/7]
 https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F1.222.207.80%3A1935%2Flive%2Fcjbtv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HLCGDTV.kr@SD" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="General",[413ms] HLCG-DTV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="HLCGDTV.kr@SD" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="General",[381ms] HLCG-DTV (360p) [Not 24/7]
 https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F61.82.49.4%3A1935%2Flive%2F_definst_%2Ftv.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVChosun.kr@SD" tvg-logo="https://i.imgur.com/62EwaCG.png" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv" group-title="General",[415ms] TV Chosun (720p)
+#EXTINF:-1 tvg-id="HLAODTV.kr@SD" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="General",[401ms] HLAO-DTV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F211.33.246.4%3A32954%2Fcj_live%2FmyStream.sdp%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="LotteHomeShopping.kr@SD" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",[433ms] Lotte Home Shopping (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fpchlslivesw.lotteimall.com%2Flive%2Flivestream%2Flotteimalllive_mp4.m3u8
+#EXTINF:-1 tvg-id="GugbangTV.kr@SD" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",[461ms] Gugbang TV (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fmediaworks.dema.mil.kr%3A1935%2Flive_edge%2Fcudo.sdp%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="KCTV.kr@SD" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",[469ms] KCTV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F119.77.96.184%3A1935%2Fchn05%2Fchn05%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="GCN.kr@SD" tvg-logo="https://i.imgur.com/yzwtMOC.png" group-title="Religious",[472ms] GCN (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fliveko24-manminglobal3.ktcdn.co.kr%2Fliveko24%2Fgcnko_1300k.stream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVChosun.kr@SD" tvg-logo="https://i.imgur.com/62EwaCG.png" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv" group-title="General",[477ms] TV Chosun (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fonair.cdn.tvchosun.com%2Forigin1%2F_definst_%2Ftvchosun_s1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ArirangRadio.kr@SD" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="General",[483ms] Arirang Radio (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Famdlive-ch01.ctnd.com.edgesuite.net%2Farirang_3ch%2Fsmil%3Aarirang_3ch.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",[494ms] Arirang TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Famdlive-ch01.ctnd.com.edgesuite.net%2Farirang_1ch%2Fsmil%3Aarirang_1ch.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="LotteHomeShopping.kr@SD" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",[502ms] Lotte Home Shopping (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fpchlslivesw.lotteimall.com%2Flive%2Flivestream%2Flotteimalllive_mp4.m3u8
-#EXTINF:-1 tvg-id="LotteOneTV.kr@SD" tvg-logo="https://i.imgur.com/bXe7tYE.png" group-title="Shop",[518ms] Lotte OneTV (720p)
+#EXTINF:-1 tvg-id="LotteOneTV.kr@SD" tvg-logo="https://i.imgur.com/bXe7tYE.png" group-title="Shop",[480ms] Lotte OneTV (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonetvhlslive.lotteimall.com%2Flotteonetvlive%2Flotteonetvlive.mp4.m3u8
-#EXTINF:-1 tvg-id="WShopping.kr@SD" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="Shop",[552ms] W Shopping (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fliveout.catenoid.net%2Flive-05-wshopping%2Fwshopping_1500k%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVChosun2.kr@SD" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" http-referrer="http://broadcast.tvchosun.com/onair/on2.cstv" group-title="Undefined",[561ms] TV Chosun 2 (720p)
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fonair2.cdn.tvchosun.com%2Forigin2%2F_definst_%2Ftvchosun_s3%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="NHTV.kr@SD" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="Entertainment",[614ms] NHTV (720p)
+#EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr@SD" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",[497ms] Shinsegae TV Shopping (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fliveout.catenoid.net%2Flive-02-shinsegaetvshopping%2Fshinsegaetvshopping_720p%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr@SD" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="Shop",[522ms] Hyundai Home Shopping + Shop (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdtvstreaming.hyundaihmall.com%2Fnewcjp3%2F_definst_%2Fnewcjpstream.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="NHTV.kr@SD" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="Entertainment",[532ms] NHTV (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fnonghyup.flive.skcdn.com%2Fnonghyup%2F_definst_%2Fnhlive%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HLAODTV.kr@SD" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="General",[635ms] HLAO-DTV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F211.33.246.4%3A32954%2Fcj_live%2FmyStream.sdp%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HLDHDTV.kr@SD" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="General",[722ms] HLDH-DTV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="ABN.kr@SD" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="General",[546ms] ABN (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvod2.abn.co.kr%2FIPHONE%2Fabn.m3u8
+#EXTINF:-1 tvg-id="CJOnStylePlus.kr@SD" tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="Shop",[550ms] CJ OnStyle+ (540p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive-ch2.cjonstyle.net%2Fcjosplus%2Flive2%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="HLAWDTV.kr@SD" tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="General",[557ms] HLAW-DTV (360p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fandong.webcasting.co.kr%2Flive%2Fmbc%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="HLDHDTV.kr@SD" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="General",[559ms] HLDH-DTV (1080p) [Not 24/7]
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvod.ikbc.co.kr%2FKBCTV%2Ftv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="KTV.kr@SD" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Legislative;News",[737ms] KTV (South Korea) (1080p)
+#EXTINF:-1 tvg-id="HLCTDTV.kr@SD" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="General",[609ms] HLCT-DTV (480p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ee1ec6f32118.streamlock.net%2Flive%2Flivetv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="HLDQDTV.kr@SD" tvg-logo="https://i.imgur.com/byss0Ld.png" group-title="General",[616ms] HLDQ-DTV (406p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F61.85.197.53%3A1935%2Fjtv_live%2FmyStream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="HLAMDTV.kr@SD" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",[620ms] HLAM-DTV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fvod.mpmbc.co.kr%3A1935%2Flive%2Fencoder-tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="EBSKids.kr@SD" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",[629ms] EBS Kids (400p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Febsonair.ebs.co.kr%2Febsufamilypc%2Ffamilypc1m%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="EBS1TV.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png" group-title="Education",[631ms] EBS 1TV (400p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Febsonair.ebs.co.kr%2Febs1familypc%2Ffamilypc1m%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ShoppingNT.kr@SD" tvg-logo="https://i.imgur.com/BgbJp5X.png" group-title="Shop",[631ms] Shopping NT (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.shoppingntmall.com%2Flive%2F10011.m3u8
+#EXTINF:-1 tvg-id="EBSPlus2.kr@SD" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Education",[632ms] EBS Plus 2 (400p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Febsonair.ebs.co.kr%2Fplus2familypc%2Ffamilypc1m%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="HLDPDTV.kr@SD" tvg-logo="https://i.imgur.com/BBCoqIf.png" group-title="General",[675ms] HLDP-DTV (540p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.ubc.co.kr%2Fhls%2Fubctvstream%2Findex.m3u8
+#EXTINF:-1 tvg-id="HLANDTV.kr@SD" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="General",[680ms] HLAN-DTV (480p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.chmbc.co.kr%2FTV%2FmyStream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="KTV.kr@SD" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Legislative;News",[685ms] KTV (South Korea) (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhlive.ktv.go.kr%2Flive%2Fklive_h.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="NBS.kr@SD" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Education",[751ms] NBS (720p)
+#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr@SD" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="Shop",[687ms] Gongyoung Home Shopping (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fetv.publichs.com%2Flive5.stream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="NBS.kr@SD" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Education",[705ms] NBS (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmedia.joycorp.co.kr%3A4443%2Flive%2Fngrp%3Alive_all%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/22.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",[789ms] MNB World (1080p)
+#EXTINF:-1 tvg-id="FGTV.kr@SD" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png" group-title="Religious",[708ms] FGTV (South Korea) (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffgtvlive.fgtv.com%2Fsmil%3Afgtv.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="HLATDTV.kr@SD" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="General",[710ms] HLAT-DTV (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5c3639aa99149.streamlock.net%2Flive_TV%2Ftv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="GSMyShop.kr@SD" tvg-logo="https://i.imgur.com/ETPQwui.png" group-title="Shop",[713ms] GS My Shop (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fgstv-myshop.gsshop.com%2Fmyshop_hd%2Fmyshop_hd.stream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="GSShop.kr@SD" tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="Shop",[731ms] GS Shop (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fgstv-gsshop.gsshop.com%2Fgsshop_hd%2Fgsshop_hd.stream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="GugakTV.kr@SD" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",[747ms] Gugak TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmgugaklive.nowcdn.co.kr%2Fgugakvideo%2Fgugakvideo.stream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="CJOnStyle.kr@SD" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="Shop",[792ms] CJ OnStyle (540p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive-ch1.cjonstyle.net%2Fcjmalllive%2Fstream2%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="HyundaiHomeShopping.kr@SD" tvg-logo="https://i.imgur.com/NJpECmq.png" group-title="Shop",[846ms] Hyundai Home Shopping (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivejj.hyundaihmall.com%3A8443%2Flive%2Fngrp%3Ahmall.stream_pc%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="HLAJDTV.kr@SD" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="General",[1105ms] HLAJ-DTV (352p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fwowza.jejumbc.com%2Flive%2Ftv_jejumbc%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="BBSTV.kr@SD" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="Religious",[1134ms] BBS TV (South Korea) (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fbbstv.clouducs.com%3A1935%2Fbbstv-live%2Flivestream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",[1256ms] Arirang TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Famdlive-ch01.ctnd.com.edgesuite.net%2Farirang_1ch%2Fsmil%3Aarirang_1ch.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="EBS2TV.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/960px-EBS_2TV_Logo.svg.png" group-title="Education",[1347ms] EBS 2TV (400p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Febsonair.ebs.co.kr%2Febs2familypc%2Ffamilypc1m%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/22.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",[2390ms] MNB World (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn4.skygo.mn%2Flive%2Fdisk1%2FMNB_World%2FDASH-FTA%2FMNB_World.mpd
-#EXTINF:-1 tvg-id="GCN.kr@SD" tvg-logo="https://i.imgur.com/yzwtMOC.png" group-title="Religious",[836ms] GCN (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fliveko24-manminglobal3.ktcdn.co.kr%2Fliveko24%2Fgcnko_1300k.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HLAMDTV.kr@SD" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",[843ms] HLAM-DTV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fvod.mpmbc.co.kr%3A1935%2Flive%2Fencoder-tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ABN.kr@SD" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="General",[860ms] ABN (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvod2.abn.co.kr%2FIPHONE%2Fabn.m3u8
-#EXTINF:-1 tvg-id="CJOnStylePlus.kr@SD" tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="Shop",[865ms] CJ OnStyle+ (540p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive-ch2.cjonstyle.net%2Fcjosplus%2Flive2%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HyundaiHomeShopping.kr@SD" tvg-logo="https://i.imgur.com/NJpECmq.png" group-title="Shop",[872ms] Hyundai Home Shopping (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivejj.hyundaihmall.com%3A8443%2Flive%2Fngrp%3Ahmall.stream_pc%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="GugbangTV.kr@SD" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",[908ms] Gugbang TV (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fmediaworks.dema.mil.kr%3A1935%2Flive_edge%2Fcudo.sdp%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="GSMyShop.kr@SD" tvg-logo="https://i.imgur.com/ETPQwui.png" group-title="Shop",[914ms] GS My Shop (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fgstv-myshop.gsshop.com%2Fmyshop_hd%2Fmyshop_hd.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="FGTV.kr@SD" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png" group-title="Religious",[915ms] FGTV (South Korea) (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffgtvlive.fgtv.com%2Fsmil%3Afgtv.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ShoppingNT.kr@SD" tvg-logo="https://i.imgur.com/BgbJp5X.png" group-title="Shop",[950ms] Shopping NT (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.shoppingntmall.com%2Flive%2F10011.m3u8
-#EXTINF:-1 tvg-id="EBSKids.kr@SD" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",[965ms] EBS Kids (400p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Febsonair.ebs.co.kr%2Febsufamilypc%2Ffamilypc1m%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="EBS2TV.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/960px-EBS_2TV_Logo.svg.png" group-title="Education",[1019ms] EBS 2TV (400p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Febsonair.ebs.co.kr%2Febs2familypc%2Ffamilypc1m%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus1.kr@SD" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Education",[1028ms] EBS Plus 1 (400p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Febsonair.ebs.co.kr%2Fplus1familypc%2Ffamilypc1m%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="KCTV.kr@SD" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",[1031ms] KCTV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F119.77.96.184%3A1935%2Fchn05%2Fchn05%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="BTNTV.kr@SD" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="Religious",[1044ms] BTN TV (South Korea) (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fbtn.nowcdn.co.kr%2Fbtn%2Fbtnlive2m%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="CJOnStyle.kr@SD" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="Shop",[1049ms] CJ OnStyle (540p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive-ch1.cjonstyle.net%2Fcjmalllive%2Fstream2%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="GSShop.kr@SD" tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="Shop",[1075ms] GS Shop (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fgstv-gsshop.gsshop.com%2Fgsshop_hd%2Fgsshop_hd.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HLATDTV.kr@SD" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="General",[1095ms] HLAT-DTV (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5c3639aa99149.streamlock.net%2Flive_TV%2Ftv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="EBSEnglish.kr@SD" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Education",[1110ms] EBS English (400p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Febsonair.ebs.co.kr%2Fplus3familypc%2Ffamilypc1m%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="EBS1TV.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png" group-title="Education",[1110ms] EBS 1TV (400p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Febsonair.ebs.co.kr%2Febs1familypc%2Ffamilypc1m%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="GugakTV.kr@SD" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",[1249ms] Gugak TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmgugaklive.nowcdn.co.kr%2Fgugakvideo%2Fgugakvideo.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr@SD" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="Shop",[1332ms] Gongyoung Home Shopping (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fetv.publichs.com%2Flive5.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus2.kr@SD" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Education",[1388ms] EBS Plus 2 (400p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Febsonair.ebs.co.kr%2Fplus2familypc%2Ffamilypc1m%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HLAJDTV.kr@SD" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="General",[1408ms] HLAJ-DTV (352p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fwowza.jejumbc.com%2Flive%2Ftv_jejumbc%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HLCTDTV.kr@SD" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="General",[1493ms] HLCT-DTV (480p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ee1ec6f32118.streamlock.net%2Flive%2Flivetv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr@SD" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="Shop",[1611ms] Hyundai Home Shopping + Shop (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdtvstreaming.hyundaihmall.com%2Fnewcjp3%2F_definst_%2Fnewcjpstream.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="BBSTV.kr@SD" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="Religious",[1619ms] BBS TV (South Korea) (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fbbstv.clouducs.com%3A1935%2Fbbstv-live%2Flivestream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HLDPDTV.kr@SD" tvg-logo="https://i.imgur.com/BBCoqIf.png" group-title="General",[2225ms] HLDP-DTV (540p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.ubc.co.kr%2Fhls%2Fubctvstream%2Findex.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",[2506ms] Arirang TV HD (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fvid%3D111
-#EXTINF:-1 tvg-id="HLANDTV.kr@SD" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="General",[2848ms] HLAN-DTV (480p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.chmbc.co.kr%2FTV%2FmyStream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ArirangRadio.kr@SD" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="General",[2481ms] Arirang Radio (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Famdlive-ch01.ctnd.com.edgesuite.net%2Farirang_3ch%2Fsmil%3Aarirang_3ch.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVChosun2.kr@SD" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" http-referrer="http://broadcast.tvchosun.com/onair/on2.cstv" group-title="Undefined",[2587ms] TV Chosun 2 (720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fonair2.cdn.tvchosun.com%2Forigin2%2F_definst_%2Ftvchosun_s3%2Fplaylist.m3u8
