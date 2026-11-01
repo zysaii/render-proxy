@@ -1,216 +1,194 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FinansTurkTV.tr@SD" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" group-title="News",[861ms] Finans Turk TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fyayin30.haber100.com%2Flive%2Ffinansturk%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="BricveSatrancTV.tr@SD" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="Undefined",[948ms] Bric ve Satranc TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="BricveSatrancTV.tr@SD" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="Undefined",[758ms] Bric ve Satranc TV (480p) [Not 24/7]
 https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F139.162.182.79%2Flive%2Ftest%2Findex.m3u8
-#EXTINF:-1 tvg-id="BBCFirst.uk@Turkiye" tvg-logo="https://i.imgur.com/UBoBYUI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Entertainment",[967ms] BBC First Turkiye
+#EXTINF:-1 tvg-id="CartoonNetwork.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",[781ms] Cartoon Network (Turkiye)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F176.65.153.40%3A6002%2Fplay%2Fa013%2Findex.m3u8
+#EXTINF:-1 tvg-id="BBCFirst.uk@Turkiye" tvg-logo="https://i.imgur.com/UBoBYUI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Entertainment",[847ms] BBC First Turkiye
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F88.212.7.14%2Flive%2Fbbc_first%2Findex.m3u8
-#EXTINF:-1 tvg-id="MekameleenTV.tr@SD" tvg-logo="https://i.imgur.com/q7iVchl.png" group-title="News",[973ms] Mekameleen TV (1080p)
+#EXTINF:-1 tvg-id="ATVAvrupa.tr@SD" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" group-title="Undefined",[893ms] ATV Avrupa (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fflask-api-hls-atvavrupahdtrkvz-live.onrender.com%2Fhls_stream%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="MekameleenTV.tr@SD" tvg-logo="https://i.imgur.com/q7iVchl.png" group-title="News",[925ms] Mekameleen TV (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmn-nl.mncdn.com%2Fmekameleen%2Fsmil%3Amekameleentv.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr@Turkiye" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",[1085ms] Eurosport 2 Turkiye
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fandro.mangeinde4.lat%2Fchecklist%2Fandrostreamlivees2.m3u8
-#EXTINF:-1 tvg-id="SpacetoonTurkey.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" http-referrer="https://spacetoon.com.tr/" group-title="Animation;Kids",[1102ms] Spacetoon Turkey (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ArasTV.tr@SD" tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="General",[1005ms] Aras TV (576p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F1.rtmp.org%2Ftv217%2Fyayin.stream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="SpacetoonTurkey.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" http-referrer="https://spacetoon.com.tr/" group-title="Animation;Kids",[1014ms] Spacetoon Turkey (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://spacetoon.com.tr/
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive-tr-next.spacetoongo.com%2FST_TR_NEXT%2Fhls%2Fh7qefeiwfbjn1.m3u8
-#EXTINF:-1 tvg-id="HaberGlobal.tr@SD" tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="News",[1105ms] Haber Global (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv.ensonhaber.com%2Fhaberglobal%2Fhaberglobal.m3u8
-#EXTINF:-1 tvg-id="ElsharqTV.tr@SD" tvg-logo="https://i.imgur.com/8vmfZb5.png" group-title="General",[1108ms] Elsharq TV (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmn-nl.mncdn.com%2Felsharq_live%2Flive%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="FBTV.tr@SD" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="Sports",[1113ms] FB TV
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F1hskrdto.rocketcdn.com%2Ffenerbahcetv.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ZarokTV.tr@SD" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Undefined",[1294ms] Zarok TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fzindikurmanci.zaroktv.com.tr%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="ArasTV.tr@SD" tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="General",[1299ms] Aras TV (576p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F1.rtmp.org%2Ftv217%2Fyayin.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="EdessaTV.tr@SD" tvg-logo="https://i.imgur.com/rhU6j9I.png" group-title="Entertainment",[1314ms] Edessa TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcanli.edessatv.com%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="Haber61TV.tr@SD" tvg-logo="https://i.imgur.com/2a2XUKl.png" group-title="News",[1320ms] Haber61 TV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn-haber61tv.yayin.com.tr%2Fhaber61tv%2Fsmil%3Ahaber61tv.smil%2Findex.m3u8
-#EXTINF:-1 tvg-id="LalegulTV.tr@SD" tvg-logo="https://i.imgur.com/wwCysFs.png" group-title="Religious",[1340ms] Lalegul TV (1080p)
+#EXTINF:-1 tvg-id="Eurosport1.fr@Turkiye" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",[1083ms] Eurosport 1 Turkiye
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fandro.mangeinde4.lat%2Fchecklist%2Fandrostreamlivees1.m3u8
+#EXTINF:-1 tvg-id="LalegulTV.tr@SD" tvg-logo="https://i.imgur.com/wwCysFs.png" group-title="Religious",[1136ms] Lalegul TV (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flbl.netmedya.net%2Fhls%2Flalegultv.m3u8
-#EXTINF:-1 tvg-id="Number1Ask.tr@SD" tvg-logo="https://i.imgur.com/slwbux7.png" group-title="Music",[1354ms] Number 1 Ask (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtkgeuihrlfwlive%2Fu_stream_5c9e18f9cea15_1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RTGint.ru@SD" tvg-logo="https://i.imgur.com/ZpUNou4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Travel",[1371ms] RTG int.
+#EXTINF:-1 tvg-id="ElsharqTV.tr@SD" tvg-logo="https://i.imgur.com/8vmfZb5.png" group-title="General",[1159ms] Elsharq TV (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmn-nl.mncdn.com%2Felsharq_live%2Flive%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="PersianaTurkiye.fr@SD" tvg-logo="" group-title="Entertainment",[1225ms] Persiana Turkiye
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fturkhls.persiana.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="TGRTHaber.tr@SD" tvg-logo="https://i.imgur.com/PrxwKDw.png" group-title="News",[1226ms] TGRT Haber (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcanli.tgrthaber.com%2Ftgrt.m3u8
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr@SD" tvg-logo="https://i.imgur.com/VwWTnf0.png" group-title="General",[1252ms] TGRT Belgesel (576p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtsxxkzwwuqtglive%2Fbroadcast_5fe462afc6a0e.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.tr@SD" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Undefined",[1260ms] Zarok TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fzindikurmanci.zaroktv.com.tr%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="4UTV.tr@SD" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment",[1280ms] 4U TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.4utv.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="Kanal23.tr@SD" tvg-logo="https://i.imgur.com/3br8RCq.png" group-title="General",[1302ms] Kanal 23 (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn-kanal23.yayin.com.tr%2Fkanal23%2Findex.m3u8
+#EXTINF:-1 tvg-id="SercemTV.tr@HD" tvg-logo="https://sercemtv.com.tr/sercemlogo.jpg" group-title="Culture;General;Religious",[1330ms] Sercem TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcanli.sercemtv.com.tr%2Fhls%2F0%2Fstream.m3u8
+#EXTINF:-1 tvg-id="RTGint.ru@SD" tvg-logo="https://i.imgur.com/ZpUNou4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Travel",[1350ms] RTG int.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F213.91.179.28%3A8000%2Fplay%2Fa0bw
-#EXTINF:-1 tvg-id="PersianaTurkiye.fr@SD" tvg-logo="" group-title="Entertainment",[1381ms] Persiana Turkiye
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fturkhls.persiana.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="Number1Damar.tr@SD" tvg-logo="https://i.imgur.com/rYtbAGZ.png" group-title="Music",[1420ms] Number 1 Damar (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtkgeuihrlfwlive%2Fu_stream_5c9e198784bdc_1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="4UTV.tr@SD" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment",[1439ms] 4U TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhls.4utv.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="YOLTV.de@SD" tvg-logo="https://i.imgur.com/rTBX6lS.png" group-title="General",[1473ms] YOL TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.yoltv.com%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="TV4.tr@SD" tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="Undefined",[1477ms] TV 4 (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fturkmedya-live.ercdn.net%2Ftv4%2Ftv4.m3u8
-#EXTINF:-1 tvg-id="Kanal23.tr@SD" tvg-logo="https://i.imgur.com/3br8RCq.png" group-title="General",[1480ms] Kanal 23 (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn-kanal23.yayin.com.tr%2Fkanal23%2Findex.m3u8
-#EXTINF:-1 tvg-id="Kanal7Avrupa.tr@SD" tvg-logo="https://i.imgur.com/wlfyj5l.png" group-title="Entertainment",[1483ms] Kanal 7 Avrupa (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivetv.radyotvonline.net%2Fkanal7live%2Fkanal7avr%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Ekoturk.tr@SD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65" group-title="News",[1489ms] Ekoturk (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.ekoturk.net%2Fhls%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="Number1TV.tr@SD" tvg-logo="https://i.imgur.com/02cDIBi.png" group-title="Music",[1511ms] Number 1 TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtkgeuihrlfwlive%2Fbroadcast_5c9e17cd59e8b.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="IlkeTV.tr@HD" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="Undefined",[1512ms] Ilke TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.ilketv.com.tr%2Fhls%2Filkecanli.m3u8
-#EXTINF:-1 tvg-id="TV264.tr@SD" tvg-logo="https://i.imgur.com/tudXdOZ.png" group-title="Undefined",[1583ms] TV 264 (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtdxkkitgbrckilive%2Fbroadcast_5ee244263fd6d.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TRT3.tr@SD" tvg-logo="https://i.imgur.com/JrWFwBd.png" group-title="Undefined",[1615ms] TRT 3 (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv-trt3.live.trt.com.tr%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="TGRTHaber.tr@SD" tvg-logo="https://i.imgur.com/PrxwKDw.png" group-title="News",[1621ms] TGRT Haber (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcanli.tgrthaber.com%2Ftgrt.m3u8
-#EXTINF:-1 tvg-id="MTurkTV.tr@SD" tvg-logo="https://i.imgur.com/xj1gvrq.png" group-title="General",[1633ms] MTurk TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Fmuglaturk%2Fbant1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="DiyanetTV.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png" group-title="Religious",[1639ms] Diyanet TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Feustr73.mediatriple.net%2Fvideoonlylive%2Fmtikoimxnztxlive%2Fbroadcast_5e3bf95a47e07.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Kanal32.tr@SD" tvg-logo="" group-title="General",[1639ms] Kanal 32 (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Fkanal32%2Fbant1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ETVManisa.tr@SD" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" group-title="Undefined",[1651ms] ETV Manisa (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Fmanisaetv%2Fbant1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="GuneydoguTV.tr@SD" tvg-logo="https://i.imgur.com/JT5pp3Y.png" group-title="News",[1661ms] Guneydogu TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Fgtv%2Fbant1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="AlZahraTVTurkic.tr@SD" tvg-logo="https://i.imgur.com/QEHKGnG.png" group-title="Religious",[1663ms] Al-Zahra TV Turkic (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.al-zahratv.com%2Flive%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="AlmahriahTV.tr@SD" tvg-logo="https://i.imgur.com/GgEeTNr.png" group-title="News",[1670ms] Almahriah TV (576p)
+#EXTINF:-1 tvg-id="KNMusicTV.az@SD" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" group-title="Music",[1350ms] KN Music TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn4.yayin.com.tr%2Fkntv%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 tvg-id="AlmahriahTV.tr@SD" tvg-logo="https://i.imgur.com/GgEeTNr.png" group-title="News",[1371ms] Almahriah TV (576p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstarmenajo.com%2Fhls%2Falmahriah%2Findex.m3u8
-#EXTINF:-1 tvg-id="FortunaTV.tr@SD" tvg-logo="https://i.imgur.com/ZbUSlOC.png" group-title="Lifestyle",[1670ms] Fortuna TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Fftvturk%2Fbant1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TV52.tr@SD" tvg-logo="https://i.imgur.com/k4R5CzO.png" group-title="Undefined",[1707ms] TV 52 (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Ftv52%2Fbant1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ESTV.tr@SD" tvg-logo="https://i.imgur.com/epAEBrp.png" group-title="Undefined",[1712ms] ES TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_estv%2Festv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TonTV.tr@SD" tvg-logo="https://i.imgur.com/f0Soeob.png" group-title="Undefined",[1722ms] Ton TV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_tontv%2Ftontv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Number1Dance.tr@SD" tvg-logo="https://i.imgur.com/ZM4PSyq.png" group-title="Music",[1726ms] Number 1 Dance (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtkgeuihrlfwlive%2Fu_stream_5c9e2aa8acf44_1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="IcelTV.tr@SD" tvg-logo="https://i.imgur.com/CGwImKv.png" group-title="Undefined",[1727ms] Icel TV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Ficeltv%2Fbant1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ETVKayseri.tr@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj" group-title="General",[1744ms] ETV Kayseri (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_etv%2Fetv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="FlashHaberTV.tr@SD" tvg-logo="" group-title="News",[1748ms] Flash Haber TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtyycglqauzjhlive%2Fbroadcast_67c053c48829f.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Van65TV.tr@SD" tvg-logo="https://van65tv.com/assets/images/logo/logo.png" group-title="General",[1752ms] Van 65 TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_van65%2Fvan65%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Kanal15.tr@SD" tvg-logo="https://i.imgur.com/wb1Cdc9.png" group-title="General",[1770ms] Kanal 15 (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kanal15%2Fkanal15%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="DHA.tr@SD" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="News",[1771ms] DHA (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F603c568fccdf5.streamlock.net%2Flive%2Fdhaweb1_C5efC%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="KanalFirat.tr@SD" tvg-logo="https://i.imgur.com/3o8Rokp.png" group-title="General",[1773ms] Kanal Firat (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kanalfirat%2Fkanalfirat%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Kanal26.tr@SD" tvg-logo="https://i.imgur.com/Mr7XPii.png" group-title="General",[1773ms] Kanal 26 (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kanal26%2Fkanal26%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="VavTV.tr@SD" tvg-logo="https://i.imgur.com/jw0gB8L.png" group-title="Undefined",[1778ms] Vav TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fplaylist.fasttvcdn.com%2Fpl%2Frfrk9821hdy9dayo8wfyha%2Fkltr-sanat-tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="SunRTV.tr@SD" tvg-logo="https://i.imgur.com/64tph9N.png" group-title="Undefined",[1785ms] Sun RTV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_sunrtv%2Fsunrtv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr@SD" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="News",[1792ms] Halk TV SD (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhalktv-live.daioncdn.net%2Fhalktv%2Fhalktv.m3u8
-#EXTINF:-1 tvg-id="Kanal3.tr@SD" tvg-logo="https://i.imgur.com/eXErSv0.png" group-title="General",[1793ms] Kanal 3 (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kanal3%2Fkanal3%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TRTEBALise.tr@SD" tvg-logo="https://i.imgur.com/vj2L2L2.png" group-title="Education",[1810ms] TRT EBA Lise (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv-e-okul02.medya.trt.com.tr%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="NTV.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png" group-title="General",[1810ms] NTV (Turkiye)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdogus.daioncdn.net%2Fntv%2Fntv.m3u8%3Fapp%3Dntv_web
-#EXTINF:-1 tvg-id="MinikaCocuk.tr@SD" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Kids",[1816ms] Minika Cocuk (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Frnttwmjcin.turknet.ercdn.net%2Flcpmvefbyo%2Fminikago_cocuk%2Fminikago_cocuk.m3u8
-#EXTINF:-1 tvg-id="MaviKaradenizTV.tr@SD" tvg-logo="https://i.imgur.com/wyWappU.png" group-title="General",[1822ms] MaviKaradeniz TV (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_mavikaradeniz%2Fmavikaradeniz%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="KayTV.tr@SD" tvg-logo="https://i.imgur.com/MymuDJ1.png" group-title="General",[1831ms] Kay TV (576p) [Geo-blocked]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kaytv%2Fkaytv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="KralPopTV.tr@SD" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="Music",[1835ms] Kral Pop TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdogus-live.daioncdn.net%2Fkralpoptv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Kanal58.tr@SD" tvg-logo="https://i.imgur.com/Rgc66sv.png" group-title="General",[1843ms] Kanal 58 (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kanal58%2Fkanal58%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ATVAlanya.tr@SD" tvg-logo="https://i.imgur.com/bUwarR0.png" group-title="General",[1854ms] ATV Alanya (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn-alanyatv.yayin.com.tr%2Falanyatv%2Falanyatv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ErzurumWebTV.tr@SD" tvg-logo="https://i.imgur.com/HF7N4Li.png" group-title="General",[1858ms] Erzurum Web TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fwin29.yayin.com.tr%2Ferzurumwebtv%2Ferzurumwebtv%2Fiptvdelisi.m3u8
-#EXTINF:-1 tvg-id="Kanal12.tr@SD" tvg-logo="https://i.imgur.com/51xCkXG.png" group-title="General",[1859ms] Kanal 12 (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kanal12%2Fkanal12%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="EuroD.tr@SD" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="General",[1890ms] Euro D (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.duhnet.tv%2FS2%2FHLS_LIVE%2Feurodnp%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TRTTurk.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" group-title="Undefined",[1902ms] TRT Turk (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv-trtturk.medya.trt.com.tr%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="DreamTurk.tr@SD" tvg-logo="https://i.imgur.com/vJ8VaZi.png" group-title="Music",[1917ms] Dream Turk (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.duhnet.tv%2FS2%2FHLS_LIVE%2Fdreamturknp%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="LuysTV.tr@SD" tvg-logo="https://i.imgur.com/9EruWIQ.png" group-title="Culture",[1942ms] Luys TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtpayqrfkgirxelive%2Fbroadcast_5e91c5ac96898.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HTSporTV.tr@SD" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="Sports",[1951ms] HTSpor TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fciner.daioncdn.net%2Fht-spor%2Fht-spor.m3u8%3Fapp%3Dweb
-#EXTINF:-1 tvg-id="KocaeliTV.tr@SD" tvg-logo="https://i.imgur.com/LeTP4zq.png" group-title="General",[1972ms] Kocaeli TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge.taksimbilisim.com%2Fkocaelitv%2Fbant1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ERTV.tr@SD" tvg-logo="https://i.imgur.com/VDGEPrD.png" group-title="General",[1977ms] ERTV (1080p) [Geo-blocked]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_ertv_new%2Fertv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="DenizPostasiTV.tr@SD" tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="General",[2026ms] Deniz Postasi TV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_denizpostasi%2Fdenizpostasi%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TV1.tr@SD" tvg-logo="https://i.imgur.com/8CtrYVb.png" group-title="Undefined",[2037ms] TV 1 (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Ftv1%2Fbant1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="CiftciTV.tr@SD" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="Culture;Education",[2054ms] Ciftci TV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_ciftcitv%2Fciftcitv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="24TV.tr@SD" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="News",[2055ms] 24 TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fturkmedya-live.ercdn.net%2Ftv24%2Ftv24.m3u8
-#EXTINF:-1 tvg-id="MeltemTV.tr@SD" tvg-logo="https://i.imgur.com/C3m6w5S.png" group-title="General",[2076ms] Meltem TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvhxyrsly.rocketcdn.com%2Fmeltemtv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="CNBCe.tr@SD" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" group-title="Business;Series",[2077ms] CNBC-e
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhnpsechtsc.turknet.ercdn.net%2Fxpnvudnlsv%2Fcnbc-e%2Fcnbc-e.m3u8
-#EXTINF:-1 tvg-id="Tivi6.tr@SD" tvg-logo="https://i.imgur.com/Mbi0jbz.png" group-title="General",[2116ms] Tivi 6 (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_tivi6%2Ftivi6%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="PowerTurkSlow.tr@SD" tvg-logo="https://i.imgur.com/tQSoQXW.png" group-title="Music",[2127ms] PowerTurk Slow (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivetv.powerapp.com.tr%2Fpturkslow%2Fslow.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="PowerLove.tr@SD" tvg-logo="https://i.imgur.com/0RzUswR.png" group-title="Music",[2180ms] Power Love (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivetv.powerapp.com.tr%2Fplove%2Flove.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr@SD" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Undefined",[2209ms] Star TV (Turkiye) (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdogus.daioncdn.net%2Fstartv%2Fstartv_720p.m3u8%3Fapp%3Da20ac41e-bdc3-4aa1-934d-26b484480ac9%26ce%3D3%26sid%3D8l4w3lst4co5
-#EXTINF:-1 tvg-id="UrfaNatikTV.tr@SD" tvg-logo="https://i.imgur.com/8KO0uxn.png" group-title="Undefined",[2247ms] Urfa Natik TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_urfanatiktv%2Furfanatiktv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TJKTV.tr@SD" tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="Sports",[2259ms] TJK TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftjktv-live.tjk.org%2Ftjktv.m3u8
-#EXTINF:-1 tvg-id="KanalV.tr@SD" tvg-logo="https://i.imgur.com/7RNjTno.png" group-title="General",[2269ms] Kanal V (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kanalv%2Fkanalv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Sat7Turk.cy@SD" tvg-logo="https://i.imgur.com/cKQIK4i.png" group-title="Undefined",[2273ms] Sat 7 Turk (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_sat7turk%2Fsat7turk%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="CayTV.tr@SD" tvg-logo="https://i.imgur.com/ndupxwu.png" group-title="General",[2297ms] Cay TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Fcaytv%2Fbant1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="AHaber.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="News",[2314ms] A Haber (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Frnttwmjcin.turknet.ercdn.net%2Flcpmvefbyo%2Fahaber%2Fahaber.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr@SD" tvg-logo="https://i.imgur.com/a5nW3HU.png" group-title="Music",[2334ms] PowerTurk Taptaze (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivetv.powerapp.com.tr%2Fpturktaptaze%2Ftaptaze.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="AlanyaPostaTV.tr@SD" tvg-logo="https://i.imgur.com/a3w9eFe.png" group-title="General",[2341ms] Alanya Posta TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fapi-tv3.yayin.com.tr%2Fpostatv%2Fpostatv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="PowerDance.tr@SD" tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="Music",[2343ms] Power Dance (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivetv.powerapp.com.tr%2Fdance%2Fdance.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="PowerTV.tr@SD" tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="Undefined",[2387ms] Power TV (Turkiye) (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivetv.powerapp.com.tr%2FpowerTV%2Fpowerhd.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TBMMTV.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png" group-title="Undefined",[2391ms] TBMM TV (720p)
+#EXTINF:-1 tvg-id="YOLTV.de@SD" tvg-logo="https://i.imgur.com/rTBX6lS.png" group-title="General",[1394ms] YOL TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.yoltv.com%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="AlZahraTVTurkic.tr@SD" tvg-logo="https://i.imgur.com/QEHKGnG.png" group-title="Religious",[1430ms] Al-Zahra TV Turkic (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.al-zahratv.com%2Flive%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Ekoturk.tr@SD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65" group-title="News",[1498ms] Ekoturk (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.ekoturk.net%2Fhls%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="TRT3.tr@SD" tvg-logo="https://i.imgur.com/JrWFwBd.png" group-title="Undefined",[1535ms] TRT 3 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv-trt3.live.trt.com.tr%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Turkiye" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",[1539ms] Eurosport 2 Turkiye
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fandro.mangeinde4.lat%2Fchecklist%2Fandrostreamlivees2.m3u8
+#EXTINF:-1 tvg-id="TV4.tr@SD" tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="Undefined",[1543ms] TV 4 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fturkmedya-live.ercdn.net%2Ftv4%2Ftv4.m3u8
+#EXTINF:-1 tvg-id="TV264.tr@SD" tvg-logo="https://i.imgur.com/tudXdOZ.png" group-title="Undefined",[1561ms] TV 264 (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtdxkkitgbrckilive%2Fbroadcast_5ee244263fd6d.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TBMMTV.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png" group-title="Undefined",[1574ms] TBMM TV (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmeclistv-live.ercdn.net%2Fmeclistv%2Fmeclistv.m3u8
-#EXTINF:-1 tvg-id="ASTV.tr@SD" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" group-title="News",[2405ms] AS TV (900p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_astv%2Fastv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="BRTV.tr@SD" tvg-logo="https://i.imgur.com/U3qlEAp.png" group-title="Undefined",[2414ms] BRTV (Turkiye) (720p) [Geo-blocked]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_brtv%2Fbrtv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="DiyarTV.tr@SD" tvg-logo="https://i.imgur.com/qWkHjRA.png" group-title="Religious",[2439ms] Diyar TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_diyartv%2Fdiyartv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVDen.tr@SD" tvg-logo="https://i.imgur.com/Uhg95Ze.png" group-title="Undefined",[2444ms] TV Den (576p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fcanli.tvden.com.tr%2Fhls%2Flive.m3u8
-#EXTINF:-1 tvg-id="TRTHaber.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="News",[2453ms] TRT Haber (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv-trthaber.medya.trt.com.tr%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="TGRTBelgesel.tr@SD" tvg-logo="https://i.imgur.com/VwWTnf0.png" group-title="General",[2454ms] TGRT Belgesel (576p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtsxxkzwwuqtglive%2Fbroadcast_5fe462afc6a0e.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="NOW.tr@SD" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Entertainment",[2459ms] NOW (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fuycyyuuzyh.turknet.ercdn.net%2Fnphindgytw%2Fnowtv%2Fnowtv_720p.m3u8
-#EXTINF:-1 tvg-id="AltasTV.tr@SD" tvg-logo="https://i.imgur.com/XaJ7fp6.png" group-title="General",[2459ms] Altas TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Faltastv%2Fbant1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="OlayTurkTV.tr@SD" tvg-logo="https://i.imgur.com/e9ca6gc.png" group-title="News",[2484ms] OlayTurk TV (720p) [Geo-blocked]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_olayturk%2Folayturk%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="360.tr@SD" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="News",[2488ms] 360 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TV1.tr@SD" tvg-logo="https://i.imgur.com/8CtrYVb.png" group-title="Undefined",[1585ms] TV 1 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Ftv1%2Fbant1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AlanyaPostaTV.tr@SD" tvg-logo="https://i.imgur.com/a3w9eFe.png" group-title="General",[1596ms] Alanya Posta TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fapi-tv3.yayin.com.tr%2Fpostatv%2Fpostatv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ATVAlanya.tr@SD" tvg-logo="https://i.imgur.com/bUwarR0.png" group-title="General",[1600ms] ATV Alanya (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn-alanyatv.yayin.com.tr%2Falanyatv%2Falanyatv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="DostTV.tr@SD" tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" group-title="Religious",[1603ms] Dost TV (576p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdost.stream.emsal.im%2Ftv%2Flive.m3u8
+#EXTINF:-1 tvg-id="Number1Ask.tr@SD" tvg-logo="https://i.imgur.com/slwbux7.png" group-title="Music",[1604ms] Number 1 Ask (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtkgeuihrlfwlive%2Fu_stream_5c9e18f9cea15_1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="FortunaTV.tr@SD" tvg-logo="https://i.imgur.com/ZbUSlOC.png" group-title="Lifestyle",[1611ms] Fortuna TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Fftvturk%2Fbant1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="CayTV.tr@SD" tvg-logo="https://i.imgur.com/ndupxwu.png" group-title="General",[1614ms] Cay TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Fcaytv%2Fbant1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Kanal32.tr@SD" tvg-logo="" group-title="General",[1616ms] Kanal 32 (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Fkanal32%2Fbant1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="GuneydoguTV.tr@SD" tvg-logo="https://i.imgur.com/JT5pp3Y.png" group-title="News",[1621ms] Guneydogu TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Fgtv%2Fbant1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="EdessaTV.tr@SD" tvg-logo="https://i.imgur.com/rhU6j9I.png" group-title="Entertainment",[1629ms] Edessa TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcanli.edessatv.com%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="KocaeliTV.tr@SD" tvg-logo="https://i.imgur.com/LeTP4zq.png" group-title="General",[1638ms] Kocaeli TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge.taksimbilisim.com%2Fkocaelitv%2Fbant1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="360.tr@SD" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="News",[1643ms] 360 (720p) [Not 24/7]
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fturkmedya-live.ercdn.net%2Ftv360%2Ftv360.m3u8
-#EXTINF:-1 tvg-id="BirTV.tr@SD" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" group-title="Undefined",[2494ms] Bir TV (720p)
+#EXTINF:-1 tvg-id="TV8.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png" group-title="General",[1645ms] TV8 (Turkiye) (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv8.daioncdn.net%2Ftv8%2Ftv8.m3u8%3Fapp%3D7ddc255a-ef47-4e81-ab14-c0e5f2949788%26ce%3D3
+#EXTINF:-1 tvg-id="DreamTurk.tr@SD" tvg-logo="https://i.imgur.com/vJ8VaZi.png" group-title="Music",[1648ms] Dream Turk (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.duhnet.tv%2FS2%2FHLS_LIVE%2Fdreamturknp%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="IcelTV.tr@SD" tvg-logo="https://i.imgur.com/CGwImKv.png" group-title="Undefined",[1651ms] Icel TV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Ficeltv%2Fbant1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AltasTV.tr@SD" tvg-logo="https://i.imgur.com/XaJ7fp6.png" group-title="General",[1658ms] Altas TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Faltastv%2Fbant1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr@SD" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="News",[1687ms] Halk TV SD (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhalktv-live.daioncdn.net%2Fhalktv%2Fhalktv.m3u8
+#EXTINF:-1 tvg-id="DHA.tr@SD" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="News",[1700ms] DHA (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F603c568fccdf5.streamlock.net%2Flive%2Fdhaweb1_C5efC%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="LifeTV.tr@SD" tvg-logo="https://i.imgur.com/lWeJxm0.png" group-title="News",[1707ms] Life TV (Turkiye) (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_lifetv%2Flifetv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TempoTV.tr@SD" tvg-logo="https://i.imgur.com/tZpx32y.png" group-title="Undefined",[1714ms] Tempo TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_tempotv%2Ftempotv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr@SD" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="General",[1715ms] Kanal D (Turkiye) (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdemiroren.daioncdn.net%2Fkanald%2Fkanald.m3u8%3Fapp%3Dkanald_web%26ce%3D3
+#EXTINF:-1 tvg-id="ETVManisa.tr@SD" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" group-title="Undefined",[1720ms] ETV Manisa (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Fmanisaetv%2Fbant1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="KralPopTV.tr@SD" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="Music",[1729ms] Kral Pop TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdogus-live.daioncdn.net%2Fkralpoptv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ETVKayseri.tr@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj" group-title="General",[1732ms] ETV Kayseri (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_etv%2Fetv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MaviKaradenizTV.tr@SD" tvg-logo="https://i.imgur.com/wyWappU.png" group-title="General",[1732ms] MaviKaradeniz TV (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_mavikaradeniz%2Fmavikaradeniz%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="BirTV.tr@SD" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" group-title="Undefined",[1736ms] Bir TV (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge.taksimbilisim.com%2Fbirtv%2Fbant1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TRTCocuk.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids",[2505ms] TRT Cocuk (1440p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv-trtcocuk.medya.trt.com.tr%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="A2TV.tr@SD" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="General",[2679ms] A2TV (1080p)
+#EXTINF:-1 tvg-id="KonyaOlayTV.tr@SD" tvg-logo="https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg" group-title="General",[1739ms] Konya Olay TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_konyaolaytv%2Fkonyaolaytv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="DiyarTV.tr@SD" tvg-logo="https://i.imgur.com/qWkHjRA.png" group-title="Religious",[1743ms] Diyar TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_diyartv%2Fdiyartv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="KanalFirat.tr@SD" tvg-logo="https://i.imgur.com/3o8Rokp.png" group-title="General",[1745ms] Kanal Firat (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kanalfirat%2Fkanalfirat%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Tivi6.tr@SD" tvg-logo="https://i.imgur.com/Mbi0jbz.png" group-title="General",[1750ms] Tivi 6 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_tivi6%2Ftivi6%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="KayTV.tr@SD" tvg-logo="https://i.imgur.com/MymuDJ1.png" group-title="General",[1773ms] Kay TV (576p) [Geo-blocked]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kaytv%2Fkaytv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr@SD" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Undefined",[1779ms] Star TV (Turkiye) (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdogus.daioncdn.net%2Fstartv%2Fstartv_720p.m3u8%3Fapp%3Da20ac41e-bdc3-4aa1-934d-26b484480ac9%26ce%3D3%26sid%3D8l4w3lst4co5
+#EXTINF:-1 tvg-id="Kanal58.tr@SD" tvg-logo="https://i.imgur.com/Rgc66sv.png" group-title="General",[1780ms] Kanal 58 (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kanal58%2Fkanal58%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Number1Dance.tr@SD" tvg-logo="https://i.imgur.com/ZM4PSyq.png" group-title="Music",[1782ms] Number 1 Dance (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtkgeuihrlfwlive%2Fu_stream_5c9e2aa8acf44_1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Tele1.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="Undefined",[1786ms] Tele 1 (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftele1-live.ercdn.net%2Ftele1%2Ftele1.m3u8
+#EXTINF:-1 tvg-id="FlashHaberTV.tr@SD" tvg-logo="" group-title="News",[1791ms] Flash Haber TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtyycglqauzjhlive%2Fbroadcast_67c053c48829f.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="VavTV.tr@SD" tvg-logo="https://i.imgur.com/jw0gB8L.png" group-title="Undefined",[1792ms] Vav TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fplaylist.fasttvcdn.com%2Fpl%2Frfrk9821hdy9dayo8wfyha%2Fkltr-sanat-tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TonTV.tr@SD" tvg-logo="https://i.imgur.com/f0Soeob.png" group-title="Undefined",[1799ms] Ton TV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_tontv%2Ftontv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="DiyanetTV.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png" group-title="Religious",[1800ms] Diyanet TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Feustr73.mediatriple.net%2Fvideoonlylive%2Fmtikoimxnztxlive%2Fbroadcast_5e3bf95a47e07.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="EuroD.tr@SD" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="General",[1844ms] Euro D (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.duhnet.tv%2FS2%2FHLS_LIVE%2Feurodnp%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="SunRTV.tr@SD" tvg-logo="https://i.imgur.com/64tph9N.png" group-title="Undefined",[1932ms] Sun RTV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_sunrtv%2Fsunrtv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Kanal12.tr@SD" tvg-logo="https://i.imgur.com/51xCkXG.png" group-title="General",[1936ms] Kanal 12 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kanal12%2Fkanal12%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MinikaGo.tr@SD" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Kids",[1945ms] Minika Go (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Frnttwmjcin.turknet.ercdn.net%2Flcpmvefbyo%2Fminikago%2Fminikago.m3u8
+#EXTINF:-1 tvg-id="TJKTV.tr@SD" tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="Sports",[1949ms] TJK TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftjktv-live.tjk.org%2Ftjktv.m3u8
+#EXTINF:-1 tvg-id="ERTV.tr@SD" tvg-logo="https://i.imgur.com/VDGEPrD.png" group-title="General",[1967ms] ERTV (1080p) [Geo-blocked]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_ertv_new%2Fertv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="KentTurk.tr@SD" tvg-logo="https://i.imgur.com/FQKPjsm.png" group-title="General",[1987ms] Kent Turk (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kentturktv%2Fkentturktv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="A2TV.tr@SD" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="General",[2018ms] A2TV (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Frnttwmjcin.turknet.ercdn.net%2Flcpmvefbyo%2Fa2tv%2Fa2tv.m3u8
-#EXTINF:-1 tvg-id="LineTV.tr@SD" tvg-logo="https://i.imgur.com/6GNp7f8.png" group-title="General",[2785ms] Line TV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Flinetv%2Fbant1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr@SD" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Undefined",[2847ms] TRT 2 (1440p) [Geo-blocked]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv-trt2.medya.trt.com.tr%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Sports",[2050ms] A Spor SD (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Frnttwmjcin.turknet.ercdn.net%2Flcpmvefbyo%2Faspor%2Faspor.m3u8
+#EXTINF:-1 tvg-id="CNBCe.tr@SD" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" group-title="Business;Series",[2118ms] CNBC-e
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhnpsechtsc.turknet.ercdn.net%2Fxpnvudnlsv%2Fcnbc-e%2Fcnbc-e.m3u8
+#EXTINF:-1 tvg-id="ASTV.tr@SD" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" group-title="News",[2119ms] AS TV (900p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_astv%2Fastv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MercanTV.tr@SD" tvg-logo="https://i.imgur.com/3CWV8bS.png" group-title="Undefined",[2140ms] Mercan TV (576p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_mercantv%2Fmercantv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TV52.tr@SD" tvg-logo="https://i.imgur.com/k4R5CzO.png" group-title="Undefined",[2145ms] TV 52 (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fedge1.socialsmart.tv%2Ftv52%2Fbant1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Kanal3.tr@SD" tvg-logo="https://i.imgur.com/eXErSv0.png" group-title="General",[2177ms] Kanal 3 (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kanal3%2Fkanal3%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AHaber.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="News",[2213ms] A Haber (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Frnttwmjcin.turknet.ercdn.net%2Flcpmvefbyo%2Fahaber%2Fahaber.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="Undefined",[2227ms] PowerTurk TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_powerturktv%2Fpowerturktv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="LuysTV.tr@SD" tvg-logo="https://i.imgur.com/9EruWIQ.png" group-title="Culture",[2274ms] Luys TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtpayqrfkgirxelive%2Fbroadcast_5e91c5ac96898.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AnadoluNetTV.tr@SD" tvg-logo="https://www.anadolunettv.com/d/r/logo.png" group-title="General",[2302ms] Anadolu Net TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_anadolunet%2Fanadolunet%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr@SD" tvg-logo="https://i.imgur.com/a5nW3HU.png" group-title="Music",[2312ms] PowerTurk Taptaze (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivetv.powerapp.com.tr%2Fpturktaptaze%2Ftaptaze.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="PowerDance.tr@SD" tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="Music",[2314ms] Power Dance (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivetv.powerapp.com.tr%2Fdance%2Fdance.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Kanal15.tr@SD" tvg-logo="https://i.imgur.com/wb1Cdc9.png" group-title="General",[2406ms] Kanal 15 (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_kanal15%2Fkanal15%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",[2455ms] TRT 1 (1440p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv-trt1.medya.trt.com.tr%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="PowerLove.tr@SD" tvg-logo="https://i.imgur.com/0RzUswR.png" group-title="Music",[2530ms] Power Love (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivetv.powerapp.com.tr%2Fplove%2Flove.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AksuTV.tr@SD" tvg-logo="https://i.imgur.com/mgDCKiy.png" group-title="General",[2534ms] Aksu TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_aksutv%2Faksutv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="BRTV.tr@SD" tvg-logo="https://i.imgur.com/U3qlEAp.png" group-title="Undefined",[2609ms] BRTV (Turkiye) (720p) [Geo-blocked]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_brtv%2Fbrtv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TRTEBALise.tr@SD" tvg-logo="https://i.imgur.com/vj2L2L2.png" group-title="Education",[2725ms] TRT EBA Lise (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftv-e-okul02.medya.trt.com.tr%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="Number1Damar.tr@SD" tvg-logo="https://i.imgur.com/rYtbAGZ.png" group-title="Music",[2782ms] Number 1 Damar (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fb01c02nl.mediatriple.net%2Fvideoonlylive%2Fmtkgeuihrlfwlive%2Fu_stream_5c9e198784bdc_1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr@SD" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Music",[2923ms] PowerTurk Akustik (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivetv.powerapp.com.tr%2Fpturkakustik%2Fakustik.smil%2Fplaylist.m3u8
