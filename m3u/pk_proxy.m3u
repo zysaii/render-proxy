@@ -1,63 +1,73 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MadaniChannelEnglish.pk@SD" tvg-logo="https://i.imgur.com/Abi9j0A.png" group-title="Religious",[542ms] Madani Channel English (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Ftvsen7.aynascope.net%2FMadaniTV%2Findex.m3u8
 #EXTINF:-1 tvg-id="FazalTV.pk@SD" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="Religious",[589ms] Fazal TV (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2Fcdn9.live247stream.com%2Fpunjabitvcanada%2Ftv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="HumTV.pk@HD" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="Entertainment",[838ms] Hum TV (720p)
+#EXTINF:-1 tvg-id="HumTV.pk@HD" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="Entertainment",[808ms] Hum TV (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fg4wlkwx8l23a-hls-live.5centscdn.com%2FHUM%2F271ddf829afeece44d8732757fba1a66.sdp%2Fplaylist_dvr.m3u8
-#EXTINF:-1 tvg-id="FalakTV.pk@SD" tvg-logo="https://i.imgur.com/2TqlNsI.png" group-title="Entertainment",[931ms] Falak TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffalak.rst.ae%2Findex.m3u8
-#EXTINF:-1 tvg-id="MNews.pk@SD" tvg-logo="https://mnews.pk/wp-content/uploads/2025/10/mnews-logo-news.png" group-title="News",[996ms] M News (1080p)
+#EXTINF:-1 tvg-id="MNews.pk@SD" tvg-logo="https://mnews.pk/wp-content/uploads/2025/10/mnews-logo-news.png" group-title="News",[949ms] M News (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.rabta.stream%2FM-News%2Findex.m3u8
-#EXTINF:-1 tvg-id="MSports.pk@SD" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Sports",[1012ms] M Sports (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.rabta.stream%2FM-Sports%2Findex.m3u8
-#EXTINF:-1 tvg-id="SkyNewsUrdu.pk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png" group-title="News",[1026ms] Sky News Urdu (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flbgo.bozztv.com%2Fssh101%2Fssh101%2Fskynews%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ZindagiTV.pk@SD" tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="Undefined",[1046ms] Zindagi TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="ZindagiTV.pk@SD" tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="Undefined",[992ms] Zindagi TV (576p) [Not 24/7]
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ad386ff92705.streamlock.net%2Flive_transcoder%2Fngrp%3Azindagitv.stream_all%2Fchunklist.m3u8
-#EXTINF:-1 tvg-id="PraiseTV.pk@SD" tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="Undefined",[1061ms] Praise TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivecdn.live247stream.com%2Fpraise%2Ftv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="IsaacTV.pk@SD" tvg-logo="https://i.imgur.com/RHDbsiO.png" group-title="Religious",[1062ms] Isaac TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivecdn.live247stream.com%2Fisaac%2Ftv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="GraceNetwork.pk@SD" tvg-logo="https://i.imgur.com/QSaZPJ4.png" group-title="Religious",[1277ms] Grace Network (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivecdn.live247stream.com%2Fgrace%2Ftv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Urdu" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious",[1289ms] God Stands Kids Club TV Urdu
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2FKidsUrdu.m3u8
-#EXTINF:-1 tvg-id="GodStandsTV.pk@Main" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Religious",[1294ms] God Stands TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2Fmainlive.m3u8
-#EXTINF:-1 tvg-id="GodStandsTV.pk@Urdu" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Religious",[1318ms] God Stands TV Urdu
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2FUrduStreaming.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Chinese" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious",[1329ms] God Stands Kids Club TV Chinese
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2FKidsChinese.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Arabic" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious",[1332ms] God Stands Kids Club TV Arabic
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2FKidsArabic.m3u8
-#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Travel",[1335ms] Discover Pakistan (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivecdn.live247stream.com%2Fdiscoverpakistan%2Fweb%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@English" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious",[1363ms] God Stands Kids Club TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2Fkidsenglish.m3u8
-#EXTINF:-1 tvg-id="GodStandsTV.pk@English" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Religious",[1375ms] God Stands TV English
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2FEnglishStreaming.m3u8
-#EXTINF:-1 tvg-id="PMITV.pk@SD" tvg-logo="https://i.imgur.com/SfyCwXj.png" group-title="Undefined",[1378ms] PMI TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MSports.pk@SD" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Sports",[995ms] M Sports (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.rabta.stream%2FM-Sports%2Findex.m3u8
+#EXTINF:-1 tvg-id="JoshuaTV.pk@SD" tvg-logo="https://i.imgur.com/x9xPR2h.png" group-title="Religious",[1001ms] Joshua TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivecdn.live247stream.com%2Fjoshua%2Ftv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="FalakTV.pk@SD" tvg-logo="https://i.imgur.com/2TqlNsI.png" group-title="Entertainment",[1005ms] Falak TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffalak.rst.ae%2Findex.m3u8
+#EXTINF:-1 tvg-id="PMITV.pk@SD" tvg-logo="https://i.imgur.com/SfyCwXj.png" group-title="Undefined",[1233ms] PMI TV (720p) [Not 24/7]
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn.live247stream.com%2Fpmi%2Ftv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="SuchTV.pk@SD" tvg-logo="https://i.imgur.com/yYMh3JJ.png" group-title="News",[1593ms] Such TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvideo.primexsports.com%2Fsuchnews%2Flive%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="KingTV.pk@SD" tvg-logo="https://i.imgur.com/dujrwRE.png" group-title="Religious",[1762ms] King TV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreamer12.vdn.dstreamone.net%2Fkingtv%2Fkingtv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="LahoreNews.pk@SD" tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" group-title="News",[1788ms] Lahore News (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvcdn.dunyanews.tv%2Flahorelive%2Fngrp%3Alnews_1_all%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="KTNNews.pk@SD" tvg-logo="https://i.imgur.com/RtEzpPQ.png" group-title="News",[1961ms] KTN News (360p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvodzong.mjunoon.tv%3A8087%2Fstreamtest%2FKTNNews-151%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="CapitalTV.pk@SD" tvg-logo="https://i.imgur.com/UxAE5O4.png" group-title="News",[2018ms] Capital TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn4.mjunoon.tv%3A8087%2Fstreamtest%2F111M%2Fchunks.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",[2067ms] Cartoon Network (Pakistan)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvodzong.mjunoon.tv%3A8087%2Fstreamtest%2Fcartoon-network-87%2Flive%2F87H%2Fchunks.m3u8
-#EXTINF:-1 tvg-id="DunyaNews.pk@SD" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="News",[2109ms] Dunya News (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fimob.dunyanews.tv%2Flivehd%2Fngrp%3Adunyalivehd_2_all%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="BolEntertainment.pk@HD" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Entertainment",[2114ms] Bol Entertainment HD
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvodzong.mjunoon.tv%3A8087%2Fstreamtest%2FChannel5-159-4%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="PKSports.pk@SD" tvg-logo="https://i.imgur.com/qtbSnrY.png" group-title="Sports",[2558ms] PK Sports (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flbgo.bozztv.com%2Fssh101%2Fssh101%2Fpksportshd%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="365News.pk@SD" tvg-logo="https://i.imgur.com/8I6PWof.png" group-title="News",[2601ms] 365 News
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn4.mjunoon.tv%3A8087%2Fstreamtest%2F140M%2Fchunks.m3u8
-#EXTINF:-1 tvg-id="JooMusic.pk@SD" tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="Music",[2603ms] JooMusic (720p)
+#EXTINF:-1 tvg-id="MadaniChannelUrdu.pk@SD" tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="Religious",[1235ms] Madani Channel Urdu (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreaming.madanichannel.tv%2Fstatic%2Fstreaming-playlists%2Fhls%2Fb9790f10-cb0d-4e30-82bf-84a756234e58%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="GraceNetwork.pk@SD" tvg-logo="https://i.imgur.com/QSaZPJ4.png" group-title="Religious",[1283ms] Grace Network (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivecdn.live247stream.com%2Fgrace%2Ftv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Travel",[1284ms] Discover Pakistan (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivecdn.live247stream.com%2Fdiscoverpakistan%2Fweb%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="JooMusic.pk@SD" tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="Music",[1293ms] JooMusic (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivecdn.live247stream.com%2Fjoomusic%2Ftv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Minimax.pk@SD" tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Kids",[2839ms] Minimax (Pakistan) (360p)
+#EXTINF:-1 tvg-id="GodStandsTV.pk@Punjabi" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Religious",[1299ms] God Stands TV Punjabi
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2FPunjabiStreaming.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk@Main" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Religious",[1302ms] God Stands TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2Fmainlive.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Chinese" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious",[1304ms] God Stands Kids Club TV Chinese
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2FKidsChinese.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk@Urdu" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Religious",[1321ms] God Stands TV Urdu
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2FUrduStreaming.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk@English" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Religious",[1324ms] God Stands TV English
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2FEnglishStreaming.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Urdu" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious",[1328ms] God Stands Kids Club TV Urdu
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2FKidsUrdu.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Arabic" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious",[1359ms] God Stands Kids Club TV Arabic
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2FKidsArabic.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@English" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious",[1646ms] God Stands Kids Club TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fonline.godstands.tv%3A5443%2FWebRTCApp%2Fstreams%2Fkidsenglish.m3u8
+#EXTINF:-1 tvg-id="KingTV.pk@SD" tvg-logo="https://i.imgur.com/dujrwRE.png" group-title="Religious",[1721ms] King TV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreamer12.vdn.dstreamone.net%2Fkingtv%2Fkingtv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Minimax.pk@SD" tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Kids",[1915ms] Minimax (Pakistan) (360p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvodzong.mjunoon.tv%3A8087%2Fstreamtest%2Fdisckids-157-1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="SuchTV.pk@SD" tvg-logo="https://i.imgur.com/yYMh3JJ.png" group-title="News",[1959ms] Such TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvideo.primexsports.com%2Fsuchnews%2Flive%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="DunyaNews.pk@SD" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="News",[1981ms] Dunya News (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fimob.dunyanews.tv%2Flivehd%2Fngrp%3Adunyalivehd_2_all%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="8XM.pk@HD" tvg-logo="https://i.ibb.co/Kc0xHyBb/8XM-Logo.png" group-title="Music",[2008ms] 8XM
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn4.mjunoon.tv%3A8087%2Fstreamtest%2F131M%2Fchunks.m3u8
+#EXTINF:-1 tvg-id="KTNNews.pk@SD" tvg-logo="https://i.imgur.com/RtEzpPQ.png" group-title="News",[2011ms] KTN News (360p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvodzong.mjunoon.tv%3A8087%2Fstreamtest%2FKTNNews-151%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",[2012ms] Cartoon Network (Pakistan)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvodzong.mjunoon.tv%3A8087%2Fstreamtest%2Fcartoon-network-87%2Flive%2F87H%2Fchunks.m3u8
+#EXTINF:-1 tvg-id="365News.pk@SD" tvg-logo="https://i.imgur.com/8I6PWof.png" group-title="News",[2024ms] 365 News
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn4.mjunoon.tv%3A8087%2Fstreamtest%2F140M%2Fchunks.m3u8
+#EXTINF:-1 tvg-id="LahoreNews.pk@SD" tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" group-title="News",[2032ms] Lahore News (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvcdn.dunyanews.tv%2Flahorelive%2Fngrp%3Alnews_1_all%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="CapitalTV.pk@SD" tvg-logo="https://i.imgur.com/UxAE5O4.png" group-title="News",[2052ms] Capital TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn4.mjunoon.tv%3A8087%2Fstreamtest%2F111M%2Fchunks.m3u8
+#EXTINF:-1 tvg-id="24NewsHD.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png" group-title="News",[2058ms] 24 News HD
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcdn4.mjunoon.tv%3A8087%2Fstreamtest%2F146M%2Fchunks.m3u8
+#EXTINF:-1 tvg-id="JeremiahTV.pk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg" group-title="General",[2063ms] Jeremiah TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fx.streamablecloud.com%2Fstream%2Fhls%2Fjeremiahtv%2Findex.m3u8
+#EXTINF:-1 tvg-id="NewsOne.pk@SD" tvg-logo="https://i.imgur.com/ivrRYMk.png" group-title="News",[2158ms] News One (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvodzong.mjunoon.tv%3A8087%2Fstreamtest%2FNEWS1-128%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="BolEntertainment.pk@HD" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Entertainment",[2490ms] Bol Entertainment HD
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvodzong.mjunoon.tv%3A8087%2Fstreamtest%2FChannel5-159-4%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="PeaceTVUrdu.ae@SD" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg" group-title="Religious",[2720ms] Peace TV Urdu (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fdzkyvlfyge.erbvr.com%2FPeaceTvUrdu%2Findex.m3u8
