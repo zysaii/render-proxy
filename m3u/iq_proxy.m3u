@@ -1,76 +1,78 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MBCIraq.iq@SD" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="General",[693ms] MBC Iraq (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fshd-gcp-live.edgenextcdn.net%2Flive%2Fbitmovin-mbc-iraq%2Fe38c44b1b43474e1c39cb5b90203691e%2Findex.m3u8
-#EXTINF:-1 tvg-id="Mixkurdy.iq@HD" tvg-logo="https://i.imgur.com/WHeH5i7.png" group-title="Family",[791ms] Mixkurdy (1080p)
+#EXTINF:-1 tvg-id="Mixkurdy.iq@HD" tvg-logo="https://i.imgur.com/WHeH5i7.png" group-title="Family",[815ms] Mixkurdy (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Favr.host247.net%2Flive%2FMix-kurdy%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiya.iq@SD" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="General",[828ms] Al Sharqiya (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=http%3A%2F%2F185.9.2.18%2Fchid_144%2Findex.m3u8
-#EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="News",[878ms] Rudaw TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhlspackager.akamaized.net%2Flive%2FDB%2FRUDAW%2FHLS%2FRUDAW.m3u8
-#EXTINF:-1 tvg-id="ZagrosTV.iq@SD" tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="General",[890ms] Zagros TV (Iraq) (1080p)
+#EXTINF:-1 tvg-id="MBCIraq.iq@SD" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="General",[818ms] MBC Iraq (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fshd-gcp-live.edgenextcdn.net%2Flive%2Fbitmovin-mbc-iraq%2Fe38c44b1b43474e1c39cb5b90203691e%2Findex.m3u8
+#EXTINF:-1 tvg-id="ZagrosTV.iq@SD" tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="General",[841ms] Zagros TV (Iraq) (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhlspackager.akamaized.net%2Flive%2FDB%2FZAGROS_TV%2FHLS%2FZAGROS_TV.m3u8
-#EXTINF:-1 tvg-id="PayamTV.iq@SD" tvg-logo="https://i.imgur.com/qySEibb.png" group-title="News",[898ms] Payam TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhlspackager.akamaized.net%2Flive%2FDB%2FPAYAM_TV%2FHLS%2FPAYAM_TV.m3u8
-#EXTINF:-1 tvg-id="KurdsatNews.iq@SD" tvg-logo="https://i.imgur.com/F3XRwkt.png" group-title="News",[916ms] Kurdsat News (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhlspackager.akamaized.net%2Flive%2FDB%2FKURDSAT_NEWS%2FHLS%2FKURDSAT_NEWS.m3u8
-#EXTINF:-1 tvg-id="Kurdsat.iq@SD" tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="Entertainment",[957ms] Kurdsat (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhlspackager.akamaized.net%2Flive%2FDB%2FKURDSAT_HD%2FHLS%2FKURDSAT_HD.m3u8
-#EXTINF:-1 tvg-id="Kurdistan24.iq@SD" tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="News",[1161ms] Kurdistan 24 (1080p)
+#EXTINF:-1 tvg-id="Kurdistan24.iq@SD" tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="News",[843ms] Kurdistan 24 (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhlspackager.akamaized.net%2Flive%2FDB%2FK24%2FHLS%2FK24.m3u8
-#EXTINF:-1 tvg-id="AvarTV.iq@HD" tvg-logo="https://i.imgur.com/JazFBkW.jpeg" group-title="Undefined",[1188ms] Avar TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Favr.host247.net%2Flive%2FAvarTv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="AnwarTV2.iq@SD" tvg-logo="https://i.imgur.com/yHZXPcn.png" http-referrer="https://odysee.com/" group-title="News",[1356ms] Anwar TV2 (720p)
+#EXTINF:-1 tvg-id="Kurdsat.iq@SD" tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="Entertainment",[851ms] Kurdsat (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhlspackager.akamaized.net%2Flive%2FDB%2FKURDSAT_HD%2FHLS%2FKURDSAT_HD.m3u8
+#EXTINF:-1 tvg-id="PayamTV.iq@SD" tvg-logo="https://i.imgur.com/qySEibb.png" group-title="News",[865ms] Payam TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhlspackager.akamaized.net%2Flive%2FDB%2FPAYAM_TV%2FHLS%2FPAYAM_TV.m3u8
+#EXTINF:-1 tvg-id="AnwarTV2.iq@SD" tvg-logo="https://i.imgur.com/yHZXPcn.png" http-referrer="https://odysee.com/" group-title="News",[882ms] Anwar TV2 (720p)
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcloud.odysee.live%2Fcontent%2Ff92670235a1ce2bce4cf77671cc4dcc2188baa1d%2Fmaster.m3u8
-#EXTINF:-1 tvg-id="KarbalaDocumentary.iq@HD" tvg-logo="https://www.karbala-tv.iq/documentary/static/img/logo.png" group-title="Documentary;Religious",[1363ms] Karbala Documentary
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fktvlive.online%2Fstream%2Fhls%2Fch3.m3u8
-#EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="Kids",[1404ms] Afarin Baxcha (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5dcabf026b188.streamlock.net%2FafarinTV%2Flivestream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="EmanTv.iq@HD" tvg-logo="https://i.imgur.com/QmgaPSi.png" group-title="Family",[1442ms] EmanTv (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Favr.host247.net%2Flive%2Femantv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="FarmodaTV.iq@HD" tvg-logo="https://i.imgur.com/x4KCQlH.png" group-title="Religious",[1472ms] FarmodaTV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Favr.host247.net%2Flive%2FFarmodaTV%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="General",[1532ms] Kurdistan TV (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5a3ed7a72ed4b.streamlock.net%2Flive%2FSMIL%3AmyStream.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="AVAMedia.iq@HD" tvg-logo="https://github.com/user-attachments/assets/a9259f18-b9f2-4aa0-86f0-8fba1f343e69" group-title="Undefined",[1547ms] AVA Media (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fava002.xyz%2Fupload%2Fimages%2F1080.m3u8
-#EXTINF:-1 tvg-id="AVAFamily.ir@SD" tvg-logo="" group-title="Family",[1637ms] AVA Family
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffamilyhls.avatv.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="Alquran.iq@SD" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Religious",[1647ms] Alquran (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fktvlive.online%2Fstream%2Fhls%2Fch1.m3u8
-#EXTINF:-1 tvg-id="UTV.iq@SD" tvg-logo="https://i.imgur.com/9qFHjnu.png" group-title="Undefined",[1682ms] UTV (Iraq) (1080p)
+#EXTINF:-1 tvg-id="UTV.iq@SD" tvg-logo="https://i.imgur.com/9qFHjnu.png" group-title="Undefined",[886ms] UTV (Iraq) (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Futviraqi-live.lg.mncdn.com%2Futviraqi-live%2F64c80359%2Findex.m3u8
-#EXTINF:-1 tvg-id="AlAimmaTV.iq@SD" tvg-logo="https://alaimma.tv/alaimma-logo.png" group-title="Religious",[1686ms] Al-Aimma TV (1080p)
+#EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="News",[887ms] Rudaw TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhlspackager.akamaized.net%2Flive%2FDB%2FRUDAW%2FHLS%2FRUDAW.m3u8
+#EXTINF:-1 tvg-id="ABNsat.iq@SD" tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title="Religious",[1001ms] ABNsat (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmediaserver.abnvideos.com%2Fstreams%2Fabnsat.m3u8
+#EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="Kids",[1013ms] Afarin Baxcha (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5dcabf026b188.streamlock.net%2FafarinTV%2Flivestream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="WaarTV.iq@SD" tvg-logo="https://i.imgur.com/rK0y02d.png" group-title="Undefined",[1015ms] Waar TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhlspackager.akamaized.net%2Flive%2FDB%2FWAAR_HD%2FHLS%2FWAAR_HD.m3u8
+#EXTINF:-1 tvg-id="AvarTV.iq@HD" tvg-logo="https://i.imgur.com/JazFBkW.jpeg" group-title="Undefined",[1224ms] Avar TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Favr.host247.net%2Flive%2FAvarTv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AVAMedia.iq@HD" tvg-logo="https://github.com/user-attachments/assets/a9259f18-b9f2-4aa0-86f0-8fba1f343e69" group-title="Undefined",[1242ms] AVA Media (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fava002.xyz%2Fupload%2Fimages%2F1080.m3u8
+#EXTINF:-1 tvg-id="KurdsatNews.iq@SD" tvg-logo="https://i.imgur.com/F3XRwkt.png" group-title="News",[1251ms] Kurdsat News (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fhlspackager.akamaized.net%2Flive%2FDB%2FKURDSAT_NEWS%2FHLS%2FKURDSAT_NEWS.m3u8
+#EXTINF:-1 tvg-id="AVAFamily.ir@SD" tvg-logo="" group-title="Family",[1263ms] AVA Family
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ffamilyhls.avatv.live%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="KarbalaDocumentary.iq@HD" tvg-logo="https://www.karbala-tv.iq/documentary/static/img/logo.png" group-title="Documentary;Religious",[1285ms] Karbala Documentary
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fktvlive.online%2Fstream%2Fhls%2Fch3.m3u8
+#EXTINF:-1 tvg-id="IshtarTV.iq@SD" tvg-logo="https://i.imgur.com/qzApokm.png" group-title="Culture;Music;Religious",[1298ms] Ishtar TV SD (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.ishtartv.com%2Flive%2FiShtarHD%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AlAimmaTV.iq@SD" tvg-logo="https://alaimma.tv/alaimma-logo.png" group-title="Religious",[1329ms] Al-Aimma TV (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Falaimma.tv%2Flive%2Findex.m3u8
-#EXTINF:-1 tvg-id="ShamsTV.iq@SD" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" group-title="News",[1692ms] Shams TV (Iraq) (1080p)
+#EXTINF:-1 tvg-id="ShamsTV.iq@SD" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" group-title="News",[1330ms] Shams TV (Iraq) (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.shams.tv%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="MarjaeyatTVPersian.iq@SD" tvg-logo="https://i.imgur.com/fCj05f0.png" group-title="Religious",[1799ms] Marjaeyat TV Persian (240p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivefa.marjaeyattv.com%2Fmtv_fa%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="IraqFuture.iq@SD" tvg-logo="https://i.imgur.com/Z7woTe5.png" group-title="General",[1817ms] Iraq Future (480p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fviewmedia7219.bozztv.com%2Fwmedia%2Fviewmedia100%2Fweb_040%2FStream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="AlJawadainTV.iq@SD" tvg-logo="https://i.imgur.com/Eo3UYCK.png" group-title="Religious",[1820ms] Al-Jawadain TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlabbassiaTV.iq@HD" tvg-logo="https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png" group-title="Religious",[1334ms] Alabbassia TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.alabbassia.com%2Flive%2Falabbassia%2Findex.m3u8
+#EXTINF:-1 tvg-id="AlJawadainTV.iq@SD" tvg-logo="https://i.imgur.com/Eo3UYCK.png" group-title="Religious",[1369ms] Al-Jawadain TV (1080p) [Not 24/7]
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.aljawadain.org%2Flive%2Faljawadaintv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="DijlahTV.iq@SD" tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="News",[1832ms] Dijlah TV (1080p)
+#EXTINF:-1 tvg-id="AlIraqiaNews.iq@SD" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="News",[1376ms] Al Iraqia News (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fimn-live.esite-lab.com%2Fhls%2Firaqia-news.m3u8
+#EXTINF:-1 tvg-id="IraqFuture.iq@SD" tvg-logo="https://i.imgur.com/Z7woTe5.png" group-title="General",[1432ms] Iraq Future (480p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fviewmedia7219.bozztv.com%2Fwmedia%2Fviewmedia100%2Fweb_040%2FStream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="DijlahTV.iq@SD" tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="News",[1474ms] Dijlah TV (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fghaasiflu.online%2FDijlah%2Findex.m3u8
-#EXTINF:-1 tvg-id="INews.iq@SD" tvg-logo="https://i.imgur.com/9lOuzHQ.png" group-title="News",[1833ms] I News (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.i-news.tv%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="KurdChannel.iq@SD" tvg-logo="https://i.imgur.com/xPwzad9.png" group-title="Undefined",[1866ms] Kurd Channel
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fkurdchhls.wns.live%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="ManuChat.iq@SD" tvg-logo="https://i.imgur.com/voyoljW.png" group-title="Undefined",[1868ms] Manu Chat
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvmi747311.contaboserver.net%2Fhls%2Flivetv.m3u8
-#EXTINF:-1 tvg-id="AlawlaTV.iq@SD" tvg-logo="https://i.imgur.com/3Kv0t3X.png" group-title="General",[1875ms] Alawla TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.alawla.tv%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="Sports",[1927ms] Al Iraqia Sport (720p)
+#EXTINF:-1 tvg-id="AlIraqia.iq@SD" tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="General",[1528ms] Al Iraqia (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fimn-live.esite-lab.com%2Fhls%2Firaqia-general.m3u8
+#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="General",[1531ms] Kurdistan TV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5a3ed7a72ed4b.streamlock.net%2Flive%2FSMIL%3AmyStream.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AlIraqiaKurdish.iq@HD" tvg-logo="https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png" group-title="Undefined",[1568ms] Al Iraqia Kurdish (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fimn-live.esite-lab.com%2Fhls%2Firaqia-kurdish.m3u8
+#EXTINF:-1 tvg-id="AfarinTV.iq@SD" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="Kids",[1593ms] Afarin TV (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F65f16f0fdfc51.streamlock.net%2FafarinTV%2Flivestream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="Sports",[1719ms] Al Iraqia Sport (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fimn-live.esite-lab.com%2Fhls%2Firaqia-sports-1.m3u8
-#EXTINF:-1 tvg-id="AlghadeerTV.iq@SD" tvg-logo="https://i.imgur.com/YPj6kXq.png" group-title="News",[2018ms] Alghadeer TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fsd343444.vodu.store%3A3356%2Flive%2FAlghadeer%2Findex.m3u8
-#EXTINF:-1 tvg-id="Channel8.iq@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png" group-title="News",[2054ms] Channel8 (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.channel8.com%2FChannel8-Kurdish%2Findex.fmp4.m3u8
-#EXTINF:-1 tvg-id="BeitolAbbasTVChannel.iq@SD" tvg-logo="https://i.imgur.com/s8PfUQy.png" group-title="Religious",[2059ms] BeitolAbbas TV Channel (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.beitolabbas.tv%2Flive%2Fbeitolabbastv.m3u8
-#EXTINF:-1 tvg-id="AmozhgaryTV.iq@SD" tvg-logo="https://i.imgur.com/sseqFsO.png" group-title="Religious",[2333ms] Amozhgary TV
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fapp-live.org%2Flive%2F3268334b%2Findex.m3u8
-#EXTINF:-1 tvg-id="MarjaeyatTVEnglish.iq@SD" tvg-logo="https://i.imgur.com/Dvf61Jp.png" group-title="Religious",[2603ms] Marjaeyat TV English (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivefa.marjaeyattv.com%2Fmtv_en%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="AlJanoubTV.iq@SD" tvg-logo="https://i.imgur.com/rxDh6W1.png" group-title="News",[2707ms] Al Janoub TV
+#EXTINF:-1 tvg-id="AlRasheedTV.iq@SD" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="General",[1887ms] Al Rasheed TV (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmedia1.livaat.com%2Fstatic%2FAL-RASHEED-HD%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AlawlaTV.iq@SD" tvg-logo="https://i.imgur.com/3Kv0t3X.png" group-title="General",[1915ms] Alawla TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.alawla.tv%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="AlJanoubTV.iq@SD" tvg-logo="https://i.imgur.com/rxDh6W1.png" group-title="News",[1987ms] Al Janoub TV
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.alissahost.net%2Fhls%2Ftest.m3u8
+#EXTINF:-1 tvg-id="AmozhgaryTV.iq@SD" tvg-logo="https://i.imgur.com/sseqFsO.png" group-title="Religious",[2161ms] Amozhgary TV
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fapp-live.org%2Flive%2F3268334b%2Findex.m3u8
+#EXTINF:-1 tvg-id="MarjaeyatTVArabic.iq@SD" tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="Religious",[2262ms] Marjaeyat TV Arabic (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flivefa.marjaeyattv.com%2Fmtv_ar%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ManuChat.iq@SD" tvg-logo="https://i.imgur.com/voyoljW.png" group-title="Undefined",[2356ms] Manu Chat
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvmi747311.contaboserver.net%2Fhls%2Flivetv.m3u8
+#EXTINF:-1 tvg-id="Alquran.iq@SD" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Religious",[2433ms] Alquran (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fktvlive.online%2Fstream%2Fhls%2Fch1.m3u8
+#EXTINF:-1 tvg-id="INews.iq@SD" tvg-logo="https://i.imgur.com/9lOuzHQ.png" group-title="News",[2721ms] I News (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive.i-news.tv%2Fhls%2Fstream.m3u8
