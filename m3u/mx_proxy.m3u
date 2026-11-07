@@ -1,154 +1,152 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ITVDeportes.mx@SD" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Entertainment;Sports",[606ms] ITV Deportes (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fthm-it-roku.otteravision.com%2Fthm%2Fit%2Fit.m3u8
-#EXTINF:-1 tvg-id="MultimediosBajio.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[609ms] Multimedios Bajio (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F5d4b0fec848918070128c8cb.m3u8
-#EXTINF:-1 tvg-id="MultimediosSaltillo.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[610ms] Multimedios Saltillo (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F5d5d51a4e9a40e25f4a0332c.m3u8
-#EXTINF:-1 tvg-id="MultimediosCiudadJuarez.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[619ms] Multimedios Ciudad Juarez (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F5d9e440d675235586a92be7f.m3u8
-#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[633ms] Multimedios Guadalajara (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="General",[676ms] Imagen TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Figd-it-runtime.otteravision.com%2Figd%2Fit%2Fit.m3u8
-#EXTINF:-1 tvg-id="PopcornCentral.mx@SD" tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Movies",[680ms] Popcorn Central (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Foly-ftvpc.otteravision.com%2Foly%2Fftvpc%2Fftvpc.m3u8
-#EXTINF:-1 tvg-id="JusticiaTV.mx@SD" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Legislative",[700ms] Justicia TV (Mexico) (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive-scjn.ovp-vivaro.digital%2Fovp-origin%2F638a22b47746d%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="UltraTVPuebla.mx@SD" tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="Undefined",[722ms] Ultra TV Puebla (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5e50264bd6766.streamlock.net%2Ftelemetrika2%2Fsmil%3Atelemetrika2.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx@SD" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="General",[733ms] TV Mar Puerto Vallarta (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca9af4645e15.streamlock.net%2Ftvmarvallarta%2Fvideotvmarvallarta%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVMarLosCabos.mx@SD" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="General",[741ms] TV Mar Los Cabos (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5fc584f3f19c9.streamlock.net%2Ftvmarloscabos%2Fsmil%3Atvmarloscabos.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Canal44.mx@SD" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Undefined",[745ms] Canal 44 (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5e50264bd6766.streamlock.net%2Fcanal442%2Fvideocanal442%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ExpresaTV.mx@SD" tvg-logo="https://i.imgur.com/kFVVGrg.png" group-title="General",[746ms] Expresa TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca9af4645e15.streamlock.net%2Fteleradio%2Fsmil%3Ateleradio.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="IcrtvColima.mx@SD" tvg-logo="https://i.imgur.com/iUks0ot.png" group-title="Legislative",[751ms] Icrtv Colima (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5fc584f3f19c9.streamlock.net%2Ficrtvcolima%2Fsmil%3Aicrtvcolima.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="XHZHZTDT.mx@SD" tvg-logo="https://i.imgur.com/RxhABeK.png" group-title="General",[753ms] XHZHZ-TDT (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5f2c1b0d880e5.streamlock.net%2Fzacatecas%2Fvideozacatecas%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVMarLaPaz.mx@SD" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="General",[755ms] TV Mar La Paz (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5fc584f3f19c9.streamlock.net%2Ftvmarlapaz%2Fsmil%3Atvmarlapaz.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVCuatro42.mx@SD" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Culture",[765ms] TV Cuatro 4.2 (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5f2c1b0d880e5.streamlock.net%2Ftv42%2Ftv42.smil%2F.m3u8
-#EXTINF:-1 tvg-id="AntenaTV.mx@SD" tvg-logo="https://i.imgur.com/1sAgSME.png" group-title="General",[766ms] Antena TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca9af4645e15.streamlock.net%2Fgrd%2Fvideogrd%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="MultimediosPuebla.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[773ms] Multimedios Puebla (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-id="TVPCuliacan.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",[782ms] TVP Culiacan (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Fgpacifico1%2Fsmil%3Agpculiacan.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="UMTV.mx@SD" tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="Undefined",[788ms] UMTV (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F60417ddeaf0d9.streamlock.net%2Fmontemorelos%2Fvideomontemorelos%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Canal22Nacional.mx@SD" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Undefined",[789ms] Canal 22 Nacional (720p) [Geo-blocked]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5fc584f3f19c9.streamlock.net%2Fcanal22%2Fsmil%3Acanal22.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="AztecaUno.mx@Plus1" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",[793ms] Azteca Uno +1 (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fazt-oo.otteravision.com%2Fout%2Fv1%2Fda53d7d388be437e92bf8f464018eb48%2Findex.m3u8
-#EXTINF:-1 tvg-id="AMXNoticias.mx@SD" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",[794ms] AMX Noticias (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5e50264bd6766.streamlock.net%2Fmexiquense2%2Fvideomexiquense2%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVUG.mx@SD" tvg-logo="https://i.imgur.com/pxkDpTU.jpeg" group-title="Education",[796ms] TV UG (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Funiversidadgto%2Fvideouniversidadgto%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="PresumiendoMexico.mx@SD" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="Culture",[811ms] Presumiendo Mexico (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F60417ddeaf0d9.streamlock.net%2Ftelemetrika%2Fsmil%3Atelemetrika.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="General",[845ms] 8NTV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F60417ddeaf0d9.streamlock.net%2Fntv%2Fvideontv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVLobo.mx@SD" tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="Undefined",[858ms] TV Lobo (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca9af4645e15.streamlock.net%2Flobodurango%2Fvideolobodurango%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="NueveTV.mx@SD" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="General",[869ms] Nueve TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca9af4645e15.streamlock.net%2Fnuevetv%2Fvideonuevetv%2F.m3u8
-#EXTINF:-1 tvg-id="MexiquenseTV.mx@SD" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="General",[870ms] Mexiquense TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5e50264bd6766.streamlock.net%2Fmexiquense%2Fvideomexiquense%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVPLosMochis.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",[897ms] TVP Los Mochis (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Fgpacifico2%2Fmochis.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVPMazatlan.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",[900ms] TVP Mazatlan (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Fgpacifico4%2Fsmil%3Amazatlan.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="WeatherSpy.mx@SD" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",[902ms] WeatherSpy (Mexico) (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjukin-weatherspy-2-mx.samsung.wurl.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="Kids",[902ms] El Chavo TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive20.bozztv.com%2Fgiatvplayout7%2Fgiatv-211465%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="LoboTV.mx@SD" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="Music",[905ms] Lobo TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Ftvlobo%2Fvideotvlobo%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Canal10Durango.mx@SD" tvg-logo="https://i.imgur.com/H34quHQ.png" group-title="Undefined",[911ms] Canal 10 Durango (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5e50264bd6766.streamlock.net%2Fcanal10durango%2Fvideocanal10durango%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="CBTVMichoacan.mx@SD" tvg-logo="https://i.imgur.com/oFeCIeD.png" group-title="General",[935ms] CB TV Michoacan (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Fcbtv%2Fvideoc3b3t3v3%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="CanalParlamentodelCongresodeJalisco.mx@SD" tvg-logo="https://i.imgur.com/fLpkHfZ.png" group-title="Legislative",[943ms] Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F60417ddeaf0d9.streamlock.net%2Fsrtc%2Fsmil%3Asrtc.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="MultimediosLaguna.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[947ms] Multimedios Laguna (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MultimediosLaguna.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[567ms] Multimedios Laguna (720p) [Not 24/7]
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV.us@SD" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entertainment",[962ms] Estrella TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Festrellatv-oando.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Canal26.mx@SD" tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="Undefined",[964ms] Canal 26 (Mexico) (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5fe2654d6127d.streamlock.net%2Ftelemetrika3%2F_definst_%2Fvideotelemetrika3%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="XHIJTDT.mx@SD" tvg-logo="https://i.imgur.com/oRudPXX.png" group-title="General",[967ms] XHIJ-TDT (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5e50264bd6766.streamlock.net%2Fcanal44%2Fvideocanal44%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Teleritmo.mx@SD" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Undefined",[969ms] Teleritmo (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="PSNCanal452.mx@SD" tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="News",[984ms] PSN Canal 45.2 (288p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fsrspsn2.live%2Flive%2Flivestream.m3u8
-#EXTINF:-1 tvg-id="TRCTV.mx@SD" tvg-logo="https://i.imgur.com/W4xwCdl.png" group-title="Undefined",[999ms] TRC TV (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5fe2654d6127d.streamlock.net%2Ftrc%2Fvideotrc%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Canal33Tijuana.mx@SD" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="General;News",[1003ms] Canal 33 Tijuana (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5f2c1b0d880e5.streamlock.net%2Fcanal33tijuana%2Fvideocanal33tijuana%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="XHTTGTDT.mx@SD" tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="General",[1006ms] XHTTG-TDT (720p)
+#EXTINF:-1 tvg-id="MultimediosPuebla.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[592ms] Multimedios Puebla (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="General",[594ms] Imagen TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Figd-it-runtime.otteravision.com%2Figd%2Fit%2Fit.m3u8
+#EXTINF:-1 tvg-id="PopcornCentral.mx@SD" tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Movies",[610ms] Popcorn Central (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Foly-ftvpc.otteravision.com%2Foly%2Fftvpc%2Fftvpc.m3u8
+#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[624ms] Multimedios Guadalajara (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-id="ITVDeportes.mx@SD" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Entertainment;Sports",[632ms] ITV Deportes (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fthm-it-roku.otteravision.com%2Fthm%2Fit%2Fit.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.mx@SD" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Legislative",[639ms] Justicia TV (Mexico) (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive-scjn.ovp-vivaro.digital%2Fovp-origin%2F638a22b47746d%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx@Plus1" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",[668ms] Azteca Uno +1 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fazt-oo.otteravision.com%2Fout%2Fv1%2Fda53d7d388be437e92bf8f464018eb48%2Findex.m3u8
+#EXTINF:-1 tvg-id="MultimediosCiudadJuarez.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[713ms] Multimedios Ciudad Juarez (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F5d9e440d675235586a92be7f.m3u8
+#EXTINF:-1 tvg-id="XHTTGTDT.mx@SD" tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="General",[715ms] XHTTG-TDT (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca9af4645e15.streamlock.net%2Fchiapas%2Fvideochiapas%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",[1007ms] MyTime Movie Network (Mexico) (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fappletree-mytime-samsungmexico.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="EstrellaGames.us@SD" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entertainment;Family",[1045ms] Estrella Games (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Festrella-games-oando.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="PSN.mx@SD" tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="Entertainment;News",[1061ms] PSN (288p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fsrspsn.live%2Flive%2Flivestream.m3u8
-#EXTINF:-1 tvg-id="MonteMaria.mx@SD" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="Religious",[1093ms] Monte Maria (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca9af4645e15.streamlock.net%2Fmontemaria%2Fvideomontemaria%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TELE6.bo@SD" tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="General",[1178ms] TELE 6 (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flbgo.bozztv.com%2Fssh101%2Fssh101%2Ftele6%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVPObregon.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",[1202ms] TVP Obregon (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Fgpacifico3%2Fobregon.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TeleYucatan.mx@SD" tvg-logo="https://i.imgur.com/XkpDSmO.png" http-referrer="https://www.teleyucatan.gob.mx/" group-title="Undefined",[1244ms] Tele Yucatan (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx@SD" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="General",[716ms] TV Mar Puerto Vallarta (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca9af4645e15.streamlock.net%2Ftvmarvallarta%2Fvideotvmarvallarta%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MultimediosSaltillo.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[717ms] Multimedios Saltillo (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F5d5d51a4e9a40e25f4a0332c.m3u8
+#EXTINF:-1 tvg-id="XHIJTDT.mx@SD" tvg-logo="https://i.imgur.com/oRudPXX.png" group-title="General",[718ms] XHIJ-TDT (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5e50264bd6766.streamlock.net%2Fcanal44%2Fvideocanal44%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Canal10Durango.mx@SD" tvg-logo="https://i.imgur.com/H34quHQ.png" group-title="Undefined",[728ms] Canal 10 Durango (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5e50264bd6766.streamlock.net%2Fcanal10durango%2Fvideocanal10durango%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="IcrtvColima.mx@SD" tvg-logo="https://i.imgur.com/iUks0ot.png" group-title="Legislative",[733ms] Icrtv Colima (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5fc584f3f19c9.streamlock.net%2Ficrtvcolima%2Fsmil%3Aicrtvcolima.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="AntenaTV.mx@SD" tvg-logo="https://i.imgur.com/1sAgSME.png" group-title="General",[738ms] Antena TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca9af4645e15.streamlock.net%2Fgrd%2Fvideogrd%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Canal22Nacional.mx@SD" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Undefined",[742ms] Canal 22 Nacional (720p) [Geo-blocked]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5fc584f3f19c9.streamlock.net%2Fcanal22%2Fsmil%3Acanal22.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVLobo.mx@SD" tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="Undefined",[746ms] TV Lobo (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca9af4645e15.streamlock.net%2Flobodurango%2Fvideolobodurango%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="NueveTV.mx@SD" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="General",[748ms] Nueve TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca9af4645e15.streamlock.net%2Fnuevetv%2Fvideonuevetv%2F.m3u8
+#EXTINF:-1 tvg-id="UltraTVPuebla.mx@SD" tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="Undefined",[754ms] Ultra TV Puebla (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5e50264bd6766.streamlock.net%2Ftelemetrika2%2Fsmil%3Atelemetrika2.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVUG.mx@SD" tvg-logo="https://i.imgur.com/pxkDpTU.jpeg" group-title="Education",[757ms] TV UG (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Funiversidadgto%2Fvideouniversidadgto%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="UMTV.mx@SD" tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="Undefined",[759ms] UMTV (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F60417ddeaf0d9.streamlock.net%2Fmontemorelos%2Fvideomontemorelos%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVPCuliacan.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",[766ms] TVP Culiacan (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Fgpacifico1%2Fsmil%3Agpculiacan.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="CBTVMichoacan.mx@SD" tvg-logo="https://i.imgur.com/oFeCIeD.png" group-title="General",[781ms] CB TV Michoacan (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Fcbtv%2Fvideoc3b3t3v3%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="CanalParlamentodelCongresodeJalisco.mx@SD" tvg-logo="https://i.imgur.com/fLpkHfZ.png" group-title="Legislative",[788ms] Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F60417ddeaf0d9.streamlock.net%2Fsrtc%2Fsmil%3Asrtc.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVPLosMochis.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",[789ms] TVP Los Mochis (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Fgpacifico2%2Fmochis.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Teleritmo.mx@SD" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Undefined",[793ms] Teleritmo (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="PresumiendoMexico.mx@SD" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="Culture",[795ms] Presumiendo Mexico (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F60417ddeaf0d9.streamlock.net%2Ftelemetrika%2Fsmil%3Atelemetrika.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Canal33Tijuana.mx@SD" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="General;News",[797ms] Canal 33 Tijuana (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5f2c1b0d880e5.streamlock.net%2Fcanal33tijuana%2Fvideocanal33tijuana%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us@Mexico" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",[823ms] The Pet Collective Mexico (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fthe-pet-collective-international-mx.samsung.wurl.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVMarLosCabos.mx@SD" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="General",[826ms] TV Mar Los Cabos (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5fc584f3f19c9.streamlock.net%2Ftvmarloscabos%2Fsmil%3Atvmarloscabos.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVMarLaPaz.mx@SD" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="General",[834ms] TV Mar La Paz (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5fc584f3f19c9.streamlock.net%2Ftvmarlapaz%2Fsmil%3Atvmarlapaz.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="LoboTV.mx@SD" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="Music",[862ms] Lobo TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Ftvlobo%2Fvideotvlobo%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ExpresaTV.mx@SD" tvg-logo="https://i.imgur.com/kFVVGrg.png" group-title="General",[873ms] Expresa TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca9af4645e15.streamlock.net%2Fteleradio%2Fsmil%3Ateleradio.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TeleYucatan.mx@SD" tvg-logo="https://i.imgur.com/XkpDSmO.png" http-referrer="https://www.teleyucatan.gob.mx/" group-title="Undefined",[875ms] Tele Yucatan (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://www.teleyucatan.gob.mx/
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Fteleyucatan%2Fvideoteleyucatan%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="GikTVMX.mx@SD" tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Animation;Culture;Entertainment",[1264ms] GikTVMX (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fpistream.ddns.net%2Fhls%2Fstream.m3u8
-#EXTINF:-1 tvg-id="UnisonTV.mx@SD" tvg-logo="https://i.imgur.com/7ixWRId.png" group-title="Education",[1281ms] Unison TV (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.unison.mx%2Fhls%2Funisontvatem.m3u8
-#EXTINF:-1 tvg-id="AlcanceTV.mx@SD" tvg-logo="https://i.imgur.com/5nYjRlb.png" group-title="Religious",[1303ms] Alcance TV (Mexico) (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5bf8041cb3fed.streamlock.net%2FAlcanceTV%2FAlcanceTV%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="RTQQueretaro.mx@SD" tvg-logo="https://i.imgur.com/RRckCvf.png" group-title="Undefined",[1334ms] RTQ Queretaro (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F59d39900ebfb8.streamlock.net%2Frytqrolive%2Frytqrolive%2Fchunklist.m3u8
-#EXTINF:-1 tvg-id="UAATV.mx@SD" tvg-logo="https://i.imgur.com/brCSiGh.png" group-title="Culture;Education;Public",[1399ms] UAA TV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5fe2654d6127d.streamlock.net%2Fuaa2%2Fvideouaa2%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="EstrellaNews.us@SD" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="News",[1435ms] Estrella News (1080p)
+#EXTINF:-1 tvg-id="AMXNoticias.mx@SD" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",[881ms] AMX Noticias (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5e50264bd6766.streamlock.net%2Fmexiquense2%2Fvideomexiquense2%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.mx@SD" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",[894ms] WeatherSpy (Mexico) (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjukin-weatherspy-2-mx.samsung.wurl.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",[914ms] MyTime Movie Network (Mexico) (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fappletree-mytime-samsungmexico.amagi.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="News",[938ms] Estrella News (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Festrella-news-oando.amagi.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ThePetCollective.us@Mexico" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",[1535ms] The Pet Collective Mexico (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fthe-pet-collective-international-mx.samsung.wurl.tv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TeleUV.mx@SD" tvg-logo="https://i.imgur.com/8MdUH69.jpeg" group-title="Education",[1607ms] Tele UV [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F58fe359775f31.streamlock.net%2Ftvuv%2FmyStream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="Capital21.mx@SD" tvg-logo="https://i.imgur.com/8ign49i.png" group-title="Culture;Entertainment",[1642ms] Capital 21 (1080p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvideo.cdmx.gob.mx%2Fredes%2Fstream.m3u8
-#EXTINF:-1 tvg-id="CanalOnce.mx@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png" group-title="Undefined",[1705ms] Canal Once (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvivo.canaloncelive.tv%2Fsecurepkgr3%2Foncemexico%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TVBUAP.mx@SD" tvg-logo="https://i.imgur.com/hHrIn0r.png" group-title="Education",[1761ms] TV BUAP (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftvenvivo.buap.mx%2Flivestream%2Fstream%2Findex.m3u8
-#EXTINF:-1 tvg-id="CreaLaTV.mx@SD" tvg-logo="https://i.imgur.com/Bnjj29f.png" group-title="General",[1770ms] CreaLaTV (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.crealatv.com%2Flive.m3u8
-#EXTINF:-1 tvg-id="MultimediosCDMX.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[1813ms] Multimedios CDMX (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="SICOMTelevision.mx@XHPBZCTDT" tvg-logo="https://i.imgur.com/dbJKErB.png" group-title="Undefined",[1857ms] SICOM Television XHPBZC-TDT (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5d0d1d7a6be9e.streamlock.net%2Fsicom%2Fcanal1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",[1922ms] ADN 40 (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="MultimediosMonterrey.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[1945ms] Multimedios Monterrey (720p) [Not 24/7]
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="XHFGLTDT.mx@SD" tvg-logo="https://i.imgur.com/9ZXCQvy.png" group-title="General",[2094ms] XHFGL-TDT (1080p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.ontvmx.com%2Fontv%2FWn3jgo4UYNSmwRDIev%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="XHGVTDT.mx@SD" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Undefined",[2219ms] XHGV-TDT (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="EstrellaGames.us@SD" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entertainment;Family",[949ms] Estrella Games (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Festrella-games-oando.amagi.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="General",[952ms] 8NTV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F60417ddeaf0d9.streamlock.net%2Fntv%2Fvideontv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="UAATV.mx@SD" tvg-logo="https://i.imgur.com/brCSiGh.png" group-title="Culture;Education;Public",[955ms] UAA TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5fe2654d6127d.streamlock.net%2Fuaa2%2Fvideouaa2%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TRCTV.mx@SD" tvg-logo="https://i.imgur.com/W4xwCdl.png" group-title="Undefined",[970ms] TRC TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5fe2654d6127d.streamlock.net%2Ftrc%2Fvideotrc%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Canal44.mx@SD" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Undefined",[981ms] Canal 44 (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5e50264bd6766.streamlock.net%2Fcanal442%2Fvideocanal442%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Canal26.mx@SD" tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="Undefined",[993ms] Canal 26 (Mexico) (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5fe2654d6127d.streamlock.net%2Ftelemetrika3%2F_definst_%2Fvideotelemetrika3%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entertainment",[996ms] Estrella TV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Festrellatv-oando.amagi.tv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="PSNCanal452.mx@SD" tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="News",[1003ms] PSN Canal 45.2 (288p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fsrspsn2.live%2Flive%2Flivestream.m3u8
+#EXTINF:-1 tvg-id="MexiquenseTV.mx@SD" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="General",[1064ms] Mexiquense TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5e50264bd6766.streamlock.net%2Fmexiquense%2Fvideomexiquense%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="PSN.mx@SD" tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="Entertainment;News",[1066ms] PSN (288p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fsrspsn.live%2Flive%2Flivestream.m3u8
+#EXTINF:-1 tvg-id="XHZHZTDT.mx@SD" tvg-logo="https://i.imgur.com/RxhABeK.png" group-title="General",[1077ms] XHZHZ-TDT (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5f2c1b0d880e5.streamlock.net%2Fzacatecas%2Fvideozacatecas%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVPObregon.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",[1093ms] TVP Obregon (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Fgpacifico3%2Fobregon.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="UnisonTV.mx@SD" tvg-logo="https://i.imgur.com/7ixWRId.png" group-title="Education",[1104ms] Unison TV (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.unison.mx%2Fhls%2Funisontvatem.m3u8
+#EXTINF:-1 tvg-id="GikTVMX.mx@SD" tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Animation;Culture;Entertainment",[1237ms] GikTVMX (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fpistream.ddns.net%2Fhls%2Fstream.m3u8
+#EXTINF:-1 tvg-id="AlcanceTV.mx@SD" tvg-logo="https://i.imgur.com/5nYjRlb.png" group-title="Religious",[1273ms] Alcance TV (Mexico) (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5bf8041cb3fed.streamlock.net%2FAlcanceTV%2FAlcanceTV%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="RTQQueretaro.mx@SD" tvg-logo="https://i.imgur.com/RRckCvf.png" group-title="Undefined",[1300ms] RTQ Queretaro (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F59d39900ebfb8.streamlock.net%2Frytqrolive%2Frytqrolive%2Fchunklist.m3u8
+#EXTINF:-1 tvg-id="XHGVTDT.mx@SD" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Undefined",[1308ms] XHGV-TDT (360p) [Not 24/7]
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca9af4645e15.streamlock.net%2Frtv%2Fvideortv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",[2412ms] TeleFormula (720p)
+#EXTINF:-1 tvg-id="SICOMTelevision.mx@XHPBZCTDT" tvg-logo="https://i.imgur.com/dbJKErB.png" group-title="Undefined",[1382ms] SICOM Television XHPBZC-TDT (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5d0d1d7a6be9e.streamlock.net%2Fsicom%2Fcanal1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVCuatro42.mx@SD" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Culture",[1454ms] TV Cuatro 4.2 (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5f2c1b0d880e5.streamlock.net%2Ftv42%2Ftv42.smil%2F.m3u8
+#EXTINF:-1 tvg-id="MultimediosBajio.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[1623ms] Multimedios Bajio (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F5d4b0fec848918070128c8cb.m3u8
+#EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",[1711ms] TeleFormula (720p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="TeleplaySureste.mx@SD" tvg-logo="https://i.imgur.com/MeV5N08.png" group-title="Entertainment",[2445ms] Teleplay Sureste (720p)
-https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fplayer.tvstream.mx%2Flivestream%2Fteleplay%2Flivehd%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="VBMediaTV.mx@SD" tvg-logo="https://i.imgur.com/5qlVblr.png" group-title="Entertainment",[2573ms] VB Media TV (1080p)
+#EXTINF:-1 tvg-id="XHFGLTDT.mx@SD" tvg-logo="https://i.imgur.com/9ZXCQvy.png" group-title="General",[1721ms] XHFGL-TDT (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.ontvmx.com%2Fontv%2FWn3jgo4UYNSmwRDIev%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="MonteMaria.mx@SD" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="Religious",[1722ms] Monte Maria (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca9af4645e15.streamlock.net%2Fmontemaria%2Fvideomontemaria%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="CreaLaTV.mx@SD" tvg-logo="https://i.imgur.com/Bnjj29f.png" group-title="General",[1759ms] CreaLaTV (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstream.crealatv.com%2Flive.m3u8
+#EXTINF:-1 tvg-id="TVPMazatlan.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",[1785ms] TVP Mazatlan (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2F5ca3e84a76d30.streamlock.net%2Fgpacifico4%2Fsmil%3Amazatlan.smil%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="TVBUAP.mx@SD" tvg-logo="https://i.imgur.com/hHrIn0r.png" group-title="Education",[1811ms] TV BUAP (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Ftvenvivo.buap.mx%2Flivestream%2Fstream%2Findex.m3u8
+#EXTINF:-1 tvg-id="MultimediosCDMX.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[1889ms] Multimedios CDMX (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="VBMediaTV.mx@SD" tvg-logo="https://i.imgur.com/5qlVblr.png" group-title="Entertainment",[1897ms] VB Media TV (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcapomo01-enitv.eninetworks.com%2Flocales_vbmedia_publico%2Findex.m3u8
-#EXTINF:-1 tvg-id="ZAZ.mx@SD" tvg-logo="" group-title="Entertainment",[2580ms] ZAZ (1080p)
+#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="Kids",[1920ms] El Chavo TV (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Flive20.bozztv.com%2Fgiatvplayout7%2Fgiatv-211465%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ZAZ.mx@SD" tvg-logo="" group-title="Entertainment",[1987ms] ZAZ (1080p)
 https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fcloud.fastchannel.es%2Fmic%2Fmanifiest%2Fhls%2Fzaztv%2Fzaztv.m3u8
+#EXTINF:-1 tvg-id="MilenioTelevision.mx@SD" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="News",[2013ms] Milenio Television (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fjmp2.uk%2Fplu-652e922db4b047000825f975.m3u8
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",[2194ms] Multimedios Monterrey (720p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="CanalOnce.mx@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png" group-title="Undefined",[2300ms] Canal Once (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvivo.canaloncelive.tv%2Fsecurepkgr3%2Foncemexico%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",[2488ms] ADN 40 (720p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",[2777ms] TUDN (Mexico) (1080p)
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fstreaming.alwaysdata.net%2Ftudn.php
+#EXTINF:-1 tvg-id="Capital21.mx@SD" tvg-logo="https://i.imgur.com/8ign49i.png" group-title="Culture;Entertainment",[2937ms] Capital 21 (1080p) [Not 24/7]
+https://fc.jymm5820.dpdns.org/proxy?url=https%3A%2F%2Fvideo.cdmx.gob.mx%2Fredes%2Fstream.m3u8
